@@ -8,9 +8,6 @@ import { useUserAuth } from '../../context/UserAuthContext';
 // import sgMail from '@sendgrid/mail';
 
 
-// sgMail.setApiKey('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');
-
-
 function JSONDataDisplay() {
   const [searchTerm, setSearchTerm] = useState('');
   const [subscribedClasses, setSubscribedClasses] = useState([]);
