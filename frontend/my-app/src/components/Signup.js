@@ -5,7 +5,7 @@ import { Button } from "react-bootstrap";
 import { useUserAuth } from "../context/UserAuthContext";
 
 const Signup = () => {
-  const [name, setName] = useState("");
+  // const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [error, setError] = useState("");
   const [password, setPassword] = useState("");
@@ -41,7 +41,7 @@ const Signup = () => {
               <Form.Control
                 type="name"
                 placeholder="Preferred Name"
-                onChange={(e) => setName(e.target.value)}
+                // onChange={(e) => setName(e.target.value)}
               />
             </Form.Group>
 
@@ -66,11 +66,11 @@ const Signup = () => {
                 Sign up
               </Button>
             </div>
+            <div className="p-4 box mt-3 text-center">
+              Already have an account? <Link to="/">Log In</Link>
+            </div>
           </Form>
         </div>
-      </div>
-      <div className="p-4 box mt-3 text-center">
-        Already have an account? <Link to="/">Log In</Link>
       </div>
     </>
   );
