@@ -1,5 +1,5 @@
 import React from "react";
-import { Navbar, Button } from "react-bootstrap";
+import { Navbar } from "react-bootstrap";
 import { Link, useLocation } from "react-router-dom";
 import { useUserAuth } from "../context/UserAuthContext";
 import { useNavigate } from "react-router";
@@ -24,10 +24,16 @@ const CustomNavbar = () => {
           EnrollBadger
         </Navbar.Brand>
         {isHomePage && (
-          <div className="ms-auto" style={{ paddingRight: "10px" }}>
-            <Button variant="primary" onClick={handleLogout}>
-              Log out
-            </Button>
+          <div className="ms-auto" style={{ paddingRight: "10px", display: "flex", alignItems: "center" }}>
+            <span style={{ marginRight: "10px" }}>
+              <Link to="/about" style={{ color: "white", textDecoration: "none"}}>About</Link>
+            </span>
+            <span style={{ marginRight: "10px" }}>
+              <Link to="/help" style={{ color: "white", textDecoration: "none"}}>Help</Link>
+            </span>
+            <button className="btn btn-primary" onClick={handleLogout}>
+              Log Out
+            </button>
           </div>
         )}
       </Navbar>
@@ -36,5 +42,3 @@ const CustomNavbar = () => {
 };
 
 export default CustomNavbar;
-
-//bg="dark" variant="dark"

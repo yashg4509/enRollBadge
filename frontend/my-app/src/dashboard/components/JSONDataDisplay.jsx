@@ -5,6 +5,11 @@ import JSONData from './test.json';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faChevronDown, faChevronUp } from '@fortawesome/free-solid-svg-icons';
 import { useUserAuth } from '../../context/UserAuthContext';
+// import sgMail from '@sendgrid/mail';
+
+
+// sgMail.setApiKey('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');
+
 
 function JSONDataDisplay() {
   const [searchTerm, setSearchTerm] = useState('');
@@ -35,6 +40,17 @@ function JSONDataDisplay() {
       pauseOnHover: false,
       draggable: false,
     });
+
+    // const emailContent = `Subscribed to class: ${className}`;
+    // const msg = {
+    //   to: user.email,
+    //   from: 'ysgupta@wisc.edu',
+    //   subject: 'Subscription Confirmation',
+    //   text: emailContent,
+    // };
+    // sgMail.send(msg)
+    //   .then(() => console.log('Email sent'))
+    //   .catch((error) => console.error(error));
 
     const updatedSubscribedClasses = [...subscribedClasses, className];
     setSubscribedClasses(updatedSubscribedClasses);
