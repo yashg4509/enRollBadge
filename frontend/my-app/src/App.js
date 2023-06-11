@@ -1,5 +1,6 @@
 import { Container, Row, Col, Navbar } from "react-bootstrap";
 import { Link, Routes, Route } from "react-router-dom";
+
 import Login from "./components/Login";
 import Signup from "./components/Signup";
 import ProtectedRoute from "./components/ProtectedRoute";
@@ -24,6 +25,7 @@ function App2() {
                   element={
                     <ProtectedRoute>
                       <App />
+
                     </ProtectedRoute>
                   }
                 />

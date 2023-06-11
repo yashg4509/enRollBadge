@@ -5,6 +5,7 @@ import { Button } from "react-bootstrap";
 import { useUserAuth } from "../context/UserAuthContext";
 
 const Signup = () => {
+  const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [error, setError] = useState("");
   const [password, setPassword] = useState("");
@@ -36,6 +37,14 @@ const Signup = () => {
           <h2 className="mb-5">Badger Signup</h2>
           {error && <Alert variant="danger">{error}</Alert>}
           <Form onSubmit={handleSubmit}>
+            <Form.Group className="mb-3" controlId="formBasicName">
+              <Form.Control
+                type="name"
+                placeholder="Preferred Name"
+                onChange={(e) => setName(e.target.value)}
+              />
+            </Form.Group>
+
             <Form.Group className="mb-3" controlId="formBasicEmail">
               <Form.Control
                 type="email"
