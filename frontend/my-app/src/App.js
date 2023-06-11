@@ -1,12 +1,13 @@
 import { Container, Row, Col, Navbar } from "react-bootstrap";
-import { Link, useNavigate, Routes, Route } from "react-router-dom";
-import Home from "./components/Home";
+import { Link, Routes, Route } from "react-router-dom";
+
 import Login from "./components/Login";
 import Signup from "./components/Signup";
 import ProtectedRoute from "./components/ProtectedRoute";
 import { UserAuthContextProvider } from "./context/UserAuthContext";
+import App from "./dashboard/App";
 
-function App() {
+function App2() {
   return (
     <>
       <Navbar bg="dark" variant="dark">
@@ -14,16 +15,17 @@ function App() {
           EnrollBadger
         </Navbar.Brand>
       </Navbar>
-      <Container style={{ width: "400px" }}>
+      <Container>
         <Row>
           <Col>
             <UserAuthContextProvider>
               <Routes>
                 <Route
-                  path="/home" //look down u j need to change that and dont forget to import
+                  path="/home"
                   element={
                     <ProtectedRoute>
-                      <Home />
+                      <App />
+
                     </ProtectedRoute>
                   }
                 />
@@ -38,4 +40,4 @@ function App() {
   );
 }
 
-export default App;
+export default App2;
