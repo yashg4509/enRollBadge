@@ -1,0 +1,34 @@
+[
+  {
+    "classId": "1abc234",
+    "name": "COMP SCI 400"
+  },
+  {
+    "classId": "2def567",
+    "name": "POLI SCI 400"
+  },
+  {
+    "classId": "3ghi890",
+    "name": "COMP SCI 354"
+  },
+  {
+    "classId": "4jkl123",
+    "name": "ENGL 140"
+  },
+  {
+    "classId": "5mno456",
+    "name": "ENTOM 201"
+  },
+  {
+    "classId": "6pqr789",
+    "name": "ASIAN AM 160"
+  },
+  {
+    "classId": "7stu012",
+    "name": "PHILOS 101"
+  },
+  {
+    "classId": "8vwx345",
+    "name": "COMP SCI 252"
+  }
+]
