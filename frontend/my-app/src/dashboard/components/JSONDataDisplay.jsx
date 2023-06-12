@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faChevronDown, faChevronUp } from '@fortawesome/free-solid-svg-icons';
 import { useUserAuth } from '../../context/UserAuthContext';
 // import sgMail from '@sendgrid/mail';
-
+import { useNavigate } from 'react-router-dom';
 
 // sgMail.setApiKey('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');
 
@@ -18,7 +18,15 @@ function JSONDataDisplay() {
 
   const { logOut, user } = useUserAuth();
 
+  const navigate = useNavigate();
+
   const handleSubscribe = (className) => {
+
+    if (!user) {
+      navigate('/login'); // Redirect to the login page
+      return;
+    }
+  
   
     // if (subscribedClasses.includes(className)) {
     //   toast.success(`Already subscribed to class: ${className}`, {
@@ -65,6 +73,12 @@ function JSONDataDisplay() {
   };
 
   const handleUnsubscribe = (className) => {
+
+    if (!user) {
+      navigate('/login'); // Redirect to the login page
+      return;
+    }
+    
     const updatedSubscribedClasses = subscribedClasses.filter((c) => c !== className);
     setSubscribedClasses(updatedSubscribedClasses);
 

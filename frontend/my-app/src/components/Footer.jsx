@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './footer.css';
-import { FaGithub } from 'react-icons/fa';
+import { FaGithub, FaHeart } from 'react-icons/fa';
 
 
 function Footer() {
@@ -12,6 +12,7 @@ function Footer() {
   ];
 
   const githubLink = 'https://github.com/yashg4509/UWMadisonCourseNotif';
+  const donateLink = 'https://fundly.com/uw-madison-course-notification';
 
   const getLastCommit = async () => {
     try {
@@ -67,14 +68,19 @@ function Footer() {
             </a>
           ))}
         </div>
-        <div className="github">
-        <a className="github-button" href={githubLink} target="_blank" rel="noopener noreferrer">
-         <span className="github-icon">
-            <FaGithub />
-        </span>
-        <span className="github-text">GitHub</span>
-        </a>
-
+        <div className="footer-buttons my-4">
+          <a className="github-button" href={githubLink} target="_blank" rel="noopener noreferrer">
+            <span className="github-icon">
+              <FaGithub />
+            </span>
+            <span className="github-text">GitHub</span>
+          </a>
+          <a className="donate-button orange" href={donateLink} target="_blank" rel="noopener noreferrer">
+            <span className="donate-icon">
+              <FaHeart />
+            </span>
+            Donate
+          </a>
         </div>
         <div className="footer-statement">Unaffiliated with UW Madison</div>
         <div className="footer-last-updated">{lastCommitInfo}</div>

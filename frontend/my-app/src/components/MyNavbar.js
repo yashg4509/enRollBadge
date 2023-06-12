@@ -6,39 +6,70 @@ import { useNavigate } from "react-router";
 
 const CustomNavbar = () => {
   const location = useLocation();
-  const { logOut } = useUserAuth();
+  const { logOut, user } = useUserAuth();
   const navigate = useNavigate();
   const handleLogout = async () => {
     try {
       await logOut();
       navigate("/");
+      window.alert("You have been logged out.");
     } catch (error) {
       console.log(error.message);
     }
   };
-  const isHomePage = location.pathname === "/home";
+
   return (
     <>
       <Navbar bg="dark" variant="dark">
-        <Navbar.Brand as={Link} to="/home" style={{ paddingLeft: "10px" }}>
+        <Navbar.Brand as={Link} to="/" style={{ paddingLeft: "10px" }}>
           EnrollBadger
         </Navbar.Brand>
-        {isHomePage && (
-          <div className="ms-auto" style={{ paddingRight: "10px", display: "flex", alignItems: "center" }}>
-            <span style={{ marginRight: "10px" }}>
-              <Link to="/about" style={{ color: "white", textDecoration: "none"}}>About</Link>
-            </span>
-            <span style={{ marginRight: "10px" }}>
-              <Link to="/help" style={{ color: "white", textDecoration: "none"}}>Help</Link>
-            </span>
-            <button className="btn btn-primary" onClick={handleLogout}>
+        <div
+          className="ms-auto"
+          style={{
+            paddingRight: "10px",
+            display: "flex",
+            alignItems: "center",
+          }}
+        >
+          <span style={{ marginRight: "10px" }}>
+            <Link
+              to="/about"
+              style={{ color: "white", textDecoration: "none" }}
+            >
+              About
+            </Link>
+          </span>
+          <span style={{ marginRight: "10px" }}>
+            <Link
+              to="/help"
+              style={{ color: "white", textDecoration: "none" }}
+            >
+              Help
+            </Link>
+          </span>
+          {user ? (
+            <button
+              className="btn btn-primary"
+              onClick={handleLogout}
+              style={{ marginLeft: "10px" }}
+            >
               Log Out
             </button>
-          </div>
-        )}
+          ) : (
+            <Link
+              to="/login"
+              className="btn btn-primary"
+              style={{ marginLeft: "10px", textDecoration: "none" }}
+            >
+              Log In
+            </Link>
+          )}
+        </div>
       </Navbar>
     </>
   );
 };
 
 export default CustomNavbar;
+
