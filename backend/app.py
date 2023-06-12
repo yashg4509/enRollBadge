@@ -62,8 +62,11 @@ def signUpClasses():
         # gets the equivalent classes unique IDs
         class_ids = []
         for aclass in classes:
-            cursor.execute("SELECT * FROM CLASSES WHERE CLASS_NAME = ?", (aclass,))
-            class_ids.append(cursor.fetchone()[0])
+            try: # checks to ensure class does exist
+                cursor.execute("SELECT * FROM CLASSES WHERE CLASS_NAME = ?", (aclass,))
+                class_ids.append(cursor.fetchone()[0])
+            except Exception:
+                return jsonify({"error": "class doesn't exist"}), 409 
         
         
 
