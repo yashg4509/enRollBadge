@@ -1,8 +1,9 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
+import { Link } from "react-router-dom";
 import Footer from "./Footer.jsx";
 import Card from "react-bootstrap/Card";
 import "./About.css"; // Import the CSS file for styling
-import { FaGithub, FaHeart } from "react-icons/fa";
+import { FaHeart } from "react-icons/fa";
 import { BsPencilFill } from "react-icons/bs";
 import "./footer.css";
 
@@ -30,14 +31,17 @@ const About = () => {
           >
             <Card.Body>
               <Card.Text style={{ textAlign: "center", fontSize: 14 }}>
-                Don't let course enrollment stress you out. Take control of your
-                academic journey with EnrollBadger. Sign up today and gain the
-                advantage of real-time notifications for course availability at
-                UW Madison. Get notified in just 3 easy steps: Log in, Search,
-                and Subscribe.
+                Are you one of us who keeps checking for course availability
+                every five minutes? Don't let that stress you out anymore! Take
+                control of your academic journey with EnrollBadger. Sign up
+                today and gain the advantage of real-time notifications for
+                course availability at UW Madison. Get notified in just three
+                easy steps: Log in, Search, and Subscribe.
                 <br />
                 <br />
-                <h5>Get Started With EnrollBadger Today!</h5>
+                <Link to="/signup">
+                  <h5 id="getstarted">Get Started With EnrollBadger Today!</h5>
+                </Link>
               </Card.Text>
             </Card.Body>
           </Card>
