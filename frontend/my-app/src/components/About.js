@@ -3,7 +3,7 @@ import Footer from "./Footer.jsx";
 import Card from "react-bootstrap/Card";
 import "./About.css"; // Import the CSS file for styling
 import { FaGithub, FaHeart } from "react-icons/fa";
-import {BsPencilFill} from "react-icons/bs";
+import { BsPencilFill } from "react-icons/bs";
 import "./footer.css";
 
 const About = () => {
@@ -56,11 +56,11 @@ const About = () => {
             <Card.Body>
               <Card.Text style={{ textAlign: "center", fontSize: 14 }}>
                 <p>
-                  If you issues,questions or feedback regarding this project,
-                  please click on the 'Feedback' link. We will get back to you
-                  as soon as we can. We know this website is not perfect and
-                  there are so many more features we could add. We would love to
-                  hear from you.
+                  If you have issues,questions or feedback regarding this
+                  project, please click on the 'Feedback' link. We will get back
+                  to you as soon as we can. There is always scope to improve
+                  this website and add features you want us to so we would love
+                  to hear from you.
                 </p>
                 Hosting this website and using proxies to track status costs
                 money. Help us keep this project going by clicking the 'Donate'
@@ -79,7 +79,7 @@ const About = () => {
                   href={feedbackLink}
                   target="_blank"
                   rel="noopener noreferrer"
-                  style={{ margin: "0 10px", textDecoration: "none"}}
+                  style={{ margin: "0 10px", textDecoration: "none" }}
                 >
                   <span className="feedback-icon">
                     <BsPencilFill />
