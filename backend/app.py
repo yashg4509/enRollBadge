@@ -9,7 +9,7 @@ DATABASE = 'enroll.db'
 def connect_to_database():
     return sqlite3.connect(DATABASE)
 
-
+# Adds the user's email to the database when they first create an account
 @app.route('/createacct', methods=['POST'])
 def createAcct():
     conn = connect_to_database()
@@ -62,15 +62,26 @@ def signUpClasses():
         # gets the equivalent classes unique IDs
         class_ids = []
         for aclass in classes:
-            try: # checks to ensure class does exist
-                cursor.execute("SELECT * FROM CLASSES WHERE CLASS_NAME = ?", (aclass,))
-                class_ids.append(cursor.fetchone()[0])
-            except Exception:
-                return jsonify({"error": "class doesn't exist"}), 409 
-        
-        
+            cursor.execute("SELECT * FROM CLASSES WHERE CLASS_NAME = ?", (aclass,))
+            class_ids.append(cursor.fetchone()[0])
 
+        # grabs all the rows that contain all the classes the user is subscribed to before the new json
+        cursor.execute("SELECT * FROM USER_CLASS WHERE USER_ID = ?", (user_id,))
+        currentSub = cursor.fetchall()
+        # Unsubscribing Process: go through all the classes and if they are not in the new json subscribed list, then remove them
+        for row in currentSub:
+            if row[2] not in class_ids:
+                # remove the current row
+                cursor.execute("DELETE FROM USER_CLASS WHERE CLASS_ID = ? AND USER_ID = ?", (row[2], user_id))
 
+        # Subscribing Process:
+        for classid in class_ids:
+            # this means that if the query can't find that class in the user_table, that means the user just subscribed to that class
+            if cursor.execute("SELECT * FROM USER_CLASS WHERE CLASS_ID = ? AND USER_ID = ?", (classid,user_id)).fetchone() == None:
+                cursor.execute("INSERT INTO USER_CLASS (USER_ID, CLASS_ID) VALUES(?, ?)", user_id, classid)
+        conn.commit()
+        conn.close()
+        return jsonify({"message": "success"}), 200
     except Exception:
         conn.close()
         return jsonify({"error": "failure"}), 400 
