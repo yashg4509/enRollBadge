@@ -15,10 +15,14 @@ function JSONDataDisplay() {
   const [searchTerm, setSearchTerm] = useState('');
   const [subscribedClasses, setSubscribedClasses] = useState([]);
   const [showSubscriptions, setShowSubscriptions] = useState(true);
-
+  const [currentPage, setCurrentPage] = useState(1);
+  const itemsPerPage = 10;
+  
   const { logOut, user } = useUserAuth();
 
   const navigate = useNavigate();
+
+
 
   const handleSubscribe = (className) => {
 
@@ -27,18 +31,6 @@ function JSONDataDisplay() {
       return;
     }
   
-  
-    // if (subscribedClasses.includes(className)) {
-    //   toast.success(`Already subscribed to class: ${className}`, {
-    //     position: toast.POSITION.BOTTOM_RIGHT,
-    //     autoClose: 2000,
-    //     hideProgressBar: true,
-    //     closeOnClick: true,
-    //     pauseOnHover: false,
-    //     draggable: false,
-    //   });
-    //   return;
-    // }
 
     toast.success(`Subscribed to class: ${className}`, {
       position: toast.POSITION.BOTTOM_RIGHT,
@@ -108,9 +100,16 @@ function JSONDataDisplay() {
 );
   const initialTableData = filteredData.filter((info) => !subscribedClasses.includes(info.name));
 
+  const totalItems = initialTableData.length;
+  const totalPages = Math.ceil(filteredData.length / itemsPerPage);
+
+  const startIndex = (currentPage - 1) * itemsPerPage;
+  const endIndex = startIndex + itemsPerPage;
+  const itemsToDisplay = initialTableData.slice(startIndex, endIndex);
+
   const subscribedTableData = filteredData.filter((info) => subscribedClasses.includes(info.name));
 
-  const DisplayData = initialTableData.map((info) => {
+  const DisplayData = itemsToDisplay.map((info) => {
     return (
       <tr key={info.name}>
         <td>{info.name}</td>
@@ -135,6 +134,19 @@ function JSONDataDisplay() {
       </tr>
     );
   });
+
+  const handlePageChange = (page) => {
+    if (page < 1 || page > totalPages) return;
+    setCurrentPage(page);
+  };
+
+  const handleGoToPage = (event) => {
+    const page = parseInt(event.target.value, 10);
+    if (page && page >= 1 && page <= totalPages) {
+      setCurrentPage(page);
+    }
+  };
+
 
   return (
     < div className="container text-center">
@@ -185,6 +197,40 @@ function JSONDataDisplay() {
           </thead>
           <tbody>{DisplayData}</tbody>
         </table>
+      </div>
+
+  
+      <div className="pagination mt-4">
+        <button
+          disabled={currentPage === 1}
+          onClick={() => handlePageChange(currentPage - 1)}
+          className="btn btn-primary mr-2"
+        >
+          Previous
+        </button>
+        <span>
+          Page {currentPage} of {totalPages}
+        </span>
+        <button
+          disabled={currentPage === totalPages}
+          onClick={() => handlePageChange(currentPage + 1)}
+          className="btn btn-primary ml-2"
+        >
+          Next
+        </button>
+      </div>
+
+      <div className="mt-3">
+        <span>Go to page:</span>
+        <input
+          type="number"
+          min="1"
+          max={totalPages}
+          value={currentPage}
+          onChange={handleGoToPage}
+          className="form-control d-inline-block ml-2"
+          style={{ width: '80px' }}
+        />
       </div>
 
       <ToastContainer />
