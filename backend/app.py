@@ -10,8 +10,8 @@ def connect_to_database():
     return sqlite3.connect(DATABASE)
 
 
-@app.route('/signup', methods=['POST'])
-def signup():
+@app.route('/createacct', methods=['POST'])
+def createAcct():
     conn = connect_to_database()
     cursor = conn.cursor()
     try:
@@ -36,8 +36,9 @@ def signup():
         conn.close()
         return jsonify({"error": "failure"}), 400 
 
+# Adds the to user-class table per class they are subscribed for
 @app.route('/signup', methods=['POST'])
-def signup():
+def signUpClasses():
     conn = connect_to_database()
     cursor = conn.cursor()
     try:
@@ -48,6 +49,7 @@ def signup():
         # checks the user exists
         cursor.execute("SELECT COUNT(*) FROM USERS WHERE USER_EMAIL = ?", (email,))
         count = cursor.fetchone()[0]
+
         # if the user appears more than 1 time or no times in the table
         if count != 1:
             conn.close()
@@ -55,9 +57,16 @@ def signup():
         
         # gets the equivalent user unique ID
         cursor.execute("SELECT * FROM USERS WHERE USER_EMAIL = ?", (email,))
-        count = cursor.fetchone()[0]
+        user_id = cursor.fetchone()[0]
+
+        # gets the equivalent classes unique IDs
+        class_ids = []
+        for aclass in classes:
+            cursor.execute("SELECT * FROM CLASSES WHERE CLASS_NAME = ?", (aclass,))
+            class_ids.append(cursor.fetchone()[0])
         
         
+
 
     except Exception:
         conn.close()
