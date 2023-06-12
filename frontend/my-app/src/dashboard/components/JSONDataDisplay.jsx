@@ -5,8 +5,12 @@ import JSONData from './test.json';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faChevronDown, faChevronUp } from '@fortawesome/free-solid-svg-icons';
 import { useUserAuth } from '../../context/UserAuthContext';
+
+
+
 // import sgMail from '@sendgrid/mail';
 import { useNavigate } from 'react-router-dom';
+
 
 function JSONDataDisplay() {
   const [searchTerm, setSearchTerm] = useState('');
@@ -172,7 +176,7 @@ function JSONDataDisplay() {
         </div>
       )}
 
-      <h2 className="my-3">Available Classes</h2>
+      <h2 className="my-3">List of Classes</h2>
       <div className="table-responsive">
         <table className="table table-striped">
           <thead>
