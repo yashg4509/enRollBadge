@@ -3,6 +3,7 @@ import Footer from "./Footer.jsx";
 import Card from "react-bootstrap/Card";
 import "./About.css"; // Import the CSS file for styling
 import { FaGithub, FaHeart } from "react-icons/fa";
+import {BsPencilFill} from "react-icons/bs";
 import "./footer.css";
 
 const About = () => {
@@ -78,10 +79,10 @@ const About = () => {
                   href={feedbackLink}
                   target="_blank"
                   rel="noopener noreferrer"
-                  style={{ margin: "0 10px" }}
+                  style={{ margin: "0 10px", textDecoration: "none"}}
                 >
                   <span className="feedback-icon">
-                    <FaHeart />
+                    <BsPencilFill />
                   </span>
                   Feedback
                 </a>

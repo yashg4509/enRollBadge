@@ -72,7 +72,8 @@
   
   
   .github-button,
-  .donate-button {
+  .donate-button,
+  .feedback-button {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -101,20 +102,23 @@
     background-color:#4484c4;
     color: #fff;
     margin-right: 10px; /* Add margin between buttons */
-    padding-bottom: 5px;
-    padding-top: 5px;
+    padding-bottom: 7px;
+    padding-top: 7px;
     padding-right: 5px;
     padding-left: 5px;
   }
   .github-button:hover,
-  .donate-button:hover {
+  .donate-button:hover,
+  .feedback-button:hover {
     background-color: #333;
   }
   
   .github-icon,
-  .donate-icon {
+  .donate-icon,
+  .feedback-icon {
     margin-right: 8px;
   }
+
   
   .github-text {
     margin-left: 8px;
