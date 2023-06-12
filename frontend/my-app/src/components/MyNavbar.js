@@ -22,7 +22,7 @@ const CustomNavbar = () => {
     <>
       <Navbar bg="dark" variant="dark">
         <Navbar.Brand as={Link} to="/" style={{ paddingLeft: "10px" }}>
-          EnrollBadger
+          EnRollBadge
         </Navbar.Brand>
         <div
           className="ms-auto"
