@@ -40,14 +40,7 @@ const CustomNavbar = () => {
               About
             </Link>
           </span>
-          <span style={{ marginRight: "10px" }}>
-            <Link
-              to="/help"
-              style={{ color: "white", textDecoration: "none" }}
-            >
-              Help
-            </Link>
-          </span>
+
           {user ? (
             <button
               className="btn btn-primary"
@@ -72,4 +65,3 @@ const CustomNavbar = () => {
 };
 
 export default CustomNavbar;
-

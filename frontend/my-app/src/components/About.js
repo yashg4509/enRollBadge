@@ -7,89 +7,62 @@ const About = () => {
   return (
     <div className="about-container">
       <div className="about-content">
-        <h1 className="text-center my-3 about-heading">About EnrollBadger</h1>
+        <h5
+          className="text-center my-3 about-heading"
+          style={{ textDecoration: "underline" }}
+        >
+          ABOUT
+        </h5>
         <h5 className="text-center" style={{ color: "gray" }}>
           Simplifying Course Enrollment at UW Madison.
         </h5>
 
-        <Card className="about-card">
-          <Card.Body>
-            <Card.Title>
-              <h4>Stay One Step Ahead</h4>
-            </Card.Title>
-            <Card.Text>
-              Our system monitors course availability and sends instant
-              notifications directly to your device when a course opens up or
-              becomes waitlisted. Say goodbye to repeatedly refreshing the
-              course registration page or relying on outdated information.
-            </Card.Text>
-          </Card.Body>
-        </Card>
-
-        <Card className="about-card">
-          <Card.Body>
-            <Card.Title>
-              <h4>Personalized Course Alerts</h4>
-            </Card.Title>
-            <Card.Text>
-              You can use our subscription interface to select what courses you
-              want to keep track of instead of getting course alerts for the
-              thousands of courses we have on our platform. Whether it's a
-              general education requirement, a major-specific course, or an
-              elective that piques your interest, EnrollBadger will keep an eye
-              on them for you. No more missed opportunities or last-minute
-              scrambles during enrollment periods.
-            </Card.Text>
-          </Card.Body>
-        </Card>
-
-        <Card className="about-card">
-          <Card.Body>
-            <Card.Title>
-              <h4>Effortless and User Friendly</h4>
-            </Card.Title>
-            <Card.Text>
-              We believe in making the course enrollment process effortless and
-              user-friendly. EnrollBadger features a sleek and intuitive
-              interface, ensuring a seamless experience for all users. With just
-              a few clicks, you can set up your course subscriptions and receive
-              notifications directly on your device—no more wasted time or
-              missed chances.
-            </Card.Text>
-          </Card.Body>
-        </Card>
-
-        <Card className="about-card">
-          <Card.Body>
-            <Card.Title>
-              <h4>Reliable and Real-Time Data</h4>
-            </Card.Title>
-            <Card.Text>
-              Count on EnrollBadger for reliable and real-time course data. Our
-              system continuously updates our database to provide accurate
-              course availability information when you need it most. Make
-              informed decisions about your course selections with dependable
-              notifications from EnrollBadger.
-            </Card.Text>
-          </Card.Body>
-        </Card>
-
-        <Card className="about-card highlighted-card">
-          <Card.Body>
-            <Card.Title>
-              <h4>Get Started With EnrollBadger Today!</h4>
-            </Card.Title>
-            <Card.Text>
-              Don't let course enrollment stress you out. Take control of your
-              academic journey with EnrollBadger. Sign up today and gain the
-              advantage of real-time notifications for course availability at UW
-              Madison. Streamline your course selection process, secure your
-              preferred classes, and make the most of your time as a college
-              student. EnrollBadger is your key to a smoother and more
-              successful enrollment experience.
-            </Card.Text>
-          </Card.Body>
-        </Card>
+        <div style={{ display: "flex", justifyContent: "center" }}>
+          <Card
+            className="about-card"
+            style={{ width: "550px", marginTop: "20px" }}
+          >
+            <Card.Body>
+              <Card.Text style={{ textAlign: "center", fontSize: 14 }}>
+                Don't let course enrollment stress you out. Take control of your
+                academic journey with EnrollBadger. Sign up today and gain the
+                advantage of real-time notifications for course availability at
+                UW Madison. Get notified in just 3 easy steps: Log in, Search,
+                and Subscribe.
+                <br />
+                <br />
+                <h5>Get Started With EnrollBadger Today!</h5>
+              </Card.Text>
+            </Card.Body>
+          </Card>
+        </div>
+        <h5
+          className="text-center my-3 about-heading"
+          style={{ textDecoration: "underline" }}
+        >
+          HELP
+        </h5>
+        <div style={{ display: "flex", justifyContent: "center" }}>
+          <Card
+            className="about-card"
+            style={{ width: "550px", marginTop: "10px" }}
+          >
+            <Card.Body>
+              <Card.Text style={{ textAlign: "center", fontSize: 14 }}>
+                <p>
+                  If you issues,questions or feedback regarding this project,
+                  please click on the 'Feedback' link. We will get back to you
+                  as soon as we can. We know this website is not perfect and
+                  there are so many more features we could add. We would love to
+                  hear from you.
+                </p>
+                Hosting this website and using proxies to track status costs
+                money. Help us keep this project going by clicking the 'Donate'
+                button below.
+              </Card.Text>
+            </Card.Body>
+          </Card>
+        </div>
       </div>
       <Footer />
     </div>
