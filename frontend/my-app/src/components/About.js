@@ -31,7 +31,6 @@ const About = () => {
           >
             <Card.Body>
               <Card.Text style={{ textAlign: "center", fontSize: 14 }}>
-<<<<<<< Updated upstream
                 Are you one of us who keeps checking for course availability
                 every five minutes? Don't let that stress you out anymore! Take
                 control of your academic journey with EnrollBadger. Sign up
@@ -43,16 +42,6 @@ const About = () => {
                 <Link to="/signup">
                   <h5 id="getstarted">Get Started With EnrollBadger Today!</h5>
                 </Link>
-=======
-                Don't let course enrollment stress you out. Take control of your
-                academic journey with EnRollBadge. Sign up today and gain the
-                advantage of real-time notifications for course availability at
-                UW Madison. Get notified in just 3 easy steps: Log in, Search,
-                and Subscribe.
-                <br />
-                <br />
-                <h5>Get Started With EnRollBadge Today!</h5>
->>>>>>> Stashed changes
               </Card.Text>
             </Card.Body>
           </Card>

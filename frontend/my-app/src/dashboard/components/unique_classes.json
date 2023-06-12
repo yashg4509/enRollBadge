@@ -1,0 +1,12920 @@
+[
+    {
+        "name": "BSE 1"
+    },
+    {
+        "name": "B M E 1"
+    },
+    {
+        "name": "CBE 1"
+    },
+    {
+        "name": "CIV ENGR 1"
+    },
+    {
+        "name": "E C E 1"
+    },
+    {
+        "name": "E M A 1"
+    },
+    {
+        "name": "G L E 1"
+    },
+    {
+        "name": "I SY E 1"
+    },
+    {
+        "name": "M S & E 1"
+    },
+    {
+        "name": "M E 1"
+    },
+    {
+        "name": "N E 1"
+    },
+    {
+        "name": "MUS PERF 21"
+    },
+    {
+        "name": "MUS PERF 22"
+    },
+    {
+        "name": "MUS PERF 27"
+    },
+    {
+        "name": "MUSIC 40"
+    },
+    {
+        "name": "MUSIC 41"
+    },
+    {
+        "name": "MUSIC 42"
+    },
+    {
+        "name": "MUSIC 43"
+    },
+    {
+        "name": "MUS PERF 47"
+    },
+    {
+        "name": "MUS PERF 49"
+    },
+    {
+        "name": "MUSIC 50"
+    },
+    {
+        "name": "MUS PERF 51"
+    },
+    {
+        "name": "MUSIC 52"
+    },
+    {
+        "name": "MUS PERF 55"
+    },
+    {
+        "name": "MUSIC 56"
+    },
+    {
+        "name": "MUSIC 58"
+    },
+    {
+        "name": "MUSIC 59"
+    },
+    {
+        "name": "MUSIC 60"
+    },
+    {
+        "name": "MUS PERF 61"
+    },
+    {
+        "name": "MUSIC 62"
+    },
+    {
+        "name": "MUS PERF 63"
+    },
+    {
+        "name": "MUS PERF 65"
+    },
+    {
+        "name": "MUS PERF 71"
+    },
+    {
+        "name": "MUS PERF 73"
+    },
+    {
+        "name": "MUS PERF 76"
+    },
+    {
+        "name": "MUS PERF 77"
+    },
+    {
+        "name": "MUS PERF 79"
+    },
+    {
+        "name": "MATH 96"
+    },
+    {
+        "name": "ACCT I S 100"
+    },
+    {
+        "name": "AFRICAN 100"
+    },
+    {
+        "name": "AGRONOMY 100"
+    },
+    {
+        "name": "AMER IND 100"
+    },
+    {
+        "name": "ANTHRO 100"
+    },
+    {
+        "name": "ART 100"
+    },
+    {
+        "name": "ASIAN 100"
+    },
+    {
+        "name": "ATM OCN 100"
+    },
+    {
+        "name": "BIOCHEM 100"
+    },
+    {
+        "name": "COM ARTS 100"
+    },
+    {
+        "name": "ECON 100"
+    },
+    {
+        "name": "ENGL 100"
+    },
+    {
+        "name": "ENVIR ST 100"
+    },
+    {
+        "name": "FOLKLORE 100"
+    },
+    {
+        "name": "F&W ECOL 100"
+    },
+    {
+        "name": "GEN&WS 100"
+    },
+    {
+        "name": "GEOSCI 100"
+    },
+    {
+        "name": "INTEGSCI 100"
+    },
+    {
+        "name": "KINES 100"
+    },
+    {
+        "name": "LSC 100"
+    },
+    {
+        "name": "MICROBIO 100"
+    },
+    {
+        "name": "OCC THER 100"
+    },
+    {
+        "name": "RP & SE 100"
+    },
+    {
+        "name": "SOC WORK 100"
+    },
+    {
+        "name": "THEATRE 100"
+    },
+    {
+        "name": "A F AERO 101"
+    },
+    {
+        "name": "AN SCI 101"
+    },
+    {
+        "name": "ASIAN AM 101"
+    },
+    {
+        "name": "ASIALANG 101"
+    },
+    {
+        "name": "ATM OCN 101"
+    },
+    {
+        "name": "BIOLOGY 101"
+    },
+    {
+        "name": "CHEM 101"
+    },
+    {
+        "name": "CLASSICS 101"
+    },
+    {
+        "name": "DY SCI 101"
+    },
+    {
+        "name": "DANCE 101"
+    },
+    {
+        "name": "DS 101"
+    },
+    {
+        "name": "ECON 101"
+    },
+    {
+        "name": "F&W ECOL 101"
+    },
+    {
+        "name": "FRENCH 101"
+    },
+    {
+        "name": "GEOG 101"
+    },
+    {
+        "name": "GERMAN 101"
+    },
+    {
+        "name": "HEBR-MOD 101"
+    },
+    {
+        "name": "HISTORY 101"
+    },
+    {
+        "name": "INTER-LS 101"
+    },
+    {
+        "name": "INTL ST 101"
+    },
+    {
+        "name": "ITALIAN 101"
+    },
+    {
+        "name": "LINGUIS 101"
+    },
+    {
+        "name": "MICROBIO 101"
+    },
+    {
+        "name": "MIL SCI 101"
+    },
+    {
+        "name": "MUSIC 101"
+    },
+    {
+        "name": "MUS PERF 101"
+    },
+    {
+        "name": "NAV SCI 101"
+    },
+    {
+        "name": "PHILOS 101"
+    },
+    {
+        "name": "PORTUG 101"
+    },
+    {
+        "name": "SCAND ST 101"
+    },
+    {
+        "name": "SLAVIC 101"
+    },
+    {
+        "name": "SPANISH 101"
+    },
+    {
+        "name": "ZOOLOGY 101"
+    },
+    {
+        "name": "AN SCI 102"
+    },
+    {
+        "name": "ANTHRO 102"
+    },
+    {
+        "name": "ART 102"
+    },
+    {
+        "name": "BIOLOGY 102"
+    },
+    {
+        "name": "CHEM 102"
+    },
+    {
+        "name": "COMP SCI 102"
+    },
+    {
+        "name": "DY SCI 102"
+    },
+    {
+        "name": "ECON 102"
+    },
+    {
+        "name": "FRENCH 102"
+    },
+    {
+        "name": "GEN&WS 102"
+    },
+    {
+        "name": "GERMAN 102"
+    },
+    {
+        "name": "HISTORY 102"
+    },
+    {
+        "name": "INTER-LS 102"
+    },
+    {
+        "name": "ITALIAN 102"
+    },
+    {
+        "name": "L I S 102"
+    },
+    {
+        "name": "MICROBIO 102"
+    },
+    {
+        "name": "MUSIC 102"
+    },
+    {
+        "name": "MUS PERF 102"
+    },
+    {
+        "name": "RELIG ST 102"
+    },
+    {
+        "name": "SPANISH 102"
+    },
+    {
+        "name": "ZOOLOGY 102"
+    },
+    {
+        "name": "AGROECOL 103"
+    },
+    {
+        "name": "AGRONOMY 103"
+    },
+    {
+        "name": "ART HIST 103"
+    },
+    {
+        "name": "ASIALANG 103"
+    },
+    {
+        "name": "ASIAN 103"
+    },
+    {
+        "name": "ASTRON 103"
+    },
+    {
+        "name": "CHEM 103"
+    },
+    {
+        "name": "C&E SOC 103"
+    },
+    {
+        "name": "DANCE 103"
+    },
+    {
+        "name": "ENTOM 103"
+    },
+    {
+        "name": "ENVIR ST 103"
+    },
+    {
+        "name": "FOLKLORE 103"
+    },
+    {
+        "name": "GEN&WS 103"
+    },
+    {
+        "name": "GREEK 103"
+    },
+    {
+        "name": "HISTORY 103"
+    },
+    {
+        "name": "LATIN 103"
+    },
+    {
+        "name": "MUSIC 103"
+    },
+    {
+        "name": "MUS PERF 103"
+    },
+    {
+        "name": "PHYSICS 103"
+    },
+    {
+        "name": "ANTHRO 104"
+    },
+    {
+        "name": "ART 104"
+    },
+    {
+        "name": "ASIAN 104"
+    },
+    {
+        "name": "ASTRON 104"
+    },
+    {
+        "name": "BIOCHEM 104"
+    },
+    {
+        "name": "CHEM 104"
+    },
+    {
+        "name": "HISTORY 104"
+    },
+    {
+        "name": "MUS PERF 104"
+    },
+    {
+        "name": "PHILOS 104"
+    },
+    {
+        "name": "PHYSICS 104"
+    },
+    {
+        "name": "POLI SCI 104"
+    },
+    {
+        "name": "ANTHRO 105"
+    },
+    {
+        "name": "ASIALANG 105"
+    },
+    {
+        "name": "DANCE 105"
+    },
+    {
+        "name": "NURSING 105"
+    },
+    {
+        "name": "S&A PHM 105"
+    },
+    {
+        "name": "SOC WORK 105"
+    },
+    {
+        "name": "CHEM 106"
+    },
+    {
+        "name": "DANCE 106"
+    },
+    {
+        "name": "ENVIR ST 106"
+    },
+    {
+        "name": "GEN BUS 106"
+    },
+    {
+        "name": "GEOSCI 106"
+    },
+    {
+        "name": "INTER-LS 106"
+    },
+    {
+        "name": "PHYSICS 106"
+    },
+    {
+        "name": "ART 107"
+    },
+    {
+        "name": "ED POL 107"
+    },
+    {
+        "name": "HISTORY 107"
+    },
+    {
+        "name": "INTER-LS 107"
+    },
+    {
+        "name": "MUSIC 107"
+    },
+    {
+        "name": "PHYSICS 107"
+    },
+    {
+        "name": "ART 108"
+    },
+    {
+        "name": "MUS PERF 108"
+    },
+    {
+        "name": "CHEM 109"
+    },
+    {
+        "name": "GEOSCI 109"
+    },
+    {
+        "name": "HISTORY 109"
+    },
+    {
+        "name": "PHYSICS 109"
+    },
+    {
+        "name": "CLASSICS 110"
+    },
+    {
+        "name": "CS&D 110"
+    },
+    {
+        "name": "COUN PSY 110"
+    },
+    {
+        "name": "DANCE 110"
+    },
+    {
+        "name": "F&W ECOL 110"
+    },
+    {
+        "name": "GEN BUS 110"
+    },
+    {
+        "name": "GEOSCI 110"
+    },
+    {
+        "name": "HISTORY 110"
+    },
+    {
+        "name": "INTEGART 110"
+    },
+    {
+        "name": "ILS 110"
+    },
+    {
+        "name": "INTEGSCI 110"
+    },
+    {
+        "name": "INTL ST 110"
+    },
+    {
+        "name": "MIL SCI 110"
+    },
+    {
+        "name": "CNSR SCI 111"
+    },
+    {
+        "name": "DANCE 111"
+    },
+    {
+        "name": "ECON 111"
+    },
+    {
+        "name": "GERMAN 111"
+    },
+    {
+        "name": "SCAND ST 111"
+    },
+    {
+        "name": "SLAVIC 111"
+    },
+    {
+        "name": "ART 112"
+    },
+    {
+        "name": "ENVIR ST 112"
+    },
+    {
+        "name": "KINES 112"
+    },
+    {
+        "name": "MATH 112"
+    },
+    {
+        "name": "MATH 113"
+    },
+    {
+        "name": "MUSIC 113"
+    },
+    {
+        "name": "ASIALANG 114"
+    },
+    {
+        "name": "ESL 114"
+    },
+    {
+        "name": "MATH 114"
+    },
+    {
+        "name": "CHEM 115"
+    },
+    {
+        "name": "COUN PSY 115"
+    },
+    {
+        "name": "DANCE 115"
+    },
+    {
+        "name": "ESL 115"
+    },
+    {
+        "name": "HISTORY 115"
+    },
+    {
+        "name": "KINES 115"
+    },
+    {
+        "name": "PHYSICS 115"
+    },
+    {
+        "name": "ESL 116"
+    },
+    {
+        "name": "KINES 116"
+    },
+    {
+        "name": "ESL 117"
+    },
+    {
+        "name": "ENVIR ST 117"
+    },
+    {
+        "name": "GEOSCI 117"
+    },
+    {
+        "name": "DANCE 118"
+    },
+    {
+        "name": "ESL 118"
+    },
+    {
+        "name": "HISTORY 119"
+    },
+    {
+        "name": "KINES 119"
+    },
+    {
+        "name": "ASIAN 120"
+    },
+    {
+        "name": "COUN PSY 120"
+    },
+    {
+        "name": "DS 120"
+    },
+    {
+        "name": "ED PSYCH 120"
+    },
+    {
+        "name": "ENGL 120"
+    },
+    {
+        "name": "ENVIR ST 120"
+    },
+    {
+        "name": "GEOG 120"
+    },
+    {
+        "name": "HISTORY 120"
+    },
+    {
+        "name": "HORT 120"
+    },
+    {
+        "name": "POLI SCI 120"
+    },
+    {
+        "name": "PSYCH 120"
+    },
+    {
+        "name": "SOC 120"
+    },
+    {
+        "name": "THEATRE 120"
+    },
+    {
+        "name": "ASIAN AM 121"
+    },
+    {
+        "name": "ASIALANG 121"
+    },
+    {
+        "name": "DANCE 121"
+    },
+    {
+        "name": "HORT 121"
+    },
+    {
+        "name": "KINES 121"
+    },
+    {
+        "name": "MUSIC 121"
+    },
+    {
+        "name": "RP & SE 121"
+    },
+    {
+        "name": "SCAND ST 121"
+    },
+    {
+        "name": "ASIALANG 123"
+    },
+    {
+        "name": "BOTANY 123"
+    },
+    {
+        "name": "KINES 123"
+    },
+    {
+        "name": "PL PATH 123"
+    },
+    {
+        "name": "ASIALANG 125"
+    },
+    {
+        "name": "CSCS 125"
+    },
+    {
+        "name": "COUN PSY 125"
+    },
+    {
+        "name": "DANCE 125"
+    },
+    {
+        "name": "KINES 125"
+    },
+    {
+        "name": "PHARMACY 125"
+    },
+    {
+        "name": "RP & SE 125"
+    },
+    {
+        "name": "SOC 125"
+    },
+    {
+        "name": "ASIALANG 127"
+    },
+    {
+        "name": "ENVIR ST 127"
+    },
+    {
+        "name": "GEOG 127"
+    },
+    {
+        "name": "KINES 127"
+    },
+    {
+        "name": "ASIALANG 129"
+    },
+    {
+        "name": "ART HIST 130"
+    },
+    {
+        "name": "BIOLOGY 130"
+    },
+    {
+        "name": "BOTANY 130"
+    },
+    {
+        "name": "HISTORY 130"
+    },
+    {
+        "name": "INTER-LS 130"
+    },
+    {
+        "name": "THEATRE 130"
+    },
+    {
+        "name": "ASIALANG 131"
+    },
+    {
+        "name": "LEGAL ST 131"
+    },
+    {
+        "name": "SOC 131"
+    },
+    {
+        "name": "SOIL SCI 131"
+    },
+    {
+        "name": "NUTR SCI 132"
+    },
+    {
+        "name": "ASIALANG 133"
+    },
+    {
+        "name": "DANCE 133"
+    },
+    {
+        "name": "GENETICS 133"
+    },
+    {
+        "name": "HISTORY 133"
+    },
+    {
+        "name": "GEN&WS 134"
+    },
+    {
+        "name": "HISTORY 134"
+    },
+    {
+        "name": "SOC 134"
+    },
+    {
+        "name": "AN SCI 135"
+    },
+    {
+        "name": "ASIALANG 135"
+    },
+    {
+        "name": "DANCE 135"
+    },
+    {
+        "name": "LEGAL ST 135"
+    },
+    {
+        "name": "RP & SE 135"
+    },
+    {
+        "name": "DANCE 136"
+    },
+    {
+        "name": "HISTORY 136"
+    },
+    {
+        "name": "ASIALANG 137"
+    },
+    {
+        "name": "SOC 138"
+    },
+    {
+        "name": "ASIALANG 139"
+    },
+    {
+        "name": "ENVIR ST 139"
+    },
+    {
+        "name": "GEOG 139"
+    },
+    {
+        "name": "HISTORY 139"
+    },
+    {
+        "name": "INTER-LS 139"
+    },
+    {
+        "name": "ASTRON 140"
+    },
+    {
+        "name": "ATM OCN 140"
+    },
+    {
+        "name": "C&E SOC 140"
+    },
+    {
+        "name": "DANCE 140"
+    },
+    {
+        "name": "ED POL 140"
+    },
+    {
+        "name": "ENGL 140"
+    },
+    {
+        "name": "GEOSCI 140"
+    },
+    {
+        "name": "INTEGSCI 140"
+    },
+    {
+        "name": "KINES 140"
+    },
+    {
+        "name": "POLI SCI 140"
+    },
+    {
+        "name": "SOC 140"
+    },
+    {
+        "name": "THEATRE 140"
+    },
+    {
+        "name": "MATH 141"
+    },
+    {
+        "name": "ED POL 143"
+    },
+    {
+        "name": "HISTORY 143"
+    },
+    {
+        "name": "MUS PERF 143"
+    },
+    {
+        "name": "ENGL 144"
+    },
+    {
+        "name": "GEN&WS 144"
+    },
+    {
+        "name": "MUS PERF 144"
+    },
+    {
+        "name": "INTER-LS 145"
+    },
+    {
+        "name": "MUS PERF 146"
+    },
+    {
+        "name": "MUS PERF 147"
+    },
+    {
+        "name": "ASIAN AM 150"
+    },
+    {
+        "name": "CBE 150"
+    },
+    {
+        "name": "CIV ENGR 150"
+    },
+    {
+        "name": "CLASSICS 150"
+    },
+    {
+        "name": "ED POL 150"
+    },
+    {
+        "name": "ENGL 150"
+    },
+    {
+        "name": "INTEGSCI 150"
+    },
+    {
+        "name": "INTEREGR 150"
+    },
+    {
+        "name": "JOURN 150"
+    },
+    {
+        "name": "KINES 150"
+    },
+    {
+        "name": "PATH-BIO 150"
+    },
+    {
+        "name": "THEATRE 150"
+    },
+    {
+        "name": "BIOLOGY 151"
+    },
+    {
+        "name": "BOTANY 151"
+    },
+    {
+        "name": "CHICLA 151"
+    },
+    {
+        "name": "CIV ENGR 151"
+    },
+    {
+        "name": "HISTORY 151"
+    },
+    {
+        "name": "MUSIC 151"
+    },
+    {
+        "name": "ZOOLOGY 151"
+    },
+    {
+        "name": "ASIAN AM 152"
+    },
+    {
+        "name": "BIOLOGY 152"
+    },
+    {
+        "name": "BOTANY 152"
+    },
+    {
+        "name": "ZOOLOGY 152"
+    },
+    {
+        "name": "DS 153"
+    },
+    {
+        "name": "ENGL 153"
+    },
+    {
+        "name": "ENVIR ST 153"
+    },
+    {
+        "name": "ZOOLOGY 153"
+    },
+    {
+        "name": "AFROAMER 154"
+    },
+    {
+        "name": "PL PATH 154"
+    },
+    {
+        "name": "ZOOLOGY 154"
+    },
+    {
+        "name": "COM ARTS 155"
+    },
+    {
+        "name": "ENGL 155"
+    },
+    {
+        "name": "GENETICS 155"
+    },
+    {
+        "name": "INTER-AG 155"
+    },
+    {
+        "name": "AFROAMER 156"
+    },
+    {
+        "name": "DANCE 156"
+    },
+    {
+        "name": "ENGL 156"
+    },
+    {
+        "name": "INTER-LS 157"
+    },
+    {
+        "name": "CIV ENGR 159"
+    },
+    {
+        "name": "POLI SCI 160"
+    },
+    {
+        "name": "PSYCH 160"
+    },
+    {
+        "name": "SOC 160"
+    },
+    {
+        "name": "THEATRE 160"
+    },
+    {
+        "name": "DANCE 162"
+    },
+    {
+        "name": "ENGL 162"
+    },
+    {
+        "name": "JOURN 162"
+    },
+    {
+        "name": "THEATRE 162"
+    },
+    {
+        "name": "DANCE 165"
+    },
+    {
+        "name": "ENGL 167"
+    },
+    {
+        "name": "ASIAN AM 170"
+    },
+    {
+        "name": "ASTRON 170"
+    },
+    {
+        "name": "GEOG 170"
+    },
+    {
+        "name": "INTEREGR 170"
+    },
+    {
+        "name": "POLI SCI 170"
+    },
+    {
+        "name": "SOC 170"
+    },
+    {
+        "name": "ATM OCN 171"
+    },
+    {
+        "name": "ENVIR ST 171"
+    },
+    {
+        "name": "MATH 171"
+    },
+    {
+        "name": "MUSIC 171"
+    },
+    {
+        "name": "AMER IND 172"
+    },
+    {
+        "name": "ENGL 172"
+    },
+    {
+        "name": "CNSR SCI 173"
+    },
+    {
+        "name": "ENGL 173"
+    },
+    {
+        "name": "RELIG ST 173"
+    },
+    {
+        "name": "ENGL 174"
+    },
+    {
+        "name": "HDFS 174"
+    },
+    {
+        "name": "CHEM 175"
+    },
+    {
+        "name": "ENGL 175"
+    },
+    {
+        "name": "GEOG 175"
+    },
+    {
+        "name": "INTER-AG 175"
+    },
+    {
+        "name": "NAV SCI 175"
+    },
+    {
+        "name": "ART 176"
+    },
+    {
+        "name": "ENGL 176"
+    },
+    {
+        "name": "JOURN 176"
+    },
+    {
+        "name": "ENGL 177"
+    },
+    {
+        "name": "ENGL 178"
+    },
+    {
+        "name": "BIOCORE 181"
+    },
+    {
+        "name": "COM ARTS 181"
+    },
+    {
+        "name": "ENGL 181"
+    },
+    {
+        "name": "SOC 181"
+    },
+    {
+        "name": "ENGL 182"
+    },
+    {
+        "name": "POLI SCI 182"
+    },
+    {
+        "name": "ED POL 197"
+    },
+    {
+        "name": "COM ARTS 198"
+    },
+    {
+        "name": "GEOSCI 198"
+    },
+    {
+        "name": "PHYSICS 198"
+    },
+    {
+        "name": "SOC 198"
+    },
+    {
+        "name": "AFROAMER 199"
+    },
+    {
+        "name": "ASTRON 199"
+    },
+    {
+        "name": "COM ARTS 199"
+    },
+    {
+        "name": "GEOSCI 199"
+    },
+    {
+        "name": "PHYSICS 199"
+    },
+    {
+        "name": "POLI SCI 199"
+    },
+    {
+        "name": "SOC 199"
+    },
+    {
+        "name": "ZOOLOGY 199"
+    },
+    {
+        "name": "AN SCI 200"
+    },
+    {
+        "name": "ASTRON 200"
+    },
+    {
+        "name": "B M E 200"
+    },
+    {
+        "name": "COM ARTS 200"
+    },
+    {
+        "name": "COMP SCI 200"
+    },
+    {
+        "name": "COUN PSY 200"
+    },
+    {
+        "name": "DANCE 200"
+    },
+    {
+        "name": "ED POL 200"
+    },
+    {
+        "name": "FINANCE 200"
+    },
+    {
+        "name": "FOLKLORE 200"
+    },
+    {
+        "name": "GEN&WS 200"
+    },
+    {
+        "name": "GNS 200"
+    },
+    {
+        "name": "HISTORY 200"
+    },
+    {
+        "name": "ILS 200"
+    },
+    {
+        "name": "INTL BUS 200"
+    },
+    {
+        "name": "MUS PERF 200"
+    },
+    {
+        "name": "PUB AFFR 200"
+    },
+    {
+        "name": "RP & SE 200"
+    },
+    {
+        "name": "SOC 200"
+    },
+    {
+        "name": "THEATRE 200"
+    },
+    {
+        "name": "AFRICAN 201"
+    },
+    {
+        "name": "A F AERO 201"
+    },
+    {
+        "name": "ASIALANG 201"
+    },
+    {
+        "name": "CHICLA 201"
+    },
+    {
+        "name": "CS&D 201"
+    },
+    {
+        "name": "CNSR SCI 201"
+    },
+    {
+        "name": "ENGL 201"
+    },
+    {
+        "name": "E M A 201"
+    },
+    {
+        "name": "ENTOM 201"
+    },
+    {
+        "name": "ENVIR ST 201"
+    },
+    {
+        "name": "HEBR-MOD 201"
+    },
+    {
+        "name": "HISTORY 201"
+    },
+    {
+        "name": "HIST SCI 201"
+    },
+    {
+        "name": "ILS 201"
+    },
+    {
+        "name": "INTER-HE 201"
+    },
+    {
+        "name": "JOURN 201"
+    },
+    {
+        "name": "L I S 201"
+    },
+    {
+        "name": "LITTRANS 201"
+    },
+    {
+        "name": "M E 201"
+    },
+    {
+        "name": "MIL SCI 201"
+    },
+    {
+        "name": "MUS PERF 201"
+    },
+    {
+        "name": "NAV SCI 201"
+    },
+    {
+        "name": "PHYSICS 201"
+    },
+    {
+        "name": "PORTUG 201"
+    },
+    {
+        "name": "PUB AFFR 201"
+    },
+    {
+        "name": "SCAND ST 201"
+    },
+    {
+        "name": "AFRICAN 202"
+    },
+    {
+        "name": "ART HIST 202"
+    },
+    {
+        "name": "CS&D 202"
+    },
+    {
+        "name": "ED POL 202"
+    },
+    {
+        "name": "E M A 202"
+    },
+    {
+        "name": "GEOSCI 202"
+    },
+    {
+        "name": "INTER-HE 202"
+    },
+    {
+        "name": "JOURN 202"
+    },
+    {
+        "name": "L I S 202"
+    },
+    {
+        "name": "PHYSICS 202"
+    },
+    {
+        "name": "PSYCH 202"
+    },
+    {
+        "name": "AGRONOMY 203"
+    },
+    {
+        "name": "ASIALANG 203"
+    },
+    {
+        "name": "COMP LIT 203"
+    },
+    {
+        "name": "ED POL 203"
+    },
+    {
+        "name": "E C E 203"
+    },
+    {
+        "name": "ENTOM 203"
+    },
+    {
+        "name": "ENVIR ST 203"
+    },
+    {
+        "name": "FRENCH 203"
+    },
+    {
+        "name": "GERMAN 203"
+    },
+    {
+        "name": "ILS 203"
+    },
+    {
+        "name": "ITALIAN 203"
+    },
+    {
+        "name": "JEWISH 203"
+    },
+    {
+        "name": "JOURN 203"
+    },
+    {
+        "name": "LEGAL ST 203"
+    },
+    {
+        "name": "LITTRANS 203"
+    },
+    {
+        "name": "NUTR SCI 203"
+    },
+    {
+        "name": "RELIG ST 203"
+    },
+    {
+        "name": "SLAVIC 203"
+    },
+    {
+        "name": "SPANISH 203"
+    },
+    {
+        "name": "AFRICAN 204"
+    },
+    {
+        "name": "E C E 204"
+    },
+    {
+        "name": "ENGL 204"
+    },
+    {
+        "name": "FRENCH 204"
+    },
+    {
+        "name": "GERMAN 204"
+    },
+    {
+        "name": "ITALIAN 204"
+    },
+    {
+        "name": "SPANISH 204"
+    },
+    {
+        "name": "ASIALANG 205"
+    },
+    {
+        "name": "ECON 205"
+    },
+    {
+        "name": "ENTOM 205"
+    },
+    {
+        "name": "ENVIR ST 205"
+    },
+    {
+        "name": "FINANCE 205"
+    },
+    {
+        "name": "ILS 205"
+    },
+    {
+        "name": "MUS PERF 205"
+    },
+    {
+        "name": "POLI SCI 205"
+    },
+    {
+        "name": "SOC WORK 205"
+    },
+    {
+        "name": "CLASSICS 206"
+    },
+    {
+        "name": "POLI SCI 206"
+    },
+    {
+        "name": "SOC WORK 206"
+    },
+    {
+        "name": "SPANISH 206"
+    },
+    {
+        "name": "ENGL 207"
+    },
+    {
+        "name": "MUS PERF 207"
+    },
+    {
+        "name": "PHYSICS 207"
+    },
+    {
+        "name": "SLAVIC 207"
+    },
+    {
+        "name": "PHYSICS 208"
+    },
+    {
+        "name": "ED POL 209"
+    },
+    {
+        "name": "LITTRANS 209"
+    },
+    {
+        "name": "MUS PERF 209"
+    },
+    {
+        "name": "AFRICAN 210"
+    },
+    {
+        "name": "ART HIST 210"
+    },
+    {
+        "name": "C&E SOC 210"
+    },
+    {
+        "name": "DS 210"
+    },
+    {
+        "name": "ED POL 210"
+    },
+    {
+        "name": "E C E 210"
+    },
+    {
+        "name": "FOLKLORE 210"
+    },
+    {
+        "name": "I SY E 210"
+    },
+    {
+        "name": "INTER-LS 210"
+    },
+    {
+        "name": "INTL ST 210"
+    },
+    {
+        "name": "LAND ARC 210"
+    },
+    {
+        "name": "MIL SCI 210"
+    },
+    {
+        "name": "PATH-BIO 210"
+    },
+    {
+        "name": "PATH 210"
+    },
+    {
+        "name": "PHILOS 210"
+    },
+    {
+        "name": "PSYCH 210"
+    },
+    {
+        "name": "RP & SE 210"
+    },
+    {
+        "name": "SOC 210"
+    },
+    {
+        "name": "ACCT I S 211"
+    },
+    {
+        "name": "ANTHRO 211"
+    },
+    {
+        "name": "C&E SOC 211"
+    },
+    {
+        "name": "DANCE 211"
+    },
+    {
+        "name": "FOLKLORE 211"
+    },
+    {
+        "name": "FRENCH 211"
+    },
+    {
+        "name": "HIST SCI 211"
+    },
+    {
+        "name": "INTL ST 211"
+    },
+    {
+        "name": "LINGUIS 211"
+    },
+    {
+        "name": "MATH 211"
+    },
+    {
+        "name": "MUSIC 211"
+    },
+    {
+        "name": "MUS PERF 211"
+    },
+    {
+        "name": "PHILOS 211"
+    },
+    {
+        "name": "SCAND ST 211"
+    },
+    {
+        "name": "SOC 211"
+    },
+    {
+        "name": "AFRICAN 212"
+    },
+    {
+        "name": "ANTHRO 212"
+    },
+    {
+        "name": "ART 212"
+    },
+    {
+        "name": "ED POL 212"
+    },
+    {
+        "name": "HIST SCI 212"
+    },
+    {
+        "name": "INTL ST 212"
+    },
+    {
+        "name": "LSC 212"
+    },
+    {
+        "name": "MED HIST 212"
+    },
+    {
+        "name": "GERMAN 213"
+    },
+    {
+        "name": "MATH 213"
+    },
+    {
+        "name": "MUS PERF 213"
+    },
+    {
+        "name": "ART 214"
+    },
+    {
+        "name": "ENGL 214"
+    },
+    {
+        "name": "A A E 215"
+    },
+    {
+        "name": "INTER-LS 215"
+    },
+    {
+        "name": "LITTRANS 215"
+    },
+    {
+        "name": "MUS PERF 215"
+    },
+    {
+        "name": "MUS PERF 217"
+    },
+    {
+        "name": "SLAVIC 217"
+    },
+    {
+        "name": "ASIAN 218"
+    },
+    {
+        "name": "RELIG ST 218"
+    },
+    {
+        "name": "E C E 219"
+    },
+    {
+        "name": "HISTORY 219"
+    },
+    {
+        "name": "JEWISH 219"
+    },
+    {
+        "name": "MUS PERF 219"
+    },
+    {
+        "name": "THEATRE 219"
+    },
+    {
+        "name": "ASIAN AM 220"
+    },
+    {
+        "name": "COMP SCI 220"
+    },
+    {
+        "name": "ED POL 220"
+    },
+    {
+        "name": "E C E 220"
+    },
+    {
+        "name": "PHILOS 220"
+    },
+    {
+        "name": "SOC 220"
+    },
+    {
+        "name": "THEATRE 220"
+    },
+    {
+        "name": "ASIALANG 221"
+    },
+    {
+        "name": "DS 221"
+    },
+    {
+        "name": "LITTRANS 221"
+    },
+    {
+        "name": "MATH 221"
+    },
+    {
+        "name": "MUSIC 221"
+    },
+    {
+        "name": "MUS PERF 221"
+    },
+    {
+        "name": "PORTUG 221"
+    },
+    {
+        "name": "SCAND ST 221"
+    },
+    {
+        "name": "THEATRE 221"
+    },
+    {
+        "name": "ART 222"
+    },
+    {
+        "name": "DS 222"
+    },
+    {
+        "name": "LITTRANS 222"
+    },
+    {
+        "name": "MATH 222"
+    },
+    {
+        "name": "THEATRE 222"
+    },
+    {
+        "name": "ASIALANG 223"
+    },
+    {
+        "name": "DS 223"
+    },
+    {
+        "name": "ENGL 223"
+    },
+    {
+        "name": "LITTRANS 223"
+    },
+    {
+        "name": "MUS PERF 223"
+    },
+    {
+        "name": "SPANISH 223"
+    },
+    {
+        "name": "ART 224"
+    },
+    {
+        "name": "DS 224"
+    },
+    {
+        "name": "ENGL 224"
+    },
+    {
+        "name": "SPANISH 224"
+    },
+    {
+        "name": "AFROAMER 225"
+    },
+    {
+        "name": "ASIALANG 225"
+    },
+    {
+        "name": "COUN PSY 225"
+    },
+    {
+        "name": "DANCE 225"
+    },
+    {
+        "name": "KINES 225"
+    },
+    {
+        "name": "MUS PERF 225"
+    },
+    {
+        "name": "PORTUG 225"
+    },
+    {
+        "name": "PSYCH 225"
+    },
+    {
+        "name": "SPANISH 225"
+    },
+    {
+        "name": "LITTRANS 226"
+    },
+    {
+        "name": "SPANISH 226"
+    },
+    {
+        "name": "ASIALANG 227"
+    },
+    {
+        "name": "CLASSICS 227"
+    },
+    {
+        "name": "JEWISH 227"
+    },
+    {
+        "name": "KINES 227"
+    },
+    {
+        "name": "LITTRANS 227"
+    },
+    {
+        "name": "MUS PERF 227"
+    },
+    {
+        "name": "RELIG ST 227"
+    },
+    {
+        "name": "ECON 228"
+    },
+    {
+        "name": "FRENCH 228"
+    },
+    {
+        "name": "MATH 228"
+    },
+    {
+        "name": "ART 229"
+    },
+    {
+        "name": "ASIALANG 229"
+    },
+    {
+        "name": "DS 229"
+    },
+    {
+        "name": "HISTORY 229"
+    },
+    {
+        "name": "COUN PSY 230"
+    },
+    {
+        "name": "E C E 230"
+    },
+    {
+        "name": "INTEGSCI 230"
+    },
+    {
+        "name": "ITALIAN 230"
+    },
+    {
+        "name": "JEWISH 230"
+    },
+    {
+        "name": "AFRICAN 231"
+    },
+    {
+        "name": "AFROAMER 231"
+    },
+    {
+        "name": "ASIALANG 231"
+    },
+    {
+        "name": "CHICLA 231"
+    },
+    {
+        "name": "JEWISH 231"
+    },
+    {
+        "name": "M E 231"
+    },
+    {
+        "name": "MUS PERF 231"
+    },
+    {
+        "name": "POLI SCI 231"
+    },
+    {
+        "name": "ART 232"
+    },
+    {
+        "name": "LITTRANS 232"
+    },
+    {
+        "name": "AFRICAN 233"
+    },
+    {
+        "name": "AFROAMER 233"
+    },
+    {
+        "name": "ASIALANG 233"
+    },
+    {
+        "name": "DY SCI 233"
+    },
+    {
+        "name": "LITTRANS 233"
+    },
+    {
+        "name": "MUS PERF 233"
+    },
+    {
+        "name": "MATH 234"
+    },
+    {
+        "name": "N E 234"
+    },
+    {
+        "name": "ANAT&PHY 235"
+    },
+    {
+        "name": "ASIALANG 235"
+    },
+    {
+        "name": "E C E 235"
+    },
+    {
+        "name": "LITTRANS 235"
+    },
+    {
+        "name": "MEDIEVAL 235"
+    },
+    {
+        "name": "MUS PERF 235"
+    },
+    {
+        "name": "PHYSICS 235"
+    },
+    {
+        "name": "ASTRON 236"
+    },
+    {
+        "name": "ENGL 236"
+    },
+    {
+        "name": "GERMAN 236"
+    },
+    {
+        "name": "LITTRANS 236"
+    },
+    {
+        "name": "ASIALANG 237"
+    },
+    {
+        "name": "COUN PSY 237"
+    },
+    {
+        "name": "ED POL 237"
+    },
+    {
+        "name": "MUS PERF 237"
+    },
+    {
+        "name": "LITTRANS 238"
+    },
+    {
+        "name": "SLAVIC 238"
+    },
+    {
+        "name": "ASIALANG 239"
+    },
+    {
+        "name": "MUS PERF 239"
+    },
+    {
+        "name": "ASIAN AM 240"
+    },
+    {
+        "name": "BOTANY 240"
+    },
+    {
+        "name": "CS&D 240"
+    },
+    {
+        "name": "COMP SCI 240"
+    },
+    {
+        "name": "CURRIC 240"
+    },
+    {
+        "name": "DANCE 240"
+    },
+    {
+        "name": "ED POL 240"
+    },
+    {
+        "name": "INTEGSCI 240"
+    },
+    {
+        "name": "MATH 240"
+    },
+    {
+        "name": "M E 240"
+    },
+    {
+        "name": "MUS PERF 240"
+    },
+    {
+        "name": "PUB AFFR 240"
+    },
+    {
+        "name": "STAT 240"
+    },
+    {
+        "name": "DANCE 241"
+    },
+    {
+        "name": "DS 241"
+    },
+    {
+        "name": "ENGL 241"
+    },
+    {
+        "name": "MUS PERF 241"
+    },
+    {
+        "name": "PHILOS 241"
+    },
+    {
+        "name": "PHYSICS 241"
+    },
+    {
+        "name": "AFROAMER 242"
+    },
+    {
+        "name": "ART 242"
+    },
+    {
+        "name": "ART HIST 242"
+    },
+    {
+        "name": "ENGL 242"
+    },
+    {
+        "name": "PHILOS 243"
+    },
+    {
+        "name": "ART 244"
+    },
+    {
+        "name": "ASIAN 244"
+    },
+    {
+        "name": "GEOG 244"
+    },
+    {
+        "name": "HISTORY 244"
+    },
+    {
+        "name": "POLI SCI 244"
+    },
+    {
+        "name": "SOC 244"
+    },
+    {
+        "name": "AN SCI 245"
+    },
+    {
+        "name": "ENGL 245"
+    },
+    {
+        "name": "SLAVIC 245"
+    },
+    {
+        "name": "AMER IND 246"
+    },
+    {
+        "name": "ENGL 246"
+    },
+    {
+        "name": "LITTRANS 247"
+    },
+    {
+        "name": "MUS PERF 247"
+    },
+    {
+        "name": "PHYSICS 247"
+    },
+    {
+        "name": "C&E SOC 248"
+    },
+    {
+        "name": "F&W ECOL 248"
+    },
+    {
+        "name": "PHYSICS 248"
+    },
+    {
+        "name": "SOC 248"
+    },
+    {
+        "name": "BSE 249"
+    },
+    {
+        "name": "GERMAN 249"
+    },
+    {
+        "name": "PHYSICS 249"
+    },
+    {
+        "name": "ASIAN AM 250"
+    },
+    {
+        "name": "CBE 250"
+    },
+    {
+        "name": "CIV ENGR 250"
+    },
+    {
+        "name": "COM ARTS 250"
+    },
+    {
+        "name": "CNSR SCI 250"
+    },
+    {
+        "name": "INTER-AG 250"
+    },
+    {
+        "name": "INTER-LS 250"
+    },
+    {
+        "name": "LAND ARC 250"
+    },
+    {
+        "name": "SCAND ST 250"
+    },
+    {
+        "name": "SOIL SCI 250"
+    },
+    {
+        "name": "THEATRE 250"
+    },
+    {
+        "name": "CNSR SCI 251"
+    },
+    {
+        "name": "LSC 251"
+    },
+    {
+        "name": "MUS PERF 251"
+    },
+    {
+        "name": "SCAND ST 251"
+    },
+    {
+        "name": "COMP SCI 252"
+    },
+    {
+        "name": "DS 252"
+    },
+    {
+        "name": "E C E 252"
+    },
+    {
+        "name": "DS 253"
+    },
+    {
+        "name": "HDFS 253"
+    },
+    {
+        "name": "ILS 253"
+    },
+    {
+        "name": "MUSIC 253"
+    },
+    {
+        "name": "CSCS 254"
+    },
+    {
+        "name": "ILS 254"
+    },
+    {
+        "name": "LITTRANS 254"
+    },
+    {
+        "name": "ASIAN 255"
+    },
+    {
+        "name": "CBE 255"
+    },
+    {
+        "name": "ENVIR ST 255"
+    },
+    {
+        "name": "HISTORY 255"
+    },
+    {
+        "name": "ILS 255"
+    },
+    {
+        "name": "LITTRANS 255"
+    },
+    {
+        "name": "MEDIEVAL 255"
+    },
+    {
+        "name": "POLI SCI 255"
+    },
+    {
+        "name": "MUSIC 256"
+    },
+    {
+        "name": "CNSR SCI 257"
+    },
+    {
+        "name": "INTER-LS 257"
+    },
+    {
+        "name": "MUSIC 257"
+    },
+    {
+        "name": "GERMAN 258"
+    },
+    {
+        "name": "C&E SOC 259"
+    },
+    {
+        "name": "HISTORY 259"
+    },
+    {
+        "name": "POLI SCI 259"
+    },
+    {
+        "name": "SOC 259"
+    },
+    {
+        "name": "AFROAMER 260"
+    },
+    {
+        "name": "ANTHRO 260"
+    },
+    {
+        "name": "BOTANY 260"
+    },
+    {
+        "name": "CHEM 260"
+    },
+    {
+        "name": "COM ARTS 260"
+    },
+    {
+        "name": "C&E SOC 260"
+    },
+    {
+        "name": "ED POL 260"
+    },
+    {
+        "name": "ENVIR ST 260"
+    },
+    {
+        "name": "GEOG 260"
+    },
+    {
+        "name": "HISTORY 260"
+    },
+    {
+        "name": "INTER-LS 260"
+    },
+    {
+        "name": "LACIS 260"
+    },
+    {
+        "name": "LITTRANS 260"
+    },
+    {
+        "name": "M S & E 260"
+    },
+    {
+        "name": "MUSIC 260"
+    },
+    {
+        "name": "POLI SCI 260"
+    },
+    {
+        "name": "SOC 260"
+    },
+    {
+        "name": "SPANISH 260"
+    },
+    {
+        "name": "ZOOLOGY 260"
+    },
+    {
+        "name": "HISTORY 261"
+    },
+    {
+        "name": "HORT 261"
+    },
+    {
+        "name": "LAND ARC 261"
+    },
+    {
+        "name": "LEGAL ST 261"
+    },
+    {
+        "name": "LITTRANS 261"
+    },
+    {
+        "name": "PL PATH 261"
+    },
+    {
+        "name": "SCAND ST 261"
+    },
+    {
+        "name": "COM ARTS 262"
+    },
+    {
+        "name": "GERMAN 262"
+    },
+    {
+        "name": "HDFS 262"
+    },
+    {
+        "name": "MUSIC 262"
+    },
+    {
+        "name": "HORT 263"
+    },
+    {
+        "name": "HDFS 263"
+    },
+    {
+        "name": "LAND ARC 263"
+    },
+    {
+        "name": "BOTANY 265"
+    },
+    {
+        "name": "DANCE 265"
+    },
+    {
+        "name": "MUSIC 265"
+    },
+    {
+        "name": "INTL ST 266"
+    },
+    {
+        "name": "A A E 267"
+    },
+    {
+        "name": "GERMAN 267"
+    },
+    {
+        "name": "MUSIC 267"
+    },
+    {
+        "name": "DANCE 268"
+    },
+    {
+        "name": "MUSIC 268"
+    },
+    {
+        "name": "MUSIC 269"
+    },
+    {
+        "name": "BSE 270"
+    },
+    {
+        "name": "E C E 270"
+    },
+    {
+        "name": "GEN&WS 270"
+    },
+    {
+        "name": "GNS 270"
+    },
+    {
+        "name": "LSC 270"
+    },
+    {
+        "name": "LITTRANS 270"
+    },
+    {
+        "name": "MUSIC 270"
+    },
+    {
+        "name": "AFROAMER 271"
+    },
+    {
+        "name": "E C E 271"
+    },
+    {
+        "name": "E P 271"
+    },
+    {
+        "name": "FRENCH 271"
+    },
+    {
+        "name": "MUSIC 271"
+    },
+    {
+        "name": "SCAND ST 271"
+    },
+    {
+        "name": "AFROAMER 272"
+    },
+    {
+        "name": "COM ARTS 272"
+    },
+    {
+        "name": "POLI SCI 272"
+    },
+    {
+        "name": "CNSR SCI 273"
+    },
+    {
+        "name": "M E 273"
+    },
+    {
+        "name": "POLI SCI 274"
+    },
+    {
+        "name": "PUB AFFR 274"
+    },
+    {
+        "name": "AFRICAN 275"
+    },
+    {
+        "name": "AFROAMER 275"
+    },
+    {
+        "name": "CNSR SCI 275"
+    },
+    {
+        "name": "E P D 275"
+    },
+    {
+        "name": "HISTORY 275"
+    },
+    {
+        "name": "HIST SCI 275"
+    },
+    {
+        "name": "LITTRANS 275"
+    },
+    {
+        "name": "NAV SCI 275"
+    },
+    {
+        "name": "SLAVIC 275"
+    },
+    {
+        "name": "CURRIC 276"
+    },
+    {
+        "name": "GERMAN 276"
+    },
+    {
+        "name": "LITTRANS 276"
+    },
+    {
+        "name": "AFRICAN 277"
+    },
+    {
+        "name": "AFROAMER 277"
+    },
+    {
+        "name": "ANTHRO 277"
+    },
+    {
+        "name": "CURRIC 277"
+    },
+    {
+        "name": "GEOG 277"
+    },
+    {
+        "name": "HISTORY 277"
+    },
+    {
+        "name": "POLI SCI 277"
+    },
+    {
+        "name": "SLAVIC 277"
+    },
+    {
+        "name": "SOC 277"
+    },
+    {
+        "name": "GERMAN 278"
+    },
+    {
+        "name": "PUB AFFR 278"
+    },
+    {
+        "name": "SLAVIC 278"
+    },
+    {
+        "name": "HIST SCI 280"
+    },
+    {
+        "name": "PUB AFFR 281"
+    },
+    {
+        "name": "FRENCH 285"
+    },
+    {
+        "name": "PUB AFFR 285"
+    },
+    {
+        "name": "FRENCH 288"
+    },
+    {
+        "name": "GENETICS 289"
+    },
+    {
+        "name": "LSC 289"
+    },
+    {
+        "name": "NUTR SCI 289"
+    },
+    {
+        "name": "CIV ENGR 291"
+    },
+    {
+        "name": "G L E 291"
+    },
+    {
+        "name": "M E 291"
+    },
+    {
+        "name": "MUSIC 297"
+    },
+    {
+        "name": "COM ARTS 298"
+    },
+    {
+        "name": "COMP SCI 298"
+    },
+    {
+        "name": "GERMAN 298"
+    },
+    {
+        "name": "ITALIAN 298"
+    },
+    {
+        "name": "PHYSICS 298"
+    },
+    {
+        "name": "A A E 299"
+    },
+    {
+        "name": "AGRONOMY 299"
+    },
+    {
+        "name": "AN SCI 299"
+    },
+    {
+        "name": "ASIAN 299"
+    },
+    {
+        "name": "BIOCHEM 299"
+    },
+    {
+        "name": "BSE 299"
+    },
+    {
+        "name": "BIOLOGY 299"
+    },
+    {
+        "name": "BOTANY 299"
+    },
+    {
+        "name": "CHEM 299"
+    },
+    {
+        "name": "CIV ENGR 299"
+    },
+    {
+        "name": "CSCS 299"
+    },
+    {
+        "name": "COM ARTS 299"
+    },
+    {
+        "name": "C&E SOC 299"
+    },
+    {
+        "name": "CNSR SCI 299"
+    },
+    {
+        "name": "DY SCI 299"
+    },
+    {
+        "name": "DS 299"
+    },
+    {
+        "name": "ECON 299"
+    },
+    {
+        "name": "ENTOM 299"
+    },
+    {
+        "name": "FOOD SCI 299"
+    },
+    {
+        "name": "F&W ECOL 299"
+    },
+    {
+        "name": "GEN&WS 299"
+    },
+    {
+        "name": "GENETICS 299"
+    },
+    {
+        "name": "GERMAN 299"
+    },
+    {
+        "name": "HORT 299"
+    },
+    {
+        "name": "INTEGSCI 299"
+    },
+    {
+        "name": "ITALIAN 299"
+    },
+    {
+        "name": "LAND ARC 299"
+    },
+    {
+        "name": "LSC 299"
+    },
+    {
+        "name": "M S & E 299"
+    },
+    {
+        "name": "M E 299"
+    },
+    {
+        "name": "MICROBIO 299"
+    },
+    {
+        "name": "NURSING 299"
+    },
+    {
+        "name": "NUTR SCI 299"
+    },
+    {
+        "name": "PATH-BIO 299"
+    },
+    {
+        "name": "PHYSICS 299"
+    },
+    {
+        "name": "PL PATH 299"
+    },
+    {
+        "name": "SCAND ST 299"
+    },
+    {
+        "name": "SLAVIC 299"
+    },
+    {
+        "name": "SOC WORK 299"
+    },
+    {
+        "name": "SOIL SCI 299"
+    },
+    {
+        "name": "ZOOLOGY 299"
+    },
+    {
+        "name": "ACCT I S 300"
+    },
+    {
+        "name": "ACT SCI 300"
+    },
+    {
+        "name": "ANTHRO 300"
+    },
+    {
+        "name": "ART HIST 300"
+    },
+    {
+        "name": "ASIAN 300"
+    },
+    {
+        "name": "B M E 300"
+    },
+    {
+        "name": "BOTANY 300"
+    },
+    {
+        "name": "CSCS 300"
+    },
+    {
+        "name": "CLASSICS 300"
+    },
+    {
+        "name": "COMP SCI 300"
+    },
+    {
+        "name": "COUN PSY 300"
+    },
+    {
+        "name": "ECON 300"
+    },
+    {
+        "name": "ED POL 300"
+    },
+    {
+        "name": "FINANCE 300"
+    },
+    {
+        "name": "HISTORY 300"
+    },
+    {
+        "name": "KINES 300"
+    },
+    {
+        "name": "M H R 300"
+    },
+    {
+        "name": "MARKETNG 300"
+    },
+    {
+        "name": "OTM 300"
+    },
+    {
+        "name": "PL PATH 300"
+    },
+    {
+        "name": "RP & SE 300"
+    },
+    {
+        "name": "R M I 300"
+    },
+    {
+        "name": "ACCT I S 301"
+    },
+    {
+        "name": "ACT SCI 301"
+    },
+    {
+        "name": "A F AERO 301"
+    },
+    {
+        "name": "AMER IND 301"
+    },
+    {
+        "name": "ANTHRO 301"
+    },
+    {
+        "name": "ASIALANG 301"
+    },
+    {
+        "name": "ASIAN 301"
+    },
+    {
+        "name": "BSE 301"
+    },
+    {
+        "name": "CNSR SCI 301"
+    },
+    {
+        "name": "CURRIC 301"
+    },
+    {
+        "name": "ECON 301"
+    },
+    {
+        "name": "ED PSYCH 301"
+    },
+    {
+        "name": "FOOD SCI 301"
+    },
+    {
+        "name": "GEN BUS 301"
+    },
+    {
+        "name": "HEBR-MOD 301"
+    },
+    {
+        "name": "HISTORY 301"
+    },
+    {
+        "name": "HIST SCI 301"
+    },
+    {
+        "name": "HORT 301"
+    },
+    {
+        "name": "INTER-LS 301"
+    },
+    {
+        "name": "JEWISH 301"
+    },
+    {
+        "name": "LINGUIS 301"
+    },
+    {
+        "name": "MIL SCI 301"
+    },
+    {
+        "name": "MUSIC 301"
+    },
+    {
+        "name": "NAV SCI 301"
+    },
+    {
+        "name": "PORTUG 301"
+    },
+    {
+        "name": "SLAVIC 301"
+    },
+    {
+        "name": "SOIL SCI 301"
+    },
+    {
+        "name": "STAT 301"
+    },
+    {
+        "name": "ACCT I S 302"
+    },
+    {
+        "name": "AFROAMER 302"
+    },
+    {
+        "name": "AGRONOMY 302"
+    },
+    {
+        "name": "ART 302"
+    },
+    {
+        "name": "CHICLA 302"
+    },
+    {
+        "name": "ECON 302"
+    },
+    {
+        "name": "ENTOM 302"
+    },
+    {
+        "name": "GEN BUS 302"
+    },
+    {
+        "name": "POLI SCI 302"
+    },
+    {
+        "name": "SOIL SCI 302"
+    },
+    {
+        "name": "ZOOLOGY 302"
+    },
+    {
+        "name": "ACT SCI 303"
+    },
+    {
+        "name": "AFRICAN 303"
+    },
+    {
+        "name": "AMER IND 303"
+    },
+    {
+        "name": "ANTHRO 303"
+    },
+    {
+        "name": "ART HIST 303"
+    },
+    {
+        "name": "ASIALANG 303"
+    },
+    {
+        "name": "CS&D 303"
+    },
+    {
+        "name": "E C E 303"
+    },
+    {
+        "name": "E M A 303"
+    },
+    {
+        "name": "GREEK 303"
+    },
+    {
+        "name": "HISTORY 303"
+    },
+    {
+        "name": "INTEREGR 303"
+    },
+    {
+        "name": "LINGUIS 303"
+    },
+    {
+        "name": "MICROBIO 303"
+    },
+    {
+        "name": "STAT 303"
+    },
+    {
+        "name": "COMP SCI 304"
+    },
+    {
+        "name": "CURRIC 304"
+    },
+    {
+        "name": "GEOSCI 304"
+    },
+    {
+        "name": "MICROBIO 304"
+    },
+    {
+        "name": "MUSIC 304"
+    },
+    {
+        "name": "PHILOS 304"
+    },
+    {
+        "name": "STAT 304"
+    },
+    {
+        "name": "AN SCI 305"
+    },
+    {
+        "name": "ASIALANG 305"
+    },
+    {
+        "name": "ENGL 305"
+    },
+    {
+        "name": "ENVIR ST 305"
+    },
+    {
+        "name": "FINANCE 305"
+    },
+    {
+        "name": "FOOD SCI 305"
+    },
+    {
+        "name": "GEN&WS 305"
+    },
+    {
+        "name": "GEOG 305"
+    },
+    {
+        "name": "GREEK 305"
+    },
+    {
+        "name": "LATIN 305"
+    },
+    {
+        "name": "M H R 305"
+    },
+    {
+        "name": "MARKETNG 305"
+    },
+    {
+        "name": "MICROBIO 305"
+    },
+    {
+        "name": "N E 305"
+    },
+    {
+        "name": "RELIG ST 305"
+    },
+    {
+        "name": "SLAVIC 305"
+    },
+    {
+        "name": "STAT 305"
+    },
+    {
+        "name": "URB R PL 305"
+    },
+    {
+        "name": "A A E 306"
+    },
+    {
+        "name": "AMER IND 306"
+    },
+    {
+        "name": "ART 306"
+    },
+    {
+        "name": "CHICLA 306"
+    },
+    {
+        "name": "CNP 306"
+    },
+    {
+        "name": "CURRIC 306"
+    },
+    {
+        "name": "ECON 306"
+    },
+    {
+        "name": "ENVIR ST 306"
+    },
+    {
+        "name": "GEN BUS 306"
+    },
+    {
+        "name": "M E 306"
+    },
+    {
+        "name": "POLI SCI 306"
+    },
+    {
+        "name": "REAL EST 306"
+    },
+    {
+        "name": "SLAVIC 306"
+    },
+    {
+        "name": "URB R PL 306"
+    },
+    {
+        "name": "ART 307"
+    },
+    {
+        "name": "ASIAN 307"
+    },
+    {
+        "name": "ENGL 307"
+    },
+    {
+        "name": "E M A 307"
+    },
+    {
+        "name": "GEN BUS 307"
+    },
+    {
+        "name": "M E 307"
+    },
+    {
+        "name": "PHYSICS 307"
+    },
+    {
+        "name": "RELIG ST 307"
+    },
+    {
+        "name": "AMER IND 308"
+    },
+    {
+        "name": "ART HIST 308"
+    },
+    {
+        "name": "KINES 308"
+    },
+    {
+        "name": "MATH 309"
+    },
+    {
+        "name": "STAT 309"
+    },
+    {
+        "name": "ACCT I S 310"
+    },
+    {
+        "name": "ASIAN 310"
+    },
+    {
+        "name": "ASTRON 310"
+    },
+    {
+        "name": "ATM OCN 310"
+    },
+    {
+        "name": "B M E 310"
+    },
+    {
+        "name": "CBE 310"
+    },
+    {
+        "name": "CIV ENGR 310"
+    },
+    {
+        "name": "COM ARTS 310"
+    },
+    {
+        "name": "ECON 310"
+    },
+    {
+        "name": "GEN BUS 310"
+    },
+    {
+        "name": "LINGUIS 310"
+    },
+    {
+        "name": "MARKETNG 310"
+    },
+    {
+        "name": "MATH 310"
+    },
+    {
+        "name": "M E 310"
+    },
+    {
+        "name": "MIL SCI 310"
+    },
+    {
+        "name": "RP & SE 310"
+    },
+    {
+        "name": "STAT 310"
+    },
+    {
+        "name": "CBE 311"
+    },
+    {
+        "name": "CHEM 311"
+    },
+    {
+        "name": "CIV ENGR 311"
+    },
+    {
+        "name": "CURRIC 311"
+    },
+    {
+        "name": "DANCE 311"
+    },
+    {
+        "name": "ECON 311"
+    },
+    {
+        "name": "FRENCH 311"
+    },
+    {
+        "name": "GEN BUS 311"
+    },
+    {
+        "name": "GERMAN 311"
+    },
+    {
+        "name": "ITALIAN 311"
+    },
+    {
+        "name": "LAND ARC 311"
+    },
+    {
+        "name": "M E 311"
+    },
+    {
+        "name": "MUS PERF 311"
+    },
+    {
+        "name": "PHYSICS 311"
+    },
+    {
+        "name": "PL PATH 311"
+    },
+    {
+        "name": "POLI SCI 311"
+    },
+    {
+        "name": "PORTUG 311"
+    },
+    {
+        "name": "PSYCH 311"
+    },
+    {
+        "name": "RELIG ST 311"
+    },
+    {
+        "name": "SPANISH 311"
+    },
+    {
+        "name": "STAT 311"
+    },
+    {
+        "name": "ART 312"
+    },
+    {
+        "name": "CURRIC 312"
+    },
+    {
+        "name": "I SY E 312"
+    },
+    {
+        "name": "STAT 312"
+    },
+    {
+        "name": "E C E 313"
+    },
+    {
+        "name": "FRENCH 313"
+    },
+    {
+        "name": "GERMAN 313"
+    },
+    {
+        "name": "I SY E 313"
+    },
+    {
+        "name": "INTL BUS 313"
+    },
+    {
+        "name": "NURSING 313"
+    },
+    {
+        "name": "ART 314"
+    },
+    {
+        "name": "ENGL 314"
+    },
+    {
+        "name": "KINES 314"
+    },
+    {
+        "name": "LSC 314"
+    },
+    {
+        "name": "NURSING 314"
+    },
+    {
+        "name": "POLI SCI 314"
+    },
+    {
+        "name": "B M E 315"
+    },
+    {
+        "name": "CHICLA 315"
+    },
+    {
+        "name": "CS&D 315"
+    },
+    {
+        "name": "ECON 315"
+    },
+    {
+        "name": "E C E 315"
+    },
+    {
+        "name": "ENGL 315"
+    },
+    {
+        "name": "ENVIR ST 315"
+    },
+    {
+        "name": "GEOG 315"
+    },
+    {
+        "name": "I SY E 315"
+    },
+    {
+        "name": "INTER-LS 315"
+    },
+    {
+        "name": "INTL ST 315"
+    },
+    {
+        "name": "NURSING 315"
+    },
+    {
+        "name": "POLI SCI 315"
+    },
+    {
+        "name": "SLAVIC 315"
+    },
+    {
+        "name": "ZOOLOGY 315"
+    },
+    {
+        "name": "ART 316"
+    },
+    {
+        "name": "CURRIC 316"
+    },
+    {
+        "name": "ENGL 316"
+    },
+    {
+        "name": "NURSING 316"
+    },
+    {
+        "name": "POLI SCI 316"
+    },
+    {
+        "name": "RP & SE 316"
+    },
+    {
+        "name": "ZOOLOGY 316"
+    },
+    {
+        "name": "CNP 317"
+    },
+    {
+        "name": "E C E 317"
+    },
+    {
+        "name": "ENVIR ST 317"
+    },
+    {
+        "name": "FOLKLORE 317"
+    },
+    {
+        "name": "NURSING 317"
+    },
+    {
+        "name": "AFROAMER 318"
+    },
+    {
+        "name": "ART 318"
+    },
+    {
+        "name": "ART HIST 318"
+    },
+    {
+        "name": "DANCE 318"
+    },
+    {
+        "name": "ENGL 318"
+    },
+    {
+        "name": "F&W ECOL 318"
+    },
+    {
+        "name": "KINES 318"
+    },
+    {
+        "name": "MUSIC 318"
+    },
+    {
+        "name": "AFROAMER 319"
+    },
+    {
+        "name": "ASIAN AM 319"
+    },
+    {
+        "name": "COMP SCI 319"
+    },
+    {
+        "name": "CURRIC 319"
+    },
+    {
+        "name": "DANCE 319"
+    },
+    {
+        "name": "DS 319"
+    },
+    {
+        "name": "FOLKLORE 319"
+    },
+    {
+        "name": "MATH 319"
+    },
+    {
+        "name": "SPANISH 319"
+    },
+    {
+        "name": "A A E 320"
+    },
+    {
+        "name": "CBE 320"
+    },
+    {
+        "name": "CIV ENGR 320"
+    },
+    {
+        "name": "CS&D 320"
+    },
+    {
+        "name": "COMP SCI 320"
+    },
+    {
+        "name": "ECON 320"
+    },
+    {
+        "name": "ED POL 320"
+    },
+    {
+        "name": "ED PSYCH 320"
+    },
+    {
+        "name": "E C E 320"
+    },
+    {
+        "name": "FINANCE 320"
+    },
+    {
+        "name": "FOLKLORE 320"
+    },
+    {
+        "name": "GEN&WS 320"
+    },
+    {
+        "name": "GEN BUS 320"
+    },
+    {
+        "name": "HORT 320"
+    },
+    {
+        "name": "I SY E 320"
+    },
+    {
+        "name": "INTEGSCI 320"
+    },
+    {
+        "name": "INTL BUS 320"
+    },
+    {
+        "name": "INTL ST 320"
+    },
+    {
+        "name": "M H R 320"
+    },
+    {
+        "name": "MATH 320"
+    },
+    {
+        "name": "RP & SE 320"
+    },
+    {
+        "name": "SOC 320"
+    },
+    {
+        "name": "SPANISH 320"
+    },
+    {
+        "name": "AFRICAN 321"
+    },
+    {
+        "name": "ANTHRO 321"
+    },
+    {
+        "name": "CNSR SCI 321"
+    },
+    {
+        "name": "DS 321"
+    },
+    {
+        "name": "ED PSYCH 321"
+    },
+    {
+        "name": "FRENCH 321"
+    },
+    {
+        "name": "I SY E 321"
+    },
+    {
+        "name": "INTER-AG 321"
+    },
+    {
+        "name": "ITALIAN 321"
+    },
+    {
+        "name": "MATH 321"
+    },
+    {
+        "name": "PHYSICS 321"
+    },
+    {
+        "name": "SLAVIC 321"
+    },
+    {
+        "name": "SOIL SCI 321"
+    },
+    {
+        "name": "ART 322"
+    },
+    {
+        "name": "CIV ENGR 322"
+    },
+    {
+        "name": "ED PSYCH 322"
+    },
+    {
+        "name": "FRENCH 322"
+    },
+    {
+        "name": "INFO SYS 322"
+    },
+    {
+        "name": "M H R 322"
+    },
+    {
+        "name": "MATH 322"
+    },
+    {
+        "name": "PHYSICS 322"
+    },
+    {
+        "name": "AFRICAN 323"
+    },
+    {
+        "name": "ART ED 323"
+    },
+    {
+        "name": "CLASSICS 323"
+    },
+    {
+        "name": "I SY E 323"
+    },
+    {
+        "name": "JEWISH 323"
+    },
+    {
+        "name": "NURSING 323"
+    },
+    {
+        "name": "PL PATH 323"
+    },
+    {
+        "name": "RELIG ST 323"
+    },
+    {
+        "name": "SOIL SCI 323"
+    },
+    {
+        "name": "ART 324"
+    },
+    {
+        "name": "ART ED 324"
+    },
+    {
+        "name": "CBE 324"
+    },
+    {
+        "name": "CIV ENGR 324"
+    },
+    {
+        "name": "ENVIR ST 324"
+    },
+    {
+        "name": "FOOD SCI 324"
+    },
+    {
+        "name": "MICROBIO 324"
+    },
+    {
+        "name": "NURSING 324"
+    },
+    {
+        "name": "POLI SCI 324"
+    },
+    {
+        "name": "SOIL SCI 324"
+    },
+    {
+        "name": "STAT 324"
+    },
+    {
+        "name": "ASIALANG 325"
+    },
+    {
+        "name": "COM ARTS 325"
+    },
+    {
+        "name": "FINANCE 325"
+    },
+    {
+        "name": "FOOD SCI 325"
+    },
+    {
+        "name": "FRENCH 325"
+    },
+    {
+        "name": "GERMAN 325"
+    },
+    {
+        "name": "KINES 325"
+    },
+    {
+        "name": "MICROBIO 325"
+    },
+    {
+        "name": "RP & SE 325"
+    },
+    {
+        "name": "SPANISH 325"
+    },
+    {
+        "name": "AFROAMER 326"
+    },
+    {
+        "name": "ART 326"
+    },
+    {
+        "name": "CBE 326"
+    },
+    {
+        "name": "ED PSYCH 326"
+    },
+    {
+        "name": "ENVIR ST 326"
+    },
+    {
+        "name": "GEN&WS 326"
+    },
+    {
+        "name": "LITTRANS 326"
+    },
+    {
+        "name": "NURSING 326"
+    },
+    {
+        "name": "SPANISH 326"
+    },
+    {
+        "name": "ART ED 327"
+    },
+    {
+        "name": "CHEM 327"
+    },
+    {
+        "name": "DS 327"
+    },
+    {
+        "name": "NURSING 327"
+    },
+    {
+        "name": "PUB AFFR 327"
+    },
+    {
+        "name": "SOIL SCI 327"
+    },
+    {
+        "name": "CHICLA 328"
+    },
+    {
+        "name": "CURRIC 328"
+    },
+    {
+        "name": "ENGL 328"
+    },
+    {
+        "name": "ESL 328"
+    },
+    {
+        "name": "ENVIR ST 328"
+    },
+    {
+        "name": "HISTORY 328"
+    },
+    {
+        "name": "AFRICAN 329"
+    },
+    {
+        "name": "ASIALANG 329"
+    },
+    {
+        "name": "CHEM 329"
+    },
+    {
+        "name": "INTL BUS 329"
+    },
+    {
+        "name": "POLI SCI 329"
+    },
+    {
+        "name": "SPANISH 329"
+    },
+    {
+        "name": "AMER IND 330"
+    },
+    {
+        "name": "ANTHRO 330"
+    },
+    {
+        "name": "ATM OCN 330"
+    },
+    {
+        "name": "B M E 330"
+    },
+    {
+        "name": "BOTANY 330"
+    },
+    {
+        "name": "CHICLA 330"
+    },
+    {
+        "name": "CIV ENGR 330"
+    },
+    {
+        "name": "CSCS 330"
+    },
+    {
+        "name": "DANCE 330"
+    },
+    {
+        "name": "ECON 330"
+    },
+    {
+        "name": "E C E 330"
+    },
+    {
+        "name": "FINANCE 330"
+    },
+    {
+        "name": "GEN&WS 330"
+    },
+    {
+        "name": "G L E 330"
+    },
+    {
+        "name": "KINES 330"
+    },
+    {
+        "name": "LINGUIS 330"
+    },
+    {
+        "name": "M S & E 330"
+    },
+    {
+        "name": "RP & SE 330"
+    },
+    {
+        "name": "AFRICAN 331"
+    },
+    {
+        "name": "ASIALANG 331"
+    },
+    {
+        "name": "CURRIC 331"
+    },
+    {
+        "name": "DANCE 331"
+    },
+    {
+        "name": "ED PSYCH 331"
+    },
+    {
+        "name": "E C E 331"
+    },
+    {
+        "name": "ENTOM 331"
+    },
+    {
+        "name": "GEOSCI 331"
+    },
+    {
+        "name": "GNS 331"
+    },
+    {
+        "name": "M E 331"
+    },
+    {
+        "name": "MUSIC 331"
+    },
+    {
+        "name": "MUS PERF 331"
+    },
+    {
+        "name": "SLAVIC 331"
+    },
+    {
+        "name": "ART 332"
+    },
+    {
+        "name": "CHICLA 332"
+    },
+    {
+        "name": "E C E 332"
+    },
+    {
+        "name": "GEN&WS 332"
+    },
+    {
+        "name": "LSC 332"
+    },
+    {
+        "name": "M S & E 332"
+    },
+    {
+        "name": "NUTR SCI 332"
+    },
+    {
+        "name": "SLAVIC 332"
+    },
+    {
+        "name": "AFRICAN 333"
+    },
+    {
+        "name": "AFROAMER 333"
+    },
+    {
+        "name": "ART 333"
+    },
+    {
+        "name": "ASIALANG 333"
+    },
+    {
+        "name": "GEN&WS 333"
+    },
+    {
+        "name": "HORT 333"
+    },
+    {
+        "name": "MUS PERF 333"
+    },
+    {
+        "name": "RELIG ST 333"
+    },
+    {
+        "name": "STAT 333"
+    },
+    {
+        "name": "ART 334"
+    },
+    {
+        "name": "AFRICAN 335"
+    },
+    {
+        "name": "A A E 335"
+    },
+    {
+        "name": "ANAT&PHY 335"
+    },
+    {
+        "name": "ASIALANG 335"
+    },
+    {
+        "name": "ASTRON 335"
+    },
+    {
+        "name": "ATM OCN 335"
+    },
+    {
+        "name": "CSCS 335"
+    },
+    {
+        "name": "ED POL 335"
+    },
+    {
+        "name": "ENVIR ST 335"
+    },
+    {
+        "name": "GEOG 335"
+    },
+    {
+        "name": "GEOSCI 335"
+    },
+    {
+        "name": "INTL ST 335"
+    },
+    {
+        "name": "JOURN 335"
+    },
+    {
+        "name": "MARKETNG 335"
+    },
+    {
+        "name": "RP & SE 335"
+    },
+    {
+        "name": "AN SCI 336"
+    },
+    {
+        "name": "ART 336"
+    },
+    {
+        "name": "ANAT&PHY 337"
+    },
+    {
+        "name": "ASIALANG 337"
+    },
+    {
+        "name": "CURRIC 337"
+    },
+    {
+        "name": "GERMAN 337"
+    },
+    {
+        "name": "LITTRANS 337"
+    },
+    {
+        "name": "MUSIC 337"
+    },
+    {
+        "name": "AFROAMER 338"
+    },
+    {
+        "name": "ANAT&PHY 338"
+    },
+    {
+        "name": "ART 338"
+    },
+    {
+        "name": "BOTANY 338"
+    },
+    {
+        "name": "GEOG 338"
+    },
+    {
+        "name": "POLI SCI 338"
+    },
+    {
+        "name": "ANTHRO 339"
+    },
+    {
+        "name": "ASIALANG 339"
+    },
+    {
+        "name": "CURRIC 339"
+    },
+    {
+        "name": "ENVIR ST 339"
+    },
+    {
+        "name": "GEOG 339"
+    },
+    {
+        "name": "GNS 339"
+    },
+    {
+        "name": "MUS PERF 339"
+    },
+    {
+        "name": "ACCT I S 340"
+    },
+    {
+        "name": "A A E 340"
+    },
+    {
+        "name": "AGRONOMY 340"
+    },
+    {
+        "name": "BOTANY 340"
+    },
+    {
+        "name": "CIV ENGR 340"
+    },
+    {
+        "name": "CLASSICS 340"
+    },
+    {
+        "name": "C&E SOC 340"
+    },
+    {
+        "name": "CNSR SCI 340"
+    },
+    {
+        "name": "E C E 340"
+    },
+    {
+        "name": "GEN&WS 340"
+    },
+    {
+        "name": "GEOG 340"
+    },
+    {
+        "name": "HORT 340"
+    },
+    {
+        "name": "MATH 340"
+    },
+    {
+        "name": "M E 340"
+    },
+    {
+        "name": "MUSIC 340"
+    },
+    {
+        "name": "SOC 340"
+    },
+    {
+        "name": "STAT 340"
+    },
+    {
+        "name": "AMER IND 341"
+    },
+    {
+        "name": "ART 341"
+    },
+    {
+        "name": "CHEM 341"
+    },
+    {
+        "name": "C&E SOC 341"
+    },
+    {
+        "name": "DANCE 341"
+    },
+    {
+        "name": "DS 341"
+    },
+    {
+        "name": "ENVIR ST 341"
+    },
+    {
+        "name": "INTEGSCI 341"
+    },
+    {
+        "name": "JEWISH 341"
+    },
+    {
+        "name": "MATH 341"
+    },
+    {
+        "name": "PHILOS 341"
+    },
+    {
+        "name": "POLI SCI 341"
+    },
+    {
+        "name": "SOC 341"
+    },
+    {
+        "name": "ART 342"
+    },
+    {
+        "name": "E C E 342"
+    },
+    {
+        "name": "FOLKLORE 342"
+    },
+    {
+        "name": "M E 342"
+    },
+    {
+        "name": "MEDIEVAL 342"
+    },
+    {
+        "name": "MUS PERF 342"
+    },
+    {
+        "name": "RELIG ST 342"
+    },
+    {
+        "name": "SCAND ST 342"
+    },
+    {
+        "name": "THEATRE 342"
+    },
+    {
+        "name": "CHEM 343"
+    },
+    {
+        "name": "ESL 343"
+    },
+    {
+        "name": "CHEM 344"
+    },
+    {
+        "name": "ESL 344"
+    },
+    {
+        "name": "AMER IND 345"
+    },
+    {
+        "name": "CHEM 345"
+    },
+    {
+        "name": "CSCS 345"
+    },
+    {
+        "name": "COM ARTS 345"
+    },
+    {
+        "name": "ESL 345"
+    },
+    {
+        "name": "ENVIR ST 345"
+    },
+    {
+        "name": "GEOG 345"
+    },
+    {
+        "name": "JOURN 345"
+    },
+    {
+        "name": "ART 346"
+    },
+    {
+        "name": "CHEM 346"
+    },
+    {
+        "name": "COM ARTS 346"
+    },
+    {
+        "name": "MUSIC 346"
+    },
+    {
+        "name": "AFROAMER 347"
+    },
+    {
+        "name": "CHICLA 347"
+    },
+    {
+        "name": "COM ARTS 347"
+    },
+    {
+        "name": "HISTORY 347"
+    },
+    {
+        "name": "MUS PERF 347"
+    },
+    {
+        "name": "ART 348"
+    },
+    {
+        "name": "ASIALANG 348"
+    },
+    {
+        "name": "I SY E 348"
+    },
+    {
+        "name": "MUS PERF 348"
+    },
+    {
+        "name": "ESL 349"
+    },
+    {
+        "name": "I SY E 349"
+    },
+    {
+        "name": "PSYCH 349"
+    },
+    {
+        "name": "STAT 349"
+    },
+    {
+        "name": "COM ARTS 350"
+    },
+    {
+        "name": "ED POL 350"
+    },
+    {
+        "name": "ENGL 350"
+    },
+    {
+        "name": "ESL 350"
+    },
+    {
+        "name": "GEN&WS 350"
+    },
+    {
+        "name": "HISTORY 350"
+    },
+    {
+        "name": "HIST SCI 350"
+    },
+    {
+        "name": "HORT 350"
+    },
+    {
+        "name": "I SY E 350"
+    },
+    {
+        "name": "KINES 350"
+    },
+    {
+        "name": "L I S 350"
+    },
+    {
+        "name": "LSC 350"
+    },
+    {
+        "name": "M S & E 350"
+    },
+    {
+        "name": "POLI SCI 350"
+    },
+    {
+        "name": "THEATRE 350"
+    },
+    {
+        "name": "ASIAN 351"
+    },
+    {
+        "name": "COM ARTS 351"
+    },
+    {
+        "name": "ENTOM 351"
+    },
+    {
+        "name": "GERMAN 351"
+    },
+    {
+        "name": "HORT 351"
+    },
+    {
+        "name": "L I S 351"
+    },
+    {
+        "name": "LINGUIS 351"
+    },
+    {
+        "name": "M S & E 351"
+    },
+    {
+        "name": "M E 351"
+    },
+    {
+        "name": "OTM 351"
+    },
+    {
+        "name": "A A E 352"
+    },
+    {
+        "name": "COMP SCI 352"
+    },
+    {
+        "name": "E C E 352"
+    },
+    {
+        "name": "M E 352"
+    },
+    {
+        "name": "E C E 353"
+    },
+    {
+        "name": "ENGL 353"
+    },
+    {
+        "name": "KINES 353"
+    },
+    {
+        "name": "ART 354"
+    },
+    {
+        "name": "COM ARTS 354"
+    },
+    {
+        "name": "COMP SCI 354"
+    },
+    {
+        "name": "E C E 354"
+    },
+    {
+        "name": "LAND ARC 354"
+    },
+    {
+        "name": "ART HIST 355"
+    },
+    {
+        "name": "ASIALANG 355"
+    },
+    {
+        "name": "ATM OCN 355"
+    },
+    {
+        "name": "COM ARTS 355"
+    },
+    {
+        "name": "CNSR SCI 355"
+    },
+    {
+        "name": "DANCE 355"
+    },
+    {
+        "name": "DS 355"
+    },
+    {
+        "name": "ENVIR ST 355"
+    },
+    {
+        "name": "KINES 355"
+    },
+    {
+        "name": "MARKETNG 355"
+    },
+    {
+        "name": "RP & SE 355"
+    },
+    {
+        "name": "ASIALANG 357"
+    },
+    {
+        "name": "C&E SOC 357"
+    },
+    {
+        "name": "CURRIC 357"
+    },
+    {
+        "name": "HISTORY 357"
+    },
+    {
+        "name": "SOC 357"
+    },
+    {
+        "name": "THEATRE 357"
+    },
+    {
+        "name": "COM ARTS 359"
+    },
+    {
+        "name": "CURRIC 359"
+    },
+    {
+        "name": "ENGL 359"
+    },
+    {
+        "name": "GEN&WS 359"
+    },
+    {
+        "name": "HISTORY 359"
+    },
+    {
+        "name": "CIV ENGR 360"
+    },
+    {
+        "name": "COM ARTS 360"
+    },
+    {
+        "name": "C&E SOC 360"
+    },
+    {
+        "name": "CNSR SCI 360"
+    },
+    {
+        "name": "ENGL 360"
+    },
+    {
+        "name": "ENVIR ST 360"
+    },
+    {
+        "name": "F&W ECOL 360"
+    },
+    {
+        "name": "GEN BUS 360"
+    },
+    {
+        "name": "G L E 360"
+    },
+    {
+        "name": "GEOSCI 360"
+    },
+    {
+        "name": "HISTORY 360"
+    },
+    {
+        "name": "HIST SCI 360"
+    },
+    {
+        "name": "KINES 360"
+    },
+    {
+        "name": "LSC 360"
+    },
+    {
+        "name": "M S & E 360"
+    },
+    {
+        "name": "RELIG ST 360"
+    },
+    {
+        "name": "SOC 360"
+    },
+    {
+        "name": "THEATRE 360"
+    },
+    {
+        "name": "ZOOLOGY 360"
+    },
+    {
+        "name": "AFRICAN 361"
+    },
+    {
+        "name": "ANTHRO 361"
+    },
+    {
+        "name": "COM ARTS 361"
+    },
+    {
+        "name": "C&E SOC 361"
+    },
+    {
+        "name": "KINES 361"
+    },
+    {
+        "name": "LACIS 361"
+    },
+    {
+        "name": "M E 361"
+    },
+    {
+        "name": "SOC 361"
+    },
+    {
+        "name": "SPANISH 361"
+    },
+    {
+        "name": "THEATRE 361"
+    },
+    {
+        "name": "M S & E 362"
+    },
+    {
+        "name": "ANTHRO 363"
+    },
+    {
+        "name": "LACIS 363"
+    },
+    {
+        "name": "M E 363"
+    },
+    {
+        "name": "SPANISH 363"
+    },
+    {
+        "name": "KINES 364"
+    },
+    {
+        "name": "M E 364"
+    },
+    {
+        "name": "ACT SCI 365"
+    },
+    {
+        "name": "CURRIC 365"
+    },
+    {
+        "name": "FINANCE 365"
+    },
+    {
+        "name": "GEN BUS 365"
+    },
+    {
+        "name": "INFO SYS 365"
+    },
+    {
+        "name": "ILS 365"
+    },
+    {
+        "name": "ITALIAN 365"
+    },
+    {
+        "name": "LITTRANS 365"
+    },
+    {
+        "name": "M H R 365"
+    },
+    {
+        "name": "MARKETNG 365"
+    },
+    {
+        "name": "POLI SCI 365"
+    },
+    {
+        "name": "REAL EST 365"
+    },
+    {
+        "name": "RP & SE 365"
+    },
+    {
+        "name": "R M I 365"
+    },
+    {
+        "name": "AN SCI 366"
+    },
+    {
+        "name": "ART 366"
+    },
+    {
+        "name": "HISTORY 366"
+    },
+    {
+        "name": "INTL ST 366"
+    },
+    {
+        "name": "LITTRANS 366"
+    },
+    {
+        "name": "SLAVIC 366"
+    },
+    {
+        "name": "THEATRE 366"
+    },
+    {
+        "name": "BSE 367"
+    },
+    {
+        "name": "CURRIC 367"
+    },
+    {
+        "name": "ENVIR ST 367"
+    },
+    {
+        "name": "ILS 367"
+    },
+    {
+        "name": "LACIS 367"
+    },
+    {
+        "name": "THEATRE 367"
+    },
+    {
+        "name": "CHICLA 368"
+    },
+    {
+        "name": "COM ARTS 368"
+    },
+    {
+        "name": "COMP SCI 368"
+    },
+    {
+        "name": "ENGL 368"
+    },
+    {
+        "name": "M E 368"
+    },
+    {
+        "name": "AFRICAN 370"
+    },
+    {
+        "name": "AGRONOMY 370"
+    },
+    {
+        "name": "AN SCI 370"
+    },
+    {
+        "name": "ASIAN 370"
+    },
+    {
+        "name": "BOTANY 370"
+    },
+    {
+        "name": "CIV ENGR 370"
+    },
+    {
+        "name": "CURRIC 370"
+    },
+    {
+        "name": "DY SCI 370"
+    },
+    {
+        "name": "E C E 370"
+    },
+    {
+        "name": "ESL 370"
+    },
+    {
+        "name": "GEN&WS 370"
+    },
+    {
+        "name": "GEN BUS 370"
+    },
+    {
+        "name": "GEOG 370"
+    },
+    {
+        "name": "GNS 370"
+    },
+    {
+        "name": "HORT 370"
+    },
+    {
+        "name": "KINES 370"
+    },
+    {
+        "name": "M E 370"
+    },
+    {
+        "name": "RELIG ST 370"
+    },
+    {
+        "name": "SOIL SCI 370"
+    },
+    {
+        "name": "AFRICAN 371"
+    },
+    {
+        "name": "A A E 371"
+    },
+    {
+        "name": "AMER IND 371"
+    },
+    {
+        "name": "CURRIC 371"
+    },
+    {
+        "name": "ECON 371"
+    },
+    {
+        "name": "INFO SYS 371"
+    },
+    {
+        "name": "ILS 371"
+    },
+    {
+        "name": "LINGUIS 371"
+    },
+    {
+        "name": "PHYSICS 371"
+    },
+    {
+        "name": "STAT 371"
+    },
+    {
+        "name": "ART 372"
+    },
+    {
+        "name": "BSE 372"
+    },
+    {
+        "name": "CIV ENGR 372"
+    },
+    {
+        "name": "COM ARTS 372"
+    },
+    {
+        "name": "CURRIC 372"
+    },
+    {
+        "name": "GERMAN 372"
+    },
+    {
+        "name": "HORT 372"
+    },
+    {
+        "name": "SOIL SCI 372"
+    },
+    {
+        "name": "THEATRE 372"
+    },
+    {
+        "name": "AFRICAN 373"
+    },
+    {
+        "name": "A A E 373"
+    },
+    {
+        "name": "CURRIC 373"
+    },
+    {
+        "name": "INTL ST 373"
+    },
+    {
+        "name": "JOURN 373"
+    },
+    {
+        "name": "KINES 373"
+    },
+    {
+        "name": "LINGUIS 373"
+    },
+    {
+        "name": "LITTRANS 373"
+    },
+    {
+        "name": "POLI SCI 373"
+    },
+    {
+        "name": "URB R PL 373"
+    },
+    {
+        "name": "A A E 375"
+    },
+    {
+        "name": "AGRONOMY 375"
+    },
+    {
+        "name": "AN SCI 375"
+    },
+    {
+        "name": "ASIAN 375"
+    },
+    {
+        "name": "BIOCHEM 375"
+    },
+    {
+        "name": "BSE 375"
+    },
+    {
+        "name": "BIOLOGY 375"
+    },
+    {
+        "name": "CSCS 375"
+    },
+    {
+        "name": "COM ARTS 375"
+    },
+    {
+        "name": "C&E SOC 375"
+    },
+    {
+        "name": "DY SCI 375"
+    },
+    {
+        "name": "ENGL 375"
+    },
+    {
+        "name": "ENTOM 375"
+    },
+    {
+        "name": "FOOD SCI 375"
+    },
+    {
+        "name": "F&W ECOL 375"
+    },
+    {
+        "name": "GENETICS 375"
+    },
+    {
+        "name": "GNS 375"
+    },
+    {
+        "name": "HISTORY 375"
+    },
+    {
+        "name": "INTEGSCI 375"
+    },
+    {
+        "name": "INTL ST 375"
+    },
+    {
+        "name": "LAND ARC 375"
+    },
+    {
+        "name": "MATH 375"
+    },
+    {
+        "name": "NAV SCI 375"
+    },
+    {
+        "name": "PL PATH 375"
+    },
+    {
+        "name": "SOC WORK 375"
+    },
+    {
+        "name": "AGRONOMY 376"
+    },
+    {
+        "name": "ANTHRO 376"
+    },
+    {
+        "name": "ART 376"
+    },
+    {
+        "name": "ASIALANG 376"
+    },
+    {
+        "name": "DANCE 376"
+    },
+    {
+        "name": "E C E 376"
+    },
+    {
+        "name": "HORT 376"
+    },
+    {
+        "name": "LACIS 376"
+    },
+    {
+        "name": "M E 376"
+    },
+    {
+        "name": "CIV ENGR 377"
+    },
+    {
+        "name": "COM ARTS 377"
+    },
+    {
+        "name": "ENVIR ST 377"
+    },
+    {
+        "name": "GEOG 377"
+    },
+    {
+        "name": "NUTR SCI 377"
+    },
+    {
+        "name": "ASIALANG 378"
+    },
+    {
+        "name": "ASIAN 378"
+    },
+    {
+        "name": "DY SCI 378"
+    },
+    {
+        "name": "GEOG 378"
+    },
+    {
+        "name": "ART HIST 379"
+    },
+    {
+        "name": "ASIAN 379"
+    },
+    {
+        "name": "E C E 379"
+    },
+    {
+        "name": "GEOG 379"
+    },
+    {
+        "name": "THEATRE 379"
+    },
+    {
+        "name": "BSE 380"
+    },
+    {
+        "name": "LAND ARC 380"
+    },
+    {
+        "name": "PSYCH 380"
+    },
+    {
+        "name": "PUB AFFR 380"
+    },
+    {
+        "name": "BIOCORE 381"
+    },
+    {
+        "name": "BIOCORE 382"
+    },
+    {
+        "name": "B M E 389"
+    },
+    {
+        "name": "I SY E 389"
+    },
+    {
+        "name": "CURRIC 390"
+    },
+    {
+        "name": "ECON 390"
+    },
+    {
+        "name": "F&W ECOL 390"
+    },
+    {
+        "name": "KINES 390"
+    },
+    {
+        "name": "AFRICAN 391"
+    },
+    {
+        "name": "GERMAN 391"
+    },
+    {
+        "name": "CIV ENGR 392"
+    },
+    {
+        "name": "GEN&WS 392"
+    },
+    {
+        "name": "HISTORY 392"
+    },
+    {
+        "name": "CURRIC 393"
+    },
+    {
+        "name": "CIV ENGR 395"
+    },
+    {
+        "name": "E M A 395"
+    },
+    {
+        "name": "CURRIC 396"
+    },
+    {
+        "name": "INTEREGR 397"
+    },
+    {
+        "name": "LAND ARC 397"
+    },
+    {
+        "name": "ENVIR ST 398"
+    },
+    {
+        "name": "ACCT I S 399"
+    },
+    {
+        "name": "ACT SCI 399"
+    },
+    {
+        "name": "A A E 399"
+    },
+    {
+        "name": "AGRONOMY 399"
+    },
+    {
+        "name": "ANAT&PHY 399"
+    },
+    {
+        "name": "AN SCI 399"
+    },
+    {
+        "name": "BIOCHEM 399"
+    },
+    {
+        "name": "BSE 399"
+    },
+    {
+        "name": "B M E 399"
+    },
+    {
+        "name": "C&E SOC 399"
+    },
+    {
+        "name": "CURRIC 399"
+    },
+    {
+        "name": "DY SCI 399"
+    },
+    {
+        "name": "DANCE 399"
+    },
+    {
+        "name": "ED POL 399"
+    },
+    {
+        "name": "E C E 399"
+    },
+    {
+        "name": "ENVIR ST 399"
+    },
+    {
+        "name": "FINANCE 399"
+    },
+    {
+        "name": "FOLKLORE 399"
+    },
+    {
+        "name": "FOOD SCI 399"
+    },
+    {
+        "name": "F&W ECOL 399"
+    },
+    {
+        "name": "GENETICS 399"
+    },
+    {
+        "name": "HORT 399"
+    },
+    {
+        "name": "KINES 399"
+    },
+    {
+        "name": "L I S 399"
+    },
+    {
+        "name": "LSC 399"
+    },
+    {
+        "name": "M H R 399"
+    },
+    {
+        "name": "MARKETNG 399"
+    },
+    {
+        "name": "MICROBIO 399"
+    },
+    {
+        "name": "NUTR SCI 399"
+    },
+    {
+        "name": "OTM 399"
+    },
+    {
+        "name": "PATH 399"
+    },
+    {
+        "name": "REAL EST 399"
+    },
+    {
+        "name": "R M I 399"
+    },
+    {
+        "name": "SOIL SCI 399"
+    },
+    {
+        "name": "B M E 400"
+    },
+    {
+        "name": "BOTANY 400"
+    },
+    {
+        "name": "CSCS 400"
+    },
+    {
+        "name": "COMP SCI 400"
+    },
+    {
+        "name": "ECON 400"
+    },
+    {
+        "name": "ENVIR ST 400"
+    },
+    {
+        "name": "LEGAL ST 400"
+    },
+    {
+        "name": "POLI SCI 400"
+    },
+    {
+        "name": "RELIG ST 400"
+    },
+    {
+        "name": "SOC WORK 400"
+    },
+    {
+        "name": "ZOOLOGY 400"
+    },
+    {
+        "name": "A F AERO 401"
+    },
+    {
+        "name": "ATM OCN 401"
+    },
+    {
+        "name": "BIOCORE 401"
+    },
+    {
+        "name": "ENVIR ST 401"
+    },
+    {
+        "name": "G L E 401"
+    },
+    {
+        "name": "GERMAN 401"
+    },
+    {
+        "name": "GREEK 401"
+    },
+    {
+        "name": "HEBR-MOD 401"
+    },
+    {
+        "name": "HISTORY 401"
+    },
+    {
+        "name": "HIST SCI 401"
+    },
+    {
+        "name": "INTL ST 401"
+    },
+    {
+        "name": "JEWISH 401"
+    },
+    {
+        "name": "JOURN 401"
+    },
+    {
+        "name": "LATIN 401"
+    },
+    {
+        "name": "M H R 401"
+    },
+    {
+        "name": "M S & E 401"
+    },
+    {
+        "name": "MIL SCI 401"
+    },
+    {
+        "name": "MUS PERF 401"
+    },
+    {
+        "name": "NAV SCI 401"
+    },
+    {
+        "name": "ONCOLOGY 401"
+    },
+    {
+        "name": "POLI SCI 401"
+    },
+    {
+        "name": "PSYCH 401"
+    },
+    {
+        "name": "SCAND ST 401"
+    },
+    {
+        "name": "S&A PHM 401"
+    },
+    {
+        "name": "BOTANY 402"
+    },
+    {
+        "name": "COM ARTS 402"
+    },
+    {
+        "name": "COMP SCI 402"
+    },
+    {
+        "name": "ENVIR ST 402"
+    },
+    {
+        "name": "F&W ECOL 402"
+    },
+    {
+        "name": "GEOSCI 402"
+    },
+    {
+        "name": "GERMAN 402"
+    },
+    {
+        "name": "INTL ST 402"
+    },
+    {
+        "name": "ART HIST 403"
+    },
+    {
+        "name": "BOTANY 403"
+    },
+    {
+        "name": "COMP SCI 403"
+    },
+    {
+        "name": "ENGL 403"
+    },
+    {
+        "name": "GERMAN 403"
+    },
+    {
+        "name": "INTL BUS 403"
+    },
+    {
+        "name": "INTL ST 403"
+    },
+    {
+        "name": "M H R 403"
+    },
+    {
+        "name": "STAT 403"
+    },
+    {
+        "name": "ENVIR ST 404"
+    },
+    {
+        "name": "GERMAN 404"
+    },
+    {
+        "name": "HIST SCI 404"
+    },
+    {
+        "name": "SCAND ST 404"
+    },
+    {
+        "name": "AFRICAN 405"
+    },
+    {
+        "name": "ANTHRO 405"
+    },
+    {
+        "name": "ASIALANG 405"
+    },
+    {
+        "name": "E M A 405"
+    },
+    {
+        "name": "MUS PERF 405"
+    },
+    {
+        "name": "PSYCH 405"
+    },
+    {
+        "name": "ZOOLOGY 405"
+    },
+    {
+        "name": "ACCT I S 406"
+    },
+    {
+        "name": "AFRICAN 406"
+    },
+    {
+        "name": "CURRIC 406"
+    },
+    {
+        "name": "N E 406"
+    },
+    {
+        "name": "PHYSICS 406"
+    },
+    {
+        "name": "RP & SE 406"
+    },
+    {
+        "name": "CNP 407"
+    },
+    {
+        "name": "COMP SCI 407"
+    },
+    {
+        "name": "ENGL 407"
+    },
+    {
+        "name": "L I S 407"
+    },
+    {
+        "name": "MUS PERF 407"
+    },
+    {
+        "name": "ENGL 408"
+    },
+    {
+        "name": "ART 409"
+    },
+    {
+        "name": "ART HIST 409"
+    },
+    {
+        "name": "CURRIC 409"
+    },
+    {
+        "name": "ENGL 409"
+    },
+    {
+        "name": "HISTORY 409"
+    },
+    {
+        "name": "MUSIC 409"
+    },
+    {
+        "name": "MUS PERF 409"
+    },
+    {
+        "name": "RELIG ST 409"
+    },
+    {
+        "name": "ANTHRO 410"
+    },
+    {
+        "name": "BOTANY 410"
+    },
+    {
+        "name": "CURRIC 410"
+    },
+    {
+        "name": "ECON 410"
+    },
+    {
+        "name": "FINANCE 410"
+    },
+    {
+        "name": "FOOD SCI 410"
+    },
+    {
+        "name": "GEN&WS 410"
+    },
+    {
+        "name": "LITTRANS 410"
+    },
+    {
+        "name": "MARKETNG 410"
+    },
+    {
+        "name": "MIL SCI 410"
+    },
+    {
+        "name": "MUSIC 410"
+    },
+    {
+        "name": "REAL EST 410"
+    },
+    {
+        "name": "SCAND ST 410"
+    },
+    {
+        "name": "ZOOLOGY 410"
+    },
+    {
+        "name": "ART HIST 411"
+    },
+    {
+        "name": "CIV ENGR 411"
+    },
+    {
+        "name": "E C E 411"
+    },
+    {
+        "name": "ENGL 411"
+    },
+    {
+        "name": "MUSIC 411"
+    },
+    {
+        "name": "MUS PERF 411"
+    },
+    {
+        "name": "N E 411"
+    },
+    {
+        "name": "REAL EST 411"
+    },
+    {
+        "name": "SCAND ST 411"
+    },
+    {
+        "name": "S&A PHM 411"
+    },
+    {
+        "name": "STAT 411"
+    },
+    {
+        "name": "COMP SCI 412"
+    },
+    {
+        "name": "ED POL 412"
+    },
+    {
+        "name": "E C E 412"
+    },
+    {
+        "name": "ENGL 412"
+    },
+    {
+        "name": "HISTORY 412"
+    },
+    {
+        "name": "I SY E 412"
+    },
+    {
+        "name": "M H R 412"
+    },
+    {
+        "name": "REAL EST 412"
+    },
+    {
+        "name": "INTEREGR 413"
+    },
+    {
+        "name": "MUS PERF 413"
+    },
+    {
+        "name": "AN SCI 414"
+    },
+    {
+        "name": "ART 414"
+    },
+    {
+        "name": "B M E 414"
+    },
+    {
+        "name": "DY SCI 414"
+    },
+    {
+        "name": "M E 414"
+    },
+    {
+        "name": "POLI SCI 414"
+    },
+    {
+        "name": "PSYCH 414"
+    },
+    {
+        "name": "AN SCI 415"
+    },
+    {
+        "name": "CIV ENGR 415"
+    },
+    {
+        "name": "ENGL 415"
+    },
+    {
+        "name": "I SY E 415"
+    },
+    {
+        "name": "MARKETNG 415"
+    },
+    {
+        "name": "MATH 415"
+    },
+    {
+        "name": "MUS PERF 415"
+    },
+    {
+        "name": "PHYSICS 415"
+    },
+    {
+        "name": "REAL EST 415"
+    },
+    {
+        "name": "MUSIC 416"
+    },
+    {
+        "name": "ENVIR ST 417"
+    },
+    {
+        "name": "I SY E 417"
+    },
+    {
+        "name": "JOURN 417"
+    },
+    {
+        "name": "MUS PERF 417"
+    },
+    {
+        "name": "POLI SCI 417"
+    },
+    {
+        "name": "CURRIC 418"
+    },
+    {
+        "name": "E P 418"
+    },
+    {
+        "name": "HISTORY 418"
+    },
+    {
+        "name": "M E 418"
+    },
+    {
+        "name": "HISTORY 419"
+    },
+    {
+        "name": "M E 419"
+    },
+    {
+        "name": "MUS PERF 419"
+    },
+    {
+        "name": "SCAND ST 419"
+    },
+    {
+        "name": "ASIAN AM 420"
+    },
+    {
+        "name": "CLASSICS 420"
+    },
+    {
+        "name": "COM ARTS 420"
+    },
+    {
+        "name": "CURRIC 420"
+    },
+    {
+        "name": "ECON 420"
+    },
+    {
+        "name": "ED POL 420"
+    },
+    {
+        "name": "FINANCE 420"
+    },
+    {
+        "name": "GEN&WS 420"
+    },
+    {
+        "name": "INTL BUS 420"
+    },
+    {
+        "name": "MARKETNG 420"
+    },
+    {
+        "name": "MUSIC 420"
+    },
+    {
+        "name": "PHM SCI 420"
+    },
+    {
+        "name": "REAL EST 420"
+    },
+    {
+        "name": "URB R PL 420"
+    },
+    {
+        "name": "A A E 421"
+    },
+    {
+        "name": "ASIALANG 421"
+    },
+    {
+        "name": "CHEM 421"
+    },
+    {
+        "name": "CIV ENGR 421"
+    },
+    {
+        "name": "DS 421"
+    },
+    {
+        "name": "ECON 421"
+    },
+    {
+        "name": "G L E 421"
+    },
+    {
+        "name": "MARKETNG 421"
+    },
+    {
+        "name": "M S & E 421"
+    },
+    {
+        "name": "MATH 421"
+    },
+    {
+        "name": "MUS PERF 421"
+    },
+    {
+        "name": "OTM 421"
+    },
+    {
+        "name": "SLAVIC 421"
+    },
+    {
+        "name": "SOC 421"
+    },
+    {
+        "name": "STAT 421"
+    },
+    {
+        "name": "A A E 422"
+    },
+    {
+        "name": "CIV ENGR 422"
+    },
+    {
+        "name": "M H R 422"
+    },
+    {
+        "name": "MARKETNG 422"
+    },
+    {
+        "name": "OTM 422"
+    },
+    {
+        "name": "SLAVIC 422"
+    },
+    {
+        "name": "SOC WORK 422"
+    },
+    {
+        "name": "SOC 422"
+    },
+    {
+        "name": "GEN&WS 423"
+    },
+    {
+        "name": "ILS 423"
+    },
+    {
+        "name": "JEWISH 423"
+    },
+    {
+        "name": "M H R 423"
+    },
+    {
+        "name": "MARKETNG 423"
+    },
+    {
+        "name": "M S & E 423"
+    },
+    {
+        "name": "MUS PERF 423"
+    },
+    {
+        "name": "N E 423"
+    },
+    {
+        "name": "OTM 423"
+    },
+    {
+        "name": "PHARMACY 423"
+    },
+    {
+        "name": "SOC 423"
+    },
+    {
+        "name": "CS&D 424"
+    },
+    {
+        "name": "INFO SYS 424"
+    },
+    {
+        "name": "MARKETNG 424"
+    },
+    {
+        "name": "M E 424"
+    },
+    {
+        "name": "SCAND ST 424"
+    },
+    {
+        "name": "STAT 424"
+    },
+    {
+        "name": "COMP SCI 425"
+    },
+    {
+        "name": "GEN&WS 425"
+    },
+    {
+        "name": "HDFS 425"
+    },
+    {
+        "name": "I SY E 425"
+    },
+    {
+        "name": "JOURN 425"
+    },
+    {
+        "name": "LEGAL ST 425"
+    },
+    {
+        "name": "MARKETNG 425"
+    },
+    {
+        "name": "MATH 425"
+    },
+    {
+        "name": "MUS PERF 425"
+    },
+    {
+        "name": "REAL EST 425"
+    },
+    {
+        "name": "SOC 425"
+    },
+    {
+        "name": "CBE 426"
+    },
+    {
+        "name": "CIV ENGR 426"
+    },
+    {
+        "name": "ENGL 426"
+    },
+    {
+        "name": "HISTORY 426"
+    },
+    {
+        "name": "LEGAL ST 426"
+    },
+    {
+        "name": "MEDIEVAL 426"
+    },
+    {
+        "name": "CIV ENGR 427"
+    },
+    {
+        "name": "E C E 427"
+    },
+    {
+        "name": "M H R 427"
+    },
+    {
+        "name": "MUS PERF 427"
+    },
+    {
+        "name": "N E 427"
+    },
+    {
+        "name": "ART 428"
+    },
+    {
+        "name": "N E 428"
+    },
+    {
+        "name": "ART 429"
+    },
+    {
+        "name": "DS 429"
+    },
+    {
+        "name": "M E 429"
+    },
+    {
+        "name": "ART HIST 430"
+    },
+    {
+        "name": "CBE 430"
+    },
+    {
+        "name": "FOLKLORE 430"
+    },
+    {
+        "name": "JEWISH 430"
+    },
+    {
+        "name": "MARKETNG 430"
+    },
+    {
+        "name": "PHILOS 430"
+    },
+    {
+        "name": "SOIL SCI 430"
+    },
+    {
+        "name": "SPANISH 430"
+    },
+    {
+        "name": "ZOOLOGY 430"
+    },
+    {
+        "name": "AN SCI 431"
+    },
+    {
+        "name": "E C E 431"
+    },
+    {
+        "name": "ENGL 431"
+    },
+    {
+        "name": "G L E 431"
+    },
+    {
+        "name": "GEOSCI 431"
+    },
+    {
+        "name": "INTL ST 431"
+    },
+    {
+        "name": "MATH 431"
+    },
+    {
+        "name": "MUS PERF 431"
+    },
+    {
+        "name": "POLI SCI 431"
+    },
+    {
+        "name": "STAT 431"
+    },
+    {
+        "name": "CURRIC 432"
+    },
+    {
+        "name": "LSC 432"
+    },
+    {
+        "name": "PHM SCI 432"
+    },
+    {
+        "name": "PHILOS 432"
+    },
+    {
+        "name": "M S & E 433"
+    },
+    {
+        "name": "MUS PERF 433"
+    },
+    {
+        "name": "N E 433"
+    },
+    {
+        "name": "SLAVIC 433"
+    },
+    {
+        "name": "AN SCI 434"
+    },
+    {
+        "name": "ASIAN 434"
+    },
+    {
+        "name": "C&E SOC 434"
+    },
+    {
+        "name": "DY SCI 434"
+    },
+    {
+        "name": "ENVIR ST 434"
+    },
+    {
+        "name": "GEOG 434"
+    },
+    {
+        "name": "M H R 434"
+    },
+    {
+        "name": "NURSING 434"
+    },
+    {
+        "name": "AFRICAN 435"
+    },
+    {
+        "name": "AN SCI 435"
+    },
+    {
+        "name": "CHICLA 435"
+    },
+    {
+        "name": "COMP SCI 435"
+    },
+    {
+        "name": "E C E 435"
+    },
+    {
+        "name": "GEN&WS 435"
+    },
+    {
+        "name": "HISTORY 435"
+    },
+    {
+        "name": "LEGAL ST 435"
+    },
+    {
+        "name": "MATH 435"
+    },
+    {
+        "name": "MUS PERF 435"
+    },
+    {
+        "name": "NURSING 435"
+    },
+    {
+        "name": "POLI SCI 435"
+    },
+    {
+        "name": "RP & SE 435"
+    },
+    {
+        "name": "E C E 436"
+    },
+    {
+        "name": "NURSING 436"
+    },
+    {
+        "name": "AMER IND 437"
+    },
+    {
+        "name": "ANTHRO 437"
+    },
+    {
+        "name": "FOLKLORE 437"
+    },
+    {
+        "name": "FOOD SCI 437"
+    },
+    {
+        "name": "GEN&WS 437"
+    },
+    {
+        "name": "MUS PERF 437"
+    },
+    {
+        "name": "NURSING 437"
+    },
+    {
+        "name": "ART 438"
+    },
+    {
+        "name": "ENGL 438"
+    },
+    {
+        "name": "GEN&WS 438"
+    },
+    {
+        "name": "LITTRANS 438"
+    },
+    {
+        "name": "PHM PRAC 438"
+    },
+    {
+        "name": "SCAND ST 438"
+    },
+    {
+        "name": "E C E 439"
+    },
+    {
+        "name": "GNS 439"
+    },
+    {
+        "name": "M E 439"
+    },
+    {
+        "name": "MUS PERF 439"
+    },
+    {
+        "name": "CBE 440"
+    },
+    {
+        "name": "CHICLA 440"
+    },
+    {
+        "name": "CIV ENGR 440"
+    },
+    {
+        "name": "FOOD SCI 440"
+    },
+    {
+        "name": "LACIS 440"
+    },
+    {
+        "name": "LEGAL ST 440"
+    },
+    {
+        "name": "L I S 440"
+    },
+    {
+        "name": "LSC 440"
+    },
+    {
+        "name": "M E 440"
+    },
+    {
+        "name": "MUS PERF 440"
+    },
+    {
+        "name": "PHILOS 440"
+    },
+    {
+        "name": "SOC 440"
+    },
+    {
+        "name": "ATM OCN 441"
+    },
+    {
+        "name": "CNP 441"
+    },
+    {
+        "name": "ECON 441"
+    },
+    {
+        "name": "M H R 441"
+    },
+    {
+        "name": "MUS PERF 441"
+    },
+    {
+        "name": "SOC WORK 441"
+    },
+    {
+        "name": "SOC 441"
+    },
+    {
+        "name": "SOC WORK 442"
+    },
+    {
+        "name": "ASIAN 443"
+    },
+    {
+        "name": "COM ARTS 443"
+    },
+    {
+        "name": "MATH 443"
+    },
+    {
+        "name": "ENGL 444"
+    },
+    {
+        "name": "LEGAL ST 444"
+    },
+    {
+        "name": "MATH 444"
+    },
+    {
+        "name": "SOC 444"
+    },
+    {
+        "name": "CIV ENGR 445"
+    },
+    {
+        "name": "E C E 445"
+    },
+    {
+        "name": "ENVIR ST 445"
+    },
+    {
+        "name": "FINANCE 445"
+    },
+    {
+        "name": "INTL BUS 445"
+    },
+    {
+        "name": "JOURN 445"
+    },
+    {
+        "name": "SPANISH 445"
+    },
+    {
+        "name": "ART 446"
+    },
+    {
+        "name": "CNP 446"
+    },
+    {
+        "name": "M E 446"
+    },
+    {
+        "name": "SPANISH 446"
+    },
+    {
+        "name": "CNP 447"
+    },
+    {
+        "name": "E C E 447"
+    },
+    {
+        "name": "MUS PERF 447"
+    },
+    {
+        "name": "ART 448"
+    },
+    {
+        "name": "M S & E 448"
+    },
+    {
+        "name": "MUS PERF 448"
+    },
+    {
+        "name": "PHYSICS 448"
+    },
+    {
+        "name": "GEN&WS 449"
+    },
+    {
+        "name": "JOURN 449"
+    },
+    {
+        "name": "PSYCH 449"
+    },
+    {
+        "name": "AMER IND 450"
+    },
+    {
+        "name": "CBE 450"
+    },
+    {
+        "name": "COM ARTS 450"
+    },
+    {
+        "name": "ECON 450"
+    },
+    {
+        "name": "ED POL 450"
+    },
+    {
+        "name": "ENTOM 450"
+    },
+    {
+        "name": "F&W ECOL 450"
+    },
+    {
+        "name": "GEN BUS 450"
+    },
+    {
+        "name": "I SY E 450"
+    },
+    {
+        "name": "INTL BUS 450"
+    },
+    {
+        "name": "ITALIAN 450"
+    },
+    {
+        "name": "JOURN 450"
+    },
+    {
+        "name": "LEGAL ST 450"
+    },
+    {
+        "name": "LSC 450"
+    },
+    {
+        "name": "MICROBIO 450"
+    },
+    {
+        "name": "ASIALANG 451"
+    },
+    {
+        "name": "B M I 451"
+    },
+    {
+        "name": "CIV ENGR 451"
+    },
+    {
+        "name": "DANCE 451"
+    },
+    {
+        "name": "DS 451"
+    },
+    {
+        "name": "F&W ECOL 451"
+    },
+    {
+        "name": "GEN BUS 451"
+    },
+    {
+        "name": "M S & E 451"
+    },
+    {
+        "name": "OTM 451"
+    },
+    {
+        "name": "PHARMACY 451"
+    },
+    {
+        "name": "POP HLTH 451"
+    },
+    {
+        "name": "SLAVIC 451"
+    },
+    {
+        "name": "SOIL SCI 451"
+    },
+    {
+        "name": "STAT 451"
+    },
+    {
+        "name": "THEATRE 451"
+    },
+    {
+        "name": "ART 452"
+    },
+    {
+        "name": "ATM OCN 452"
+    },
+    {
+        "name": "OTM 452"
+    },
+    {
+        "name": "CNP 453"
+    },
+    {
+        "name": "E C E 453"
+    },
+    {
+        "name": "ENGL 453"
+    },
+    {
+        "name": "SOC WORK 453"
+    },
+    {
+        "name": "ART 454"
+    },
+    {
+        "name": "CNP 454"
+    },
+    {
+        "name": "COM ARTS 454"
+    },
+    {
+        "name": "CURRIC 454"
+    },
+    {
+        "name": "E C E 454"
+    },
+    {
+        "name": "BOTANY 455"
+    },
+    {
+        "name": "CSCS 455"
+    },
+    {
+        "name": "ECON 455"
+    },
+    {
+        "name": "F&W ECOL 455"
+    },
+    {
+        "name": "ANTHRO 456"
+    },
+    {
+        "name": "ENGL 456"
+    },
+    {
+        "name": "M S & E 456"
+    },
+    {
+        "name": "PSYCH 456"
+    },
+    {
+        "name": "ASIALANG 457"
+    },
+    {
+        "name": "ENGL 457"
+    },
+    {
+        "name": "ANTHRO 458"
+    },
+    {
+        "name": "ART 458"
+    },
+    {
+        "name": "ECON 458"
+    },
+    {
+        "name": "BOTANY 460"
+    },
+    {
+        "name": "ENVIR ST 460"
+    },
+    {
+        "name": "F&W ECOL 460"
+    },
+    {
+        "name": "GEOG 460"
+    },
+    {
+        "name": "HISTORY 460"
+    },
+    {
+        "name": "LAND ARC 460"
+    },
+    {
+        "name": "MARKETNG 460"
+    },
+    {
+        "name": "POLI SCI 460"
+    },
+    {
+        "name": "PSYCH 460"
+    },
+    {
+        "name": "RP & SE 460"
+    },
+    {
+        "name": "SPANISH 460"
+    },
+    {
+        "name": "ZOOLOGY 460"
+    },
+    {
+        "name": "BSE 461"
+    },
+    {
+        "name": "ECON 461"
+    },
+    {
+        "name": "ENGL 461"
+    },
+    {
+        "name": "L I S 461"
+    },
+    {
+        "name": "M S & E 461"
+    },
+    {
+        "name": "MUSIC 461"
+    },
+    {
+        "name": "PHM PRAC 461"
+    },
+    {
+        "name": "POLI SCI 461"
+    },
+    {
+        "name": "STAT 461"
+    },
+    {
+        "name": "ASIAN AM 462"
+    },
+    {
+        "name": "B M E 462"
+    },
+    {
+        "name": "DANCE 462"
+    },
+    {
+        "name": "E C E 462"
+    },
+    {
+        "name": "ENGL 462"
+    },
+    {
+        "name": "M S & E 462"
+    },
+    {
+        "name": "M E 462"
+    },
+    {
+        "name": "SOC WORK 462"
+    },
+    {
+        "name": "ART 463"
+    },
+    {
+        "name": "CURRIC 463"
+    },
+    {
+        "name": "JOURN 463"
+    },
+    {
+        "name": "PHM PRAC 463"
+    },
+    {
+        "name": "POLI SCI 463"
+    },
+    {
+        "name": "CURRIC 464"
+    },
+    {
+        "name": "ECON 464"
+    },
+    {
+        "name": "HDFS 464"
+    },
+    {
+        "name": "L I S 464"
+    },
+    {
+        "name": "THEATRE 464"
+    },
+    {
+        "name": "ASIAN AM 465"
+    },
+    {
+        "name": "ASTRON 465"
+    },
+    {
+        "name": "COM ARTS 465"
+    },
+    {
+        "name": "CNSR SCI 465"
+    },
+    {
+        "name": "ENGL 465"
+    },
+    {
+        "name": "HDFS 465"
+    },
+    {
+        "name": "M S & E 465"
+    },
+    {
+        "name": "RP & SE 465"
+    },
+    {
+        "name": "ART 466"
+    },
+    {
+        "name": "COM ARTS 466"
+    },
+    {
+        "name": "E C E 466"
+    },
+    {
+        "name": "GENETICS 466"
+    },
+    {
+        "name": "RP & SE 466"
+    },
+    {
+        "name": "ART 467"
+    },
+    {
+        "name": "COM ARTS 467"
+    },
+    {
+        "name": "ECON 467"
+    },
+    {
+        "name": "FRENCH 467"
+    },
+    {
+        "name": "GENETICS 467"
+    },
+    {
+        "name": "MATH 467"
+    },
+    {
+        "name": "MUSIC 467"
+    },
+    {
+        "name": "RP & SE 467"
+    },
+    {
+        "name": "ART HIST 468"
+    },
+    {
+        "name": "CURRIC 468"
+    },
+    {
+        "name": "ECON 468"
+    },
+    {
+        "name": "E P 468"
+    },
+    {
+        "name": "RP & SE 468"
+    },
+    {
+        "name": "SPANISH 468"
+    },
+    {
+        "name": "E P 469"
+    },
+    {
+        "name": "E M A 469"
+    },
+    {
+        "name": "HDFS 469"
+    },
+    {
+        "name": "M E 469"
+    },
+    {
+        "name": "THEATRE 469"
+    },
+    {
+        "name": "ART 470"
+    },
+    {
+        "name": "CBE 470"
+    },
+    {
+        "name": "CSCS 470"
+    },
+    {
+        "name": "ED PSYCH 470"
+    },
+    {
+        "name": "GENETICS 470"
+    },
+    {
+        "name": "L I S 470"
+    },
+    {
+        "name": "M S & E 470"
+    },
+    {
+        "name": "MICROBIO 470"
+    },
+    {
+        "name": "NURSING 470"
+    },
+    {
+        "name": "POLI SCI 470"
+    },
+    {
+        "name": "SLAVIC 470"
+    },
+    {
+        "name": "SPANISH 470"
+    },
+    {
+        "name": "HDFS 471"
+    },
+    {
+        "name": "M E 471"
+    },
+    {
+        "name": "PHM PRAC 471"
+    },
+    {
+        "name": "ENVIR ST 472"
+    },
+    {
+        "name": "M E 472"
+    },
+    {
+        "name": "PHYSICS 472"
+    },
+    {
+        "name": "THEATRE 472"
+    },
+    {
+        "name": "ASIAN 473"
+    },
+    {
+        "name": "BSE 473"
+    },
+    {
+        "name": "LEGAL ST 473"
+    },
+    {
+        "name": "RP & SE 473"
+    },
+    {
+        "name": "RELIG ST 473"
+    },
+    {
+        "name": "A A E 474"
+    },
+    {
+        "name": "BSE 474"
+    },
+    {
+        "name": "ECON 474"
+    },
+    {
+        "name": "ENGL 474"
+    },
+    {
+        "name": "HDFS 474"
+    },
+    {
+        "name": "M E 474"
+    },
+    {
+        "name": "ASIALANG 475"
+    },
+    {
+        "name": "BSE 475"
+    },
+    {
+        "name": "C&E SOC 475"
+    },
+    {
+        "name": "COMP SCI 475"
+    },
+    {
+        "name": "ECON 475"
+    },
+    {
+        "name": "JOURN 475"
+    },
+    {
+        "name": "MATH 475"
+    },
+    {
+        "name": "M E 475"
+    },
+    {
+        "name": "NAV SCI 475"
+    },
+    {
+        "name": "RP & SE 475"
+    },
+    {
+        "name": "SCAND ST 475"
+    },
+    {
+        "name": "SOC 475"
+    },
+    {
+        "name": "STAT 475"
+    },
+    {
+        "name": "ART 476"
+    },
+    {
+        "name": "DANCE 476"
+    },
+    {
+        "name": "RP & SE 476"
+    },
+    {
+        "name": "CNSR SCI 477"
+    },
+    {
+        "name": "INTEREGR 477"
+    },
+    {
+        "name": "RP & SE 477"
+    },
+    {
+        "name": "CHICLA 478"
+    },
+    {
+        "name": "CURRIC 478"
+    },
+    {
+        "name": "I SY E 478"
+    },
+    {
+        "name": "KINES 478"
+    },
+    {
+        "name": "RP & SE 478"
+    },
+    {
+        "name": "SPANISH 478"
+    },
+    {
+        "name": "CURRIC 479"
+    },
+    {
+        "name": "G L E 479"
+    },
+    {
+        "name": "KINES 479"
+    },
+    {
+        "name": "SPANISH 479"
+    },
+    {
+        "name": "STAT 479"
+    },
+    {
+        "name": "CS&D 481"
+    },
+    {
+        "name": "LINGUIS 481"
+    },
+    {
+        "name": "BIOCORE 485"
+    },
+    {
+        "name": "BIOCORE 486"
+    },
+    {
+        "name": "KINES 487"
+    },
+    {
+        "name": "B M E 489"
+    },
+    {
+        "name": "CBE 489"
+    },
+    {
+        "name": "CIV ENGR 489"
+    },
+    {
+        "name": "E C E 489"
+    },
+    {
+        "name": "E M A 489"
+    },
+    {
+        "name": "G L E 489"
+    },
+    {
+        "name": "I SY E 489"
+    },
+    {
+        "name": "M E 489"
+    },
+    {
+        "name": "N E 489"
+    },
+    {
+        "name": "ANTHRO 490"
+    },
+    {
+        "name": "CNP 490"
+    },
+    {
+        "name": "SPANISH 490"
+    },
+    {
+        "name": "CIV ENGR 491"
+    },
+    {
+        "name": "E C E 491"
+    },
+    {
+        "name": "M E 491"
+    },
+    {
+        "name": "M E 492"
+    },
+    {
+        "name": "CIV ENGR 494"
+    },
+    {
+        "name": "CURRIC 494"
+    },
+    {
+        "name": "SOC 496"
+    },
+    {
+        "name": "CIV ENGR 497"
+    },
+    {
+        "name": "MUSIC 497"
+    },
+    {
+        "name": "CIV ENGR 498"
+    },
+    {
+        "name": "PHYSICS 498"
+    },
+    {
+        "name": "BOTANY 499"
+    },
+    {
+        "name": "E P D 499"
+    },
+    {
+        "name": "MUSIC 499"
+    },
+    {
+        "name": "MUS PERF 499"
+    },
+    {
+        "name": "PHYSICS 499"
+    },
+    {
+        "name": "PL PATH 499"
+    },
+    {
+        "name": "SOIL SCI 499"
+    },
+    {
+        "name": "ART HIST 500"
+    },
+    {
+        "name": "CIV ENGR 500"
+    },
+    {
+        "name": "COMP BIO 500"
+    },
+    {
+        "name": "ED POL 500"
+    },
+    {
+        "name": "HISTORY 500"
+    },
+    {
+        "name": "L I S 500"
+    },
+    {
+        "name": "NUTR SCI 500"
+    },
+    {
+        "name": "PHY THER 500"
+    },
+    {
+        "name": "RP & SE 500"
+    },
+    {
+        "name": "ZOOLOGY 500"
+    },
+    {
+        "name": "A F AERO 501"
+    },
+    {
+        "name": "BIOCHEM 501"
+    },
+    {
+        "name": "B M E 501"
+    },
+    {
+        "name": "CSCS 501"
+    },
+    {
+        "name": "COMP BIO 501"
+    },
+    {
+        "name": "DS 501"
+    },
+    {
+        "name": "ED PSYCH 501"
+    },
+    {
+        "name": "HDFS 501"
+    },
+    {
+        "name": "H ONCOL 501"
+    },
+    {
+        "name": "KINES 501"
+    },
+    {
+        "name": "L I S 501"
+    },
+    {
+        "name": "MED PHYS 501"
+    },
+    {
+        "name": "MUS PERF 501"
+    },
+    {
+        "name": "PHYSICS 501"
+    },
+    {
+        "name": "PSYCH 501"
+    },
+    {
+        "name": "RP & SE 501"
+    },
+    {
+        "name": "SURG SCI 501"
+    },
+    {
+        "name": "THEATRE 501"
+    },
+    {
+        "name": "COMP SCI 502"
+    },
+    {
+        "name": "CURRIC 502"
+    },
+    {
+        "name": "ELPA 502"
+    },
+    {
+        "name": "ENVIR ST 502"
+    },
+    {
+        "name": "POP HLTH 502"
+    },
+    {
+        "name": "CS&D 503"
+    },
+    {
+        "name": "COMP BIO 503"
+    },
+    {
+        "name": "PHILOS 503"
+    },
+    {
+        "name": "ED POL 505"
+    },
+    {
+        "name": "MUS PERF 505"
+    },
+    {
+        "name": "PSYCH 505"
+    },
+    {
+        "name": "RP & SE 505"
+    },
+    {
+        "name": "ART 506"
+    },
+    {
+        "name": "COMP SCI 506"
+    },
+    {
+        "name": "CURRIC 506"
+    },
+    {
+        "name": "ED PSYCH 506"
+    },
+    {
+        "name": "E C E 506"
+    },
+    {
+        "name": "E M A 506"
+    },
+    {
+        "name": "RP & SE 506"
+    },
+    {
+        "name": "ASIALANG 507"
+    },
+    {
+        "name": "BIOCHEM 507"
+    },
+    {
+        "name": "CURRIC 507"
+    },
+    {
+        "name": "MUS PERF 507"
+    },
+    {
+        "name": "ART 508"
+    },
+    {
+        "name": "BIOCHEM 508"
+    },
+    {
+        "name": "ENGL 508"
+    },
+    {
+        "name": "HISTORY 508"
+    },
+    {
+        "name": "HIST SCI 508"
+    },
+    {
+        "name": "MED HIST 508"
+    },
+    {
+        "name": "PSYCH 508"
+    },
+    {
+        "name": "BSE 509"
+    },
+    {
+        "name": "MUS PERF 509"
+    },
+    {
+        "name": "BIOCHEM 510"
+    },
+    {
+        "name": "B M E 510"
+    },
+    {
+        "name": "GEOG 510"
+    },
+    {
+        "name": "I SY E 510"
+    },
+    {
+        "name": "L I S 510"
+    },
+    {
+        "name": "M E 510"
+    },
+    {
+        "name": "MED PHYS 510"
+    },
+    {
+        "name": "NUTR SCI 510"
+    },
+    {
+        "name": "PATH-BIO 510"
+    },
+    {
+        "name": "B M E 511"
+    },
+    {
+        "name": "CURRIC 511"
+    },
+    {
+        "name": "GEOG 511"
+    },
+    {
+        "name": "MUS PERF 511"
+    },
+    {
+        "name": "ART 512"
+    },
+    {
+        "name": "E C E 512"
+    },
+    {
+        "name": "I SY E 512"
+    },
+    {
+        "name": "M E 512"
+    },
+    {
+        "name": "PATH-BIO 512"
+    },
+    {
+        "name": "URB R PL 512"
+    },
+    {
+        "name": "MUS PERF 513"
+    },
+    {
+        "name": "PATH-BIO 513"
+    },
+    {
+        "name": "ART 514"
+    },
+    {
+        "name": "COMP SCI 514"
+    },
+    {
+        "name": "MATH 514"
+    },
+    {
+        "name": "ART HIST 515"
+    },
+    {
+        "name": "CIV ENGR 515"
+    },
+    {
+        "name": "ENGL 515"
+    },
+    {
+        "name": "ENVIR ST 515"
+    },
+    {
+        "name": "FOLKLORE 515"
+    },
+    {
+        "name": "F&W ECOL 515"
+    },
+    {
+        "name": "LATIN 515"
+    },
+    {
+        "name": "MUSIC 515"
+    },
+    {
+        "name": "MUS PERF 515"
+    },
+    {
+        "name": "RP & SE 515"
+    },
+    {
+        "name": "ART 516"
+    },
+    {
+        "name": "ENGL 516"
+    },
+    {
+        "name": "HDFS 516"
+    },
+    {
+        "name": "KINES 516"
+    },
+    {
+        "name": "B M E 517"
+    },
+    {
+        "name": "HDFS 517"
+    },
+    {
+        "name": "I SY E 517"
+    },
+    {
+        "name": "MUS PERF 517"
+    },
+    {
+        "name": "PATH-BIO 517"
+    },
+    {
+        "name": "HISTORY 518"
+    },
+    {
+        "name": "JEWISH 518"
+    },
+    {
+        "name": "CNP 519"
+    },
+    {
+        "name": "MUS PERF 519"
+    },
+    {
+        "name": "COMP SCI 520"
+    },
+    {
+        "name": "GENETICS 520"
+    },
+    {
+        "name": "I SY E 520"
+    },
+    {
+        "name": "PUB AFFR 520"
+    },
+    {
+        "name": "ART 521"
+    },
+    {
+        "name": "ECON 521"
+    },
+    {
+        "name": "E M A 521"
+    },
+    {
+        "name": "I SY E 521"
+    },
+    {
+        "name": "KINES 521"
+    },
+    {
+        "name": "MATH 521"
+    },
+    {
+        "name": "MUS PERF 521"
+    },
+    {
+        "name": "PHM SCI 521"
+    },
+    {
+        "name": "PHMCOL-M 521"
+    },
+    {
+        "name": "ART 522"
+    },
+    {
+        "name": "ATM OCN 522"
+    },
+    {
+        "name": "BIOLOGY 522"
+    },
+    {
+        "name": "COM ARTS 522"
+    },
+    {
+        "name": "ECON 522"
+    },
+    {
+        "name": "FOLKLORE 522"
+    },
+    {
+        "name": "GEN&WS 522"
+    },
+    {
+        "name": "GENETICS 522"
+    },
+    {
+        "name": "LINGUIS 522"
+    },
+    {
+        "name": "MATH 522"
+    },
+    {
+        "name": "PSYCH 522"
+    },
+    {
+        "name": "GEN&WS 523"
+    },
+    {
+        "name": "KINES 523"
+    },
+    {
+        "name": "MUS PERF 523"
+    },
+    {
+        "name": "NURSING 523"
+    },
+    {
+        "name": "PHY THER 523"
+    },
+    {
+        "name": "PSYCH 523"
+    },
+    {
+        "name": "SOC WORK 523"
+    },
+    {
+        "name": "ZOOLOGY 523"
+    },
+    {
+        "name": "ART 524"
+    },
+    {
+        "name": "COMP SCI 524"
+    },
+    {
+        "name": "E C E 524"
+    },
+    {
+        "name": "E M A 524"
+    },
+    {
+        "name": "I SY E 524"
+    },
+    {
+        "name": "AFROAMER 525"
+    },
+    {
+        "name": "COMP SCI 525"
+    },
+    {
+        "name": "E C E 525"
+    },
+    {
+        "name": "I SY E 525"
+    },
+    {
+        "name": "KINES 525"
+    },
+    {
+        "name": "LAND ARC 525"
+    },
+    {
+        "name": "MATH 525"
+    },
+    {
+        "name": "MUS PERF 525"
+    },
+    {
+        "name": "N E 525"
+    },
+    {
+        "name": "NUTR SCI 525"
+    },
+    {
+        "name": "PATH-BIO 525"
+    },
+    {
+        "name": "PHYSICS 525"
+    },
+    {
+        "name": "STAT 525"
+    },
+    {
+        "name": "A A E 526"
+    },
+    {
+        "name": "ART 526"
+    },
+    {
+        "name": "ECON 526"
+    },
+    {
+        "name": "MICROBIO 526"
+    },
+    {
+        "name": "PHM PRAC 526"
+    },
+    {
+        "name": "PSYCH 526"
+    },
+    {
+        "name": "GENETICS 527"
+    },
+    {
+        "name": "KINES 527"
+    },
+    {
+        "name": "MICROBIO 527"
+    },
+    {
+        "name": "MUS PERF 527"
+    },
+    {
+        "name": "PHY THER 527"
+    },
+    {
+        "name": "DS 528"
+    },
+    {
+        "name": "E C E 528"
+    },
+    {
+        "name": "M M & I 528"
+    },
+    {
+        "name": "N E 528"
+    },
+    {
+        "name": "PATH-BIO 528"
+    },
+    {
+        "name": "M E 529"
+    },
+    {
+        "name": "CHICLA 530"
+    },
+    {
+        "name": "CIV ENGR 530"
+    },
+    {
+        "name": "ECON 530"
+    },
+    {
+        "name": "G L E 530"
+    },
+    {
+        "name": "M S & E 530"
+    },
+    {
+        "name": "REAL EST 530"
+    },
+    {
+        "name": "R M I 530"
+    },
+    {
+        "name": "MUS PERF 531"
+    },
+    {
+        "name": "PHYSICS 531"
+    },
+    {
+        "name": "ART 532"
+    },
+    {
+        "name": "COMP SCI 532"
+    },
+    {
+        "name": "E C E 532"
+    },
+    {
+        "name": "ENVIR ST 532"
+    },
+    {
+        "name": "FOOD SCI 532"
+    },
+    {
+        "name": "GEOG 532"
+    },
+    {
+        "name": "LAND ARC 532"
+    },
+    {
+        "name": "LSC 532"
+    },
+    {
+        "name": "M E 532"
+    },
+    {
+        "name": "MUS PERF 532"
+    },
+    {
+        "name": "URB R PL 532"
+    },
+    {
+        "name": "ASIAN 533"
+    },
+    {
+        "name": "C&E SOC 533"
+    },
+    {
+        "name": "COMP SCI 533"
+    },
+    {
+        "name": "ED PSYCH 533"
+    },
+    {
+        "name": "E C E 533"
+    },
+    {
+        "name": "ENGL 533"
+    },
+    {
+        "name": "ENVIR ST 533"
+    },
+    {
+        "name": "GEN&WS 533"
+    },
+    {
+        "name": "MUS PERF 533"
+    },
+    {
+        "name": "SOC 533"
+    },
+    {
+        "name": "ART 534"
+    },
+    {
+        "name": "CURRIC 534"
+    },
+    {
+        "name": "MED HIST 534"
+    },
+    {
+        "name": "PHILOS 534"
+    },
+    {
+        "name": "B M E 535"
+    },
+    {
+        "name": "DY SCI 535"
+    },
+    {
+        "name": "FINANCE 535"
+    },
+    {
+        "name": "FOOD SCI 535"
+    },
+    {
+        "name": "GEN&WS 535"
+    },
+    {
+        "name": "HDFS 535"
+    },
+    {
+        "name": "INTL ST 535"
+    },
+    {
+        "name": "MATH 535"
+    },
+    {
+        "name": "M E 535"
+    },
+    {
+        "name": "MED PHYS 535"
+    },
+    {
+        "name": "MUS PERF 535"
+    },
+    {
+        "name": "SOC 535"
+    },
+    {
+        "name": "ART 536"
+    },
+    {
+        "name": "E C E 536"
+    },
+    {
+        "name": "N E 536"
+    },
+    {
+        "name": "COMP SCI 537"
+    },
+    {
+        "name": "E C E 537"
+    },
+    {
+        "name": "GEN&WS 537"
+    },
+    {
+        "name": "G L E 537"
+    },
+    {
+        "name": "GEOSCI 537"
+    },
+    {
+        "name": "HIST SCI 537"
+    },
+    {
+        "name": "MUS PERF 537"
+    },
+    {
+        "name": "COMP SCI 538"
+    },
+    {
+        "name": "COMP SCI 539"
+    },
+    {
+        "name": "E C E 539"
+    },
+    {
+        "name": "GEN&WS 539"
+    },
+    {
+        "name": "GNS 539"
+    },
+    {
+        "name": "M E 539"
+    },
+    {
+        "name": "MUS PERF 539"
+    },
+    {
+        "name": "PHY THER 539"
+    },
+    {
+        "name": "CBE 540"
+    },
+    {
+        "name": "COMP SCI 540"
+    },
+    {
+        "name": "ED PSYCH 540"
+    },
+    {
+        "name": "E M A 540"
+    },
+    {
+        "name": "ENTOM 540"
+    },
+    {
+        "name": "M E 540"
+    },
+    {
+        "name": "MUSIC 540"
+    },
+    {
+        "name": "MUS PERF 540"
+    },
+    {
+        "name": "PHM SCI 540"
+    },
+    {
+        "name": "ZOOLOGY 540"
+    },
+    {
+        "name": "B M I 541"
+    },
+    {
+        "name": "ED PSYCH 541"
+    },
+    {
+        "name": "MATH 541"
+    },
+    {
+        "name": "MUSIC 541"
+    },
+    {
+        "name": "PHILOS 541"
+    },
+    {
+        "name": "PHY THER 541"
+    },
+    {
+        "name": "STAT 541"
+    },
+    {
+        "name": "ART 542"
+    },
+    {
+        "name": "COMP SCI 542"
+    },
+    {
+        "name": "ELPA 542"
+    },
+    {
+        "name": "ED POL 542"
+    },
+    {
+        "name": "ED PSYCH 542"
+    },
+    {
+        "name": "E C E 542"
+    },
+    {
+        "name": "E M A 542"
+    },
+    {
+        "name": "MATH 542"
+    },
+    {
+        "name": "MUS PERF 542"
+    },
+    {
+        "name": "PHM SCI 542"
+    },
+    {
+        "name": "MUSIC 543"
+    },
+    {
+        "name": "ART 544"
+    },
+    {
+        "name": "B M I 544"
+    },
+    {
+        "name": "COMP SCI 544"
+    },
+    {
+        "name": "CURRIC 545"
+    },
+    {
+        "name": "GENETICS 545"
+    },
+    {
+        "name": "MED HIST 545"
+    },
+    {
+        "name": "PHYSICS 545"
+    },
+    {
+        "name": "ART 546"
+    },
+    {
+        "name": "CURRIC 546"
+    },
+    {
+        "name": "CBE 547"
+    },
+    {
+        "name": "CHEM 547"
+    },
+    {
+        "name": "CIV ENGR 547"
+    },
+    {
+        "name": "E P 547"
+    },
+    {
+        "name": "E M A 547"
+    },
+    {
+        "name": "KINES 547"
+    },
+    {
+        "name": "MUS PERF 547"
+    },
+    {
+        "name": "ART 548"
+    },
+    {
+        "name": "ECON 548"
+    },
+    {
+        "name": "E C E 548"
+    },
+    {
+        "name": "F&W ECOL 548"
+    },
+    {
+        "name": "POP HLTH 548"
+    },
+    {
+        "name": "PUB AFFR 548"
+    },
+    {
+        "name": "SURG SCI 548"
+    },
+    {
+        "name": "I SY E 549"
+    },
+    {
+        "name": "M E 549"
+    },
+    {
+        "name": "PHILOS 549"
+    },
+    {
+        "name": "PSYCH 549"
+    },
+    {
+        "name": "B M E 550"
+    },
+    {
+        "name": "CURRIC 550"
+    },
+    {
+        "name": "F&W ECOL 550"
+    },
+    {
+        "name": "LAND ARC 550"
+    },
+    {
+        "name": "M S & E 550"
+    },
+    {
+        "name": "MUSIC 550"
+    },
+    {
+        "name": "NUTR SCI 550"
+    },
+    {
+        "name": "PHM PRAC 550"
+    },
+    {
+        "name": "URB R PL 550"
+    },
+    {
+        "name": "BIOCHEM 551"
+    },
+    {
+        "name": "B M I 551"
+    },
+    {
+        "name": "COMP BIO 551"
+    },
+    {
+        "name": "E C E 551"
+    },
+    {
+        "name": "FOOD SCI 551"
+    },
+    {
+        "name": "F&W ECOL 551"
+    },
+    {
+        "name": "GEOSCI 551"
+    },
+    {
+        "name": "MATH 551"
+    },
+    {
+        "name": "PHILOS 551"
+    },
+    {
+        "name": "PHYSICS 551"
+    },
+    {
+        "name": "POP HLTH 551"
+    },
+    {
+        "name": "COM ARTS 552"
+    },
+    {
+        "name": "COMP SCI 552"
+    },
+    {
+        "name": "E C E 552"
+    },
+    {
+        "name": "E C E 553"
+    },
+    {
+        "name": "MUSIC 553"
+    },
+    {
+        "name": "PHM PRAC 553"
+    },
+    {
+        "name": "ART 554"
+    },
+    {
+        "name": "E C E 554"
+    },
+    {
+        "name": "CBE 555"
+    },
+    {
+        "name": "CNSR SCI 555"
+    },
+    {
+        "name": "E C E 555"
+    },
+    {
+        "name": "I SY E 555"
+    },
+    {
+        "name": "KINES 555"
+    },
+    {
+        "name": "PHM PRAC 555"
+    },
+    {
+        "name": "PHILOS 555"
+    },
+    {
+        "name": "ZOOLOGY 555"
+    },
+    {
+        "name": "CIV ENGR 556"
+    },
+    {
+        "name": "ENVIR ST 556"
+    },
+    {
+        "name": "LAND ARC 556"
+    },
+    {
+        "name": "MUSIC 556"
+    },
+    {
+        "name": "GEOSCI 557"
+    },
+    {
+        "name": "MUSIC 557"
+    },
+    {
+        "name": "MUSIC 558"
+    },
+    {
+        "name": "PHM SCI 558"
+    },
+    {
+        "name": "COMP SCI 559"
+    },
+    {
+        "name": "ENGL 559"
+    },
+    {
+        "name": "PATH-BIO 559"
+    },
+    {
+        "name": "DANCE 560"
+    },
+    {
+        "name": "ED POL 560"
+    },
+    {
+        "name": "ED PSYCH 560"
+    },
+    {
+        "name": "GEN&WS 560"
+    },
+    {
+        "name": "LAND ARC 560"
+    },
+    {
+        "name": "LSC 560"
+    },
+    {
+        "name": "MUSIC 560"
+    },
+    {
+        "name": "PATH-BIO 560"
+    },
+    {
+        "name": "PHM PRAC 560"
+    },
+    {
+        "name": "PHILOS 560"
+    },
+    {
+        "name": "SLAVIC 560"
+    },
+    {
+        "name": "CHEM 561"
+    },
+    {
+        "name": "COMP SCI 561"
+    },
+    {
+        "name": "CNSR SCI 561"
+    },
+    {
+        "name": "E C E 561"
+    },
+    {
+        "name": "F&W ECOL 561"
+    },
+    {
+        "name": "JOURN 561"
+    },
+    {
+        "name": "M E 561"
+    },
+    {
+        "name": "THEATRE 561"
+    },
+    {
+        "name": "CBE 562"
+    },
+    {
+        "name": "CHEM 562"
+    },
+    {
+        "name": "CNSR SCI 562"
+    },
+    {
+        "name": "MUSIC 562"
+    },
+    {
+        "name": "PHILOS 562"
+    },
+    {
+        "name": "CHEM 563"
+    },
+    {
+        "name": "JOURN 563"
+    },
+    {
+        "name": "LAND ARC 563"
+    },
+    {
+        "name": "LATIN 563"
+    },
+    {
+        "name": "MEDIEVAL 563"
+    },
+    {
+        "name": "PHARMACY 563"
+    },
+    {
+        "name": "CHEM 564"
+    },
+    {
+        "name": "COMP SCI 564"
+    },
+    {
+        "name": "CNSR SCI 564"
+    },
+    {
+        "name": "JOURN 564"
+    },
+    {
+        "name": "ART 565"
+    },
+    {
+        "name": "CHEM 565"
+    },
+    {
+        "name": "GENETICS 565"
+    },
+    {
+        "name": "M E 565"
+    },
+    {
+        "name": "MD GENET 565"
+    },
+    {
+        "name": "MUSIC 565"
+    },
+    {
+        "name": "N E 565"
+    },
+    {
+        "name": "KINES 566"
+    },
+    {
+        "name": "CBE 567"
+    },
+    {
+        "name": "CNSR SCI 567"
+    },
+    {
+        "name": "GENETICS 567"
+    },
+    {
+        "name": "M E 567"
+    },
+    {
+        "name": "MUSIC 567"
+    },
+    {
+        "name": "E P 568"
+    },
+    {
+        "name": "KINES 568"
+    },
+    {
+        "name": "MUSIC 568"
+    },
+    {
+        "name": "E P 569"
+    },
+    {
+        "name": "M E 569"
+    },
+    {
+        "name": "MED PHYS 569"
+    },
+    {
+        "name": "MUSIC 569"
+    },
+    {
+        "name": "N E 569"
+    },
+    {
+        "name": "ANTHRO 570"
+    },
+    {
+        "name": "CSCS 570"
+    },
+    {
+        "name": "ECON 570"
+    },
+    {
+        "name": "ED POL 570"
+    },
+    {
+        "name": "GENETICS 570"
+    },
+    {
+        "name": "MUSIC 570"
+    },
+    {
+        "name": "ZOOLOGY 570"
+    },
+    {
+        "name": "CIV ENGR 571"
+    },
+    {
+        "name": "COMP SCI 571"
+    },
+    {
+        "name": "F&W ECOL 571"
+    },
+    {
+        "name": "GENETICS 571"
+    },
+    {
+        "name": "HORT 571"
+    },
+    {
+        "name": "LINGUIS 571"
+    },
+    {
+        "name": "STAT 571"
+    },
+    {
+        "name": "CIV ENGR 572"
+    },
+    {
+        "name": "GENETICS 572"
+    },
+    {
+        "name": "GEOG 572"
+    },
+    {
+        "name": "MUSIC 572"
+    },
+    {
+        "name": "ATM OCN 573"
+    },
+    {
+        "name": "B M E 573"
+    },
+    {
+        "name": "GENETICS 573"
+    },
+    {
+        "name": "M E 573"
+    },
+    {
+        "name": "MED PHYS 573"
+    },
+    {
+        "name": "CIV ENGR 574"
+    },
+    {
+        "name": "GEOG 574"
+    },
+    {
+        "name": "MUSIC 574"
+    },
+    {
+        "name": "ART 575"
+    },
+    {
+        "name": "ART HIST 575"
+    },
+    {
+        "name": "BOTANY 575"
+    },
+    {
+        "name": "COUN PSY 575"
+    },
+    {
+        "name": "ED POL 575"
+    },
+    {
+        "name": "ED PSYCH 575"
+    },
+    {
+        "name": "GEOG 575"
+    },
+    {
+        "name": "NAV SCI 575"
+    },
+    {
+        "name": "ART 576"
+    },
+    {
+        "name": "B M I 576"
+    },
+    {
+        "name": "CIV ENGR 576"
+    },
+    {
+        "name": "COMP SCI 576"
+    },
+    {
+        "name": "CURRIC 576"
+    },
+    {
+        "name": "GEOG 576"
+    },
+    {
+        "name": "MUSIC 576"
+    },
+    {
+        "name": "COM ARTS 577"
+    },
+    {
+        "name": "COMP SCI 577"
+    },
+    {
+        "name": "F&W ECOL 577"
+    },
+    {
+        "name": "MED SC-V 577"
+    },
+    {
+        "name": "MUSIC 577"
+    },
+    {
+        "name": "CIV ENGR 578"
+    },
+    {
+        "name": "MUSIC 578"
+    },
+    {
+        "name": "CIV ENGR 579"
+    },
+    {
+        "name": "GEOG 579"
+    },
+    {
+        "name": "ECON 581"
+    },
+    {
+        "name": "MED PHYS 581"
+    },
+    {
+        "name": "GENETICS 588"
+    },
+    {
+        "name": "FRENCH 590"
+    },
+    {
+        "name": "NURSING 590"
+    },
+    {
+        "name": "PL PATH 590"
+    },
+    {
+        "name": "URB R PL 590"
+    },
+    {
+        "name": "HDFS 592"
+    },
+    {
+        "name": "G L E 594"
+    },
+    {
+        "name": "GEOSCI 594"
+    },
+    {
+        "name": "ED POL 595"
+    },
+    {
+        "name": "G L E 595"
+    },
+    {
+        "name": "GEOSCI 595"
+    },
+    {
+        "name": "CBE 599"
+    },
+    {
+        "name": "E M A 599"
+    },
+    {
+        "name": "F&W ECOL 599"
+    },
+    {
+        "name": "PHILOS 599"
+    },
+    {
+        "name": "ART HIST 600"
+    },
+    {
+        "name": "ELPA 600"
+    },
+    {
+        "name": "ENVIR ST 600"
+    },
+    {
+        "name": "HISTORY 600"
+    },
+    {
+        "name": "KINES 600"
+    },
+    {
+        "name": "NUTR SCI 600"
+    },
+    {
+        "name": "RELIG ST 600"
+    },
+    {
+        "name": "BIOCHEM 601"
+    },
+    {
+        "name": "B M E 601"
+    },
+    {
+        "name": "CSCS 601"
+    },
+    {
+        "name": "CNSR SCI 601"
+    },
+    {
+        "name": "COUN PSY 601"
+    },
+    {
+        "name": "DERM 601"
+    },
+    {
+        "name": "DS 601"
+    },
+    {
+        "name": "ED POL 601"
+    },
+    {
+        "name": "E C E 601"
+    },
+    {
+        "name": "E M A 601"
+    },
+    {
+        "name": "HDFS 601"
+    },
+    {
+        "name": "INTEREGR 601"
+    },
+    {
+        "name": "INTL ST 601"
+    },
+    {
+        "name": "JOURN 601"
+    },
+    {
+        "name": "LAW 601"
+    },
+    {
+        "name": "L I S 601"
+    },
+    {
+        "name": "M E 601"
+    },
+    {
+        "name": "PHY ASST 601"
+    },
+    {
+        "name": "POLI SCI 601"
+    },
+    {
+        "name": "PSYCH 601"
+    },
+    {
+        "name": "STAT 601"
+    },
+    {
+        "name": "URB R PL 601"
+    },
+    {
+        "name": "B M E 602"
+    },
+    {
+        "name": "ED POL 602"
+    },
+    {
+        "name": "FOOD SCI 602"
+    },
+    {
+        "name": "INTL ST 602"
+    },
+    {
+        "name": "LAW 602"
+    },
+    {
+        "name": "L I S 602"
+    },
+    {
+        "name": "ACCT I S 603"
+    },
+    {
+        "name": "CNSR SCI 603"
+    },
+    {
+        "name": "INTL ST 603"
+    },
+    {
+        "name": "L I S 603"
+    },
+    {
+        "name": "PSYCH 603"
+    },
+    {
+        "name": "ZOOLOGY 603"
+    },
+    {
+        "name": "ANTHRO 605"
+    },
+    {
+        "name": "COM ARTS 605"
+    },
+    {
+        "name": "E M A 605"
+    },
+    {
+        "name": "RP & SE 605"
+    },
+    {
+        "name": "SOC WORK 605"
+    },
+    {
+        "name": "STAT 605"
+    },
+    {
+        "name": "SOC WORK 606"
+    },
+    {
+        "name": "PSYCH 607"
+    },
+    {
+        "name": "ART 608"
+    },
+    {
+        "name": "CHEM 608"
+    },
+    {
+        "name": "COM ARTS 608"
+    },
+    {
+        "name": "I SY E 608"
+    },
+    {
+        "name": "PHARMACY 608"
+    },
+    {
+        "name": "BIOCHEM 609"
+    },
+    {
+        "name": "BMOLCHEM 609"
+    },
+    {
+        "name": "B M I 609"
+    },
+    {
+        "name": "COM ARTS 609"
+    },
+    {
+        "name": "MATH 609"
+    },
+    {
+        "name": "STAT 609"
+    },
+    {
+        "name": "AN SCI 610"
+    },
+    {
+        "name": "ATM OCN 610"
+    },
+    {
+        "name": "E C E 610"
+    },
+    {
+        "name": "E P D 610"
+    },
+    {
+        "name": "GEOSCI 610"
+    },
+    {
+        "name": "LAND ARC 610"
+    },
+    {
+        "name": "M H R 610"
+    },
+    {
+        "name": "NEURODPT 610"
+    },
+    {
+        "name": "NTP 610"
+    },
+    {
+        "name": "PHM PRAC 610"
+    },
+    {
+        "name": "PHY ASST 610"
+    },
+    {
+        "name": "PSYCH 610"
+    },
+    {
+        "name": "STAT 610"
+    },
+    {
+        "name": "COMP SCI 611"
+    },
+    {
+        "name": "E P D 611"
+    },
+    {
+        "name": "L I S 611"
+    },
+    {
+        "name": "PHM PRAC 611"
+    },
+    {
+        "name": "REAL EST 611"
+    },
+    {
+        "name": "STAT 611"
+    },
+    {
+        "name": "URB R PL 611"
+    },
+    {
+        "name": "ART 612"
+    },
+    {
+        "name": "BIOCHEM 612"
+    },
+    {
+        "name": "E P D 612"
+    },
+    {
+        "name": "GENETICS 612"
+    },
+    {
+        "name": "M H R 612"
+    },
+    {
+        "name": "MICROBIO 612"
+    },
+    {
+        "name": "PHARMACY 612"
+    },
+    {
+        "name": "COM ARTS 613"
+    },
+    {
+        "name": "COMP SCI 613"
+    },
+    {
+        "name": "E P D 613"
+    },
+    {
+        "name": "ENVIR ST 613"
+    },
+    {
+        "name": "L I S 613"
+    },
+    {
+        "name": "STAT 613"
+    },
+    {
+        "name": "ART 614"
+    },
+    {
+        "name": "COM ARTS 614"
+    },
+    {
+        "name": "E P D 614"
+    },
+    {
+        "name": "B M E 615"
+    },
+    {
+        "name": "COM ARTS 615"
+    },
+    {
+        "name": "ED PSYCH 615"
+    },
+    {
+        "name": "L I S 615"
+    },
+    {
+        "name": "M E 615"
+    },
+    {
+        "name": "E P D 616"
+    },
+    {
+        "name": "L I S 616"
+    },
+    {
+        "name": "COM ARTS 617"
+    },
+    {
+        "name": "C&E SOC 617"
+    },
+    {
+        "name": "E P D 617"
+    },
+    {
+        "name": "JOURN 617"
+    },
+    {
+        "name": "LSC 617"
+    },
+    {
+        "name": "M H R 617"
+    },
+    {
+        "name": "PHY ASST 617"
+    },
+    {
+        "name": "SOC 617"
+    },
+    {
+        "name": "URB R PL 617"
+    },
+    {
+        "name": "CIV ENGR 618"
+    },
+    {
+        "name": "C&E SOC 618"
+    },
+    {
+        "name": "I SY E 618"
+    },
+    {
+        "name": "SOC 618"
+    },
+    {
+        "name": "ANTHRO 619"
+    },
+    {
+        "name": "B M E 619"
+    },
+    {
+        "name": "CIV ENGR 619"
+    },
+    {
+        "name": "E P D 619"
+    },
+    {
+        "name": "MED PHYS 619"
+    },
+    {
+        "name": "NTP 619"
+    },
+    {
+        "name": "PHMCOL-M 619"
+    },
+    {
+        "name": "PHYSICS 619"
+    },
+    {
+        "name": "PSYCH 619"
+    },
+    {
+        "name": "RADIOL 619"
+    },
+    {
+        "name": "THEATRE 619"
+    },
+    {
+        "name": "ZOOLOGY 619"
+    },
+    {
+        "name": "ACCT I S 620"
+    },
+    {
+        "name": "COUN PSY 620"
+    },
+    {
+        "name": "CURRIC 620"
+    },
+    {
+        "name": "DS 620"
+    },
+    {
+        "name": "E P D 620"
+    },
+    {
+        "name": "INTL ST 620"
+    },
+    {
+        "name": "JOURN 620"
+    },
+    {
+        "name": "L I S 620"
+    },
+    {
+        "name": "PHY ASST 620"
+    },
+    {
+        "name": "ACCT I S 621"
+    },
+    {
+        "name": "BIOCHEM 621"
+    },
+    {
+        "name": "BOTANY 621"
+    },
+    {
+        "name": "ED PSYCH 621"
+    },
+    {
+        "name": "E P D 621"
+    },
+    {
+        "name": "KINES 621"
+    },
+    {
+        "name": "MATH 621"
+    },
+    {
+        "name": "PSYCH 621"
+    },
+    {
+        "name": "SOIL SCI 621"
+    },
+    {
+        "name": "ART 622"
+    },
+    {
+        "name": "CHEM 622"
+    },
+    {
+        "name": "DS 622"
+    },
+    {
+        "name": "JOURN 622"
+    },
+    {
+        "name": "L I S 622"
+    },
+    {
+        "name": "SOIL SCI 622"
+    },
+    {
+        "name": "E P D 623"
+    },
+    {
+        "name": "MATH 623"
+    },
+    {
+        "name": "PHM SCI 623"
+    },
+    {
+        "name": "ART 624"
+    },
+    {
+        "name": "CHEM 624"
+    },
+    {
+        "name": "KINES 624"
+    },
+    {
+        "name": "MUSIC 624"
+    },
+    {
+        "name": "SOC 624"
+    },
+    {
+        "name": "CRB 625"
+    },
+    {
+        "name": "GERMAN 625"
+    },
+    {
+        "name": "LSC 625"
+    },
+    {
+        "name": "MED SC-V 625"
+    },
+    {
+        "name": "M&ENVTOX 625"
+    },
+    {
+        "name": "ONCOLOGY 625"
+    },
+    {
+        "name": "PHM SCI 625"
+    },
+    {
+        "name": "PHMCOL-M 625"
+    },
+    {
+        "name": "PHM PRAC 625"
+    },
+    {
+        "name": "PHYSICS 625"
+    },
+    {
+        "name": "POP HLTH 625"
+    },
+    {
+        "name": "AN SCI 626"
+    },
+    {
+        "name": "DS 626"
+    },
+    {
+        "name": "MICROBIO 626"
+    },
+    {
+        "name": "NUTR SCI 626"
+    },
+    {
+        "name": "CNSR SCI 627"
+    },
+    {
+        "name": "E P D 627"
+    },
+    {
+        "name": "G L E 627"
+    },
+    {
+        "name": "GEOSCI 627"
+    },
+    {
+        "name": "MATH 627"
+    },
+    {
+        "name": "PHY THER 627"
+    },
+    {
+        "name": "AFROAMER 628"
+    },
+    {
+        "name": "HISTORY 628"
+    },
+    {
+        "name": "M H R 628"
+    },
+    {
+        "name": "PHM PRAC 628"
+    },
+    {
+        "name": "STAT 628"
+    },
+    {
+        "name": "ART 629"
+    },
+    {
+        "name": "CIV ENGR 629"
+    },
+    {
+        "name": "MUSIC 629"
+    },
+    {
+        "name": "NEURODPT 629"
+    },
+    {
+        "name": "NTP 629"
+    },
+    {
+        "name": "ACCT I S 630"
+    },
+    {
+        "name": "ASIAN 630"
+    },
+    {
+        "name": "ATM OCN 630"
+    },
+    {
+        "name": "C&E SOC 630"
+    },
+    {
+        "name": "PHARMACY 630"
+    },
+    {
+        "name": "PHY ASST 630"
+    },
+    {
+        "name": "RP & SE 630"
+    },
+    {
+        "name": "SOC 630"
+    },
+    {
+        "name": "SPANISH 630"
+    },
+    {
+        "name": "SURG SCI 630"
+    },
+    {
+        "name": "ASIAN 631"
+    },
+    {
+        "name": "BIOCHEM 631"
+    },
+    {
+        "name": "GENETICS 631"
+    },
+    {
+        "name": "JEWISH 631"
+    },
+    {
+        "name": "NUTR SCI 631"
+    },
+    {
+        "name": "ART 632"
+    },
+    {
+        "name": "I SY E 632"
+    },
+    {
+        "name": "INTEGART 632"
+    },
+    {
+        "name": "ITALIAN 632"
+    },
+    {
+        "name": "JEWISH 632"
+    },
+    {
+        "name": "L I S 632"
+    },
+    {
+        "name": "M H R 632"
+    },
+    {
+        "name": "MATH 632"
+    },
+    {
+        "name": "MED SC-V 632"
+    },
+    {
+        "name": "MUSIC 632"
+    },
+    {
+        "name": "OTM 632"
+    },
+    {
+        "name": "STAT 632"
+    },
+    {
+        "name": "SURG SCI 632"
+    },
+    {
+        "name": "ASIAN 633"
+    },
+    {
+        "name": "MED SC-V 634"
+    },
+    {
+        "name": "SURG SCI 634"
+    },
+    {
+        "name": "A A E 635"
+    },
+    {
+        "name": "FINANCE 635"
+    },
+    {
+        "name": "L I S 635"
+    },
+    {
+        "name": "PHY THER 635"
+    },
+    {
+        "name": "A A E 636"
+    },
+    {
+        "name": "ART 636"
+    },
+    {
+        "name": "CHEM 636"
+    },
+    {
+        "name": "E P D 636"
+    },
+    {
+        "name": "ATM OCN 637"
+    },
+    {
+        "name": "COMP SCI 638"
+    },
+    {
+        "name": "PHM PRAC 638"
+    },
+    {
+        "name": "SURG SCI 638"
+    },
+    {
+        "name": "COMP SCI 639"
+    },
+    {
+        "name": "DS 639"
+    },
+    {
+        "name": "LAND ARC 639"
+    },
+    {
+        "name": "L I S 639"
+    },
+    {
+        "name": "ACCT I S 640"
+    },
+    {
+        "name": "COMP SCI 640"
+    },
+    {
+        "name": "GEN&WS 640"
+    },
+    {
+        "name": "L I S 640"
+    },
+    {
+        "name": "LSC 640"
+    },
+    {
+        "name": "OCC THER 640"
+    },
+    {
+        "name": "ONCOLOGY 640"
+    },
+    {
+        "name": "PHY ASST 640"
+    },
+    {
+        "name": "PL PATH 640"
+    },
+    {
+        "name": "REAL EST 640"
+    },
+    {
+        "name": "R M I 640"
+    },
+    {
+        "name": "SOC WORK 640"
+    },
+    {
+        "name": "B M I 641"
+    },
+    {
+        "name": "CHEM 641"
+    },
+    {
+        "name": "DS 641"
+    },
+    {
+        "name": "NUTR SCI 641"
+    },
+    {
+        "name": "PHY THER 641"
+    },
+    {
+        "name": "STAT 641"
+    },
+    {
+        "name": "ART 642"
+    },
+    {
+        "name": "COMP SCI 642"
+    },
+    {
+        "name": "DS 642"
+    },
+    {
+        "name": "ED PSYCH 642"
+    },
+    {
+        "name": "E P D 642"
+    },
+    {
+        "name": "PHY THER 642"
+    },
+    {
+        "name": "SURG SCI 642"
+    },
+    {
+        "name": "ART 644"
+    },
+    {
+        "name": "L I S 644"
+    },
+    {
+        "name": "SOC WORK 644"
+    },
+    {
+        "name": "SURG SCI 644"
+    },
+    {
+        "name": "BIOCHEM 645"
+    },
+    {
+        "name": "FINANCE 645"
+    },
+    {
+        "name": "I SY E 645"
+    },
+    {
+        "name": "LEGAL ST 645"
+    },
+    {
+        "name": "L I S 645"
+    },
+    {
+        "name": "NUTR SCI 645"
+    },
+    {
+        "name": "PHARMACY 645"
+    },
+    {
+        "name": "R M I 645"
+    },
+    {
+        "name": "SURG SCI 645"
+    },
+    {
+        "name": "L I S 646"
+    },
+    {
+        "name": "SOC WORK 646"
+    },
+    {
+        "name": "SURG SCI 646"
+    },
+    {
+        "name": "SURG SCI 647"
+    },
+    {
+        "name": "CIV ENGR 649"
+    },
+    {
+        "name": "I SY E 649"
+    },
+    {
+        "name": "ACT SCI 650"
+    },
+    {
+        "name": "FINANCE 650"
+    },
+    {
+        "name": "GERMAN 650"
+    },
+    {
+        "name": "HDFS 650"
+    },
+    {
+        "name": "KINES 650"
+    },
+    {
+        "name": "NUTR SCI 650"
+    },
+    {
+        "name": "PHM PRAC 650"
+    },
+    {
+        "name": "PHY ASST 650"
+    },
+    {
+        "name": "POP HLTH 650"
+    },
+    {
+        "name": "R M I 650"
+    },
+    {
+        "name": "ACT SCI 651"
+    },
+    {
+        "name": "BOTANY 651"
+    },
+    {
+        "name": "ENGL 651"
+    },
+    {
+        "name": "ENVIR ST 651"
+    },
+    {
+        "name": "F&W ECOL 651"
+    },
+    {
+        "name": "JOURN 651"
+    },
+    {
+        "name": "KINES 651"
+    },
+    {
+        "name": "MED PHYS 651"
+    },
+    {
+        "name": "NTP 651"
+    },
+    {
+        "name": "OCC THER 651"
+    },
+    {
+        "name": "ZOOLOGY 651"
+    },
+    {
+        "name": "ACT SCI 652"
+    },
+    {
+        "name": "CHEM 652"
+    },
+    {
+        "name": "C&E SOC 652"
+    },
+    {
+        "name": "KINES 652"
+    },
+    {
+        "name": "SOC 652"
+    },
+    {
+        "name": "ACT SCI 653"
+    },
+    {
+        "name": "PHM PRAC 653"
+    },
+    {
+        "name": "KINES 654"
+    },
+    {
+        "name": "L I S 654"
+    },
+    {
+        "name": "ACT SCI 655"
+    },
+    {
+        "name": "COUN PSY 655"
+    },
+    {
+        "name": "L I S 655"
+    },
+    {
+        "name": "NUTR SCI 655"
+    },
+    {
+        "name": "PHM PRAC 655"
+    },
+    {
+        "name": "R M I 655"
+    },
+    {
+        "name": "GEN BUS 656"
+    },
+    {
+        "name": "CNSR SCI 657"
+    },
+    {
+        "name": "KINES 657"
+    },
+    {
+        "name": "JOURN 658"
+    },
+    {
+        "name": "ATM OCN 660"
+    },
+    {
+        "name": "CBE 660"
+    },
+    {
+        "name": "CURRIC 660"
+    },
+    {
+        "name": "E P D 660"
+    },
+    {
+        "name": "F&W ECOL 660"
+    },
+    {
+        "name": "INTEGSCI 660"
+    },
+    {
+        "name": "NTP 660"
+    },
+    {
+        "name": "PATH-BIO 660"
+    },
+    {
+        "name": "ZOOLOGY 660"
+    },
+    {
+        "name": "CHEM 661"
+    },
+    {
+        "name": "REAL EST 661"
+    },
+    {
+        "name": "THEATRE 661"
+    },
+    {
+        "name": "CURRIC 663"
+    },
+    {
+        "name": "HDFS 663"
+    },
+    {
+        "name": "CHEM 664"
+    },
+    {
+        "name": "ECON 664"
+    },
+    {
+        "name": "HDFS 664"
+    },
+    {
+        "name": "MED PHYS 664"
+    },
+    {
+        "name": "PHY THER 664"
+    },
+    {
+        "name": "BIOCHEM 665"
+    },
+    {
+        "name": "CHEM 665"
+    },
+    {
+        "name": "CNSR SCI 665"
+    },
+    {
+        "name": "MED PHYS 665"
+    },
+    {
+        "name": "MED PHYS 666"
+    },
+    {
+        "name": "MED SC-V 667"
+    },
+    {
+        "name": "ANTHRO 668"
+    },
+    {
+        "name": "CHEM 668"
+    },
+    {
+        "name": "LAND ARC 668"
+    },
+    {
+        "name": "L I S 668"
+    },
+    {
+        "name": "MED SC-V 668"
+    },
+    {
+        "name": "JOURN 669"
+    },
+    {
+        "name": "MED SC-V 669"
+    },
+    {
+        "name": "AFRICAN 670"
+    },
+    {
+        "name": "B M E 670"
+    },
+    {
+        "name": "CRB 670"
+    },
+    {
+        "name": "KINES 670"
+    },
+    {
+        "name": "MED SC-V 670"
+    },
+    {
+        "name": "NTP 670"
+    },
+    {
+        "name": "NUTR SCI 670"
+    },
+    {
+        "name": "PHM PRAC 670"
+    },
+    {
+        "name": "AFRICAN 671"
+    },
+    {
+        "name": "AFROAMER 671"
+    },
+    {
+        "name": "MED PHYS 671"
+    },
+    {
+        "name": "ASIAN 672"
+    },
+    {
+        "name": "AFROAMER 673"
+    },
+    {
+        "name": "KINES 673"
+    },
+    {
+        "name": "MED SC-V 674"
+    },
+    {
+        "name": "PHARMACY 674"
+    },
+    {
+        "name": "BMOLCHEM 675"
+    },
+    {
+        "name": "CHEM 675"
+    },
+    {
+        "name": "CNSR SCI 675"
+    },
+    {
+        "name": "CURRIC 675"
+    },
+    {
+        "name": "ED POL 675"
+    },
+    {
+        "name": "GEOG 675"
+    },
+    {
+        "name": "MED SC-V 675"
+    },
+    {
+        "name": "ONCOLOGY 675"
+    },
+    {
+        "name": "PATH-BIO 675"
+    },
+    {
+        "name": "SURG SCI 675"
+    },
+    {
+        "name": "GERMAN 676"
+    },
+    {
+        "name": "JOURN 676"
+    },
+    {
+        "name": "PHY THER 676"
+    },
+    {
+        "name": "AFROAMER 677"
+    },
+    {
+        "name": "GEN&WS 677"
+    },
+    {
+        "name": "M M & I 677"
+    },
+    {
+        "name": "NTP 677"
+    },
+    {
+        "name": "PHM PRAC 677"
+    },
+    {
+        "name": "E P D 678"
+    },
+    {
+        "name": "MED SC-V 678"
+    },
+    {
+        "name": "SOC 678"
+    },
+    {
+        "name": "CIV ENGR 679"
+    },
+    {
+        "name": "MED PHYS 679"
+    },
+    {
+        "name": "MED SC-V 679"
+    },
+    {
+        "name": "STAT 679"
+    },
+    {
+        "name": "ENGL 680"
+    },
+    {
+        "name": "HISTORY 680"
+    },
+    {
+        "name": "HDFS 680"
+    },
+    {
+        "name": "AFROAMER 681"
+    },
+    {
+        "name": "A A E 681"
+    },
+    {
+        "name": "AGRONOMY 681"
+    },
+    {
+        "name": "AN SCI 681"
+    },
+    {
+        "name": "ANTHRO 681"
+    },
+    {
+        "name": "ART HIST 681"
+    },
+    {
+        "name": "ASIAN 681"
+    },
+    {
+        "name": "ASTRON 681"
+    },
+    {
+        "name": "ATM OCN 681"
+    },
+    {
+        "name": "BIOCHEM 681"
+    },
+    {
+        "name": "BIOLOGY 681"
+    },
+    {
+        "name": "BOTANY 681"
+    },
+    {
+        "name": "CHEM 681"
+    },
+    {
+        "name": "CLASSICS 681"
+    },
+    {
+        "name": "COM ARTS 681"
+    },
+    {
+        "name": "CS&D 681"
+    },
+    {
+        "name": "C&E SOC 681"
+    },
+    {
+        "name": "COMP SCI 681"
+    },
+    {
+        "name": "DY SCI 681"
+    },
+    {
+        "name": "ECON 681"
+    },
+    {
+        "name": "ENGL 681"
+    },
+    {
+        "name": "ENTOM 681"
+    },
+    {
+        "name": "FOOD SCI 681"
+    },
+    {
+        "name": "F&W ECOL 681"
+    },
+    {
+        "name": "FRENCH 681"
+    },
+    {
+        "name": "GEN&WS 681"
+    },
+    {
+        "name": "GENETICS 681"
+    },
+    {
+        "name": "GEOG 681"
+    },
+    {
+        "name": "GEOSCI 681"
+    },
+    {
+        "name": "GERMAN 681"
+    },
+    {
+        "name": "HISTORY 681"
+    },
+    {
+        "name": "HIST SCI 681"
+    },
+    {
+        "name": "HORT 681"
+    },
+    {
+        "name": "H ONCOL 681"
+    },
+    {
+        "name": "INTER-AG 681"
+    },
+    {
+        "name": "INTL ST 681"
+    },
+    {
+        "name": "ITALIAN 681"
+    },
+    {
+        "name": "JOURN 681"
+    },
+    {
+        "name": "LAND ARC 681"
+    },
+    {
+        "name": "LATIN 681"
+    },
+    {
+        "name": "LACIS 681"
+    },
+    {
+        "name": "LEGAL ST 681"
+    },
+    {
+        "name": "LSC 681"
+    },
+    {
+        "name": "LINGUIS 681"
+    },
+    {
+        "name": "MATH 681"
+    },
+    {
+        "name": "MICROBIO 681"
+    },
+    {
+        "name": "MOL BIOL 681"
+    },
+    {
+        "name": "NURSING 681"
+    },
+    {
+        "name": "NUTR SCI 681"
+    },
+    {
+        "name": "PATH-BIO 681"
+    },
+    {
+        "name": "PHILOS 681"
+    },
+    {
+        "name": "PHYSICS 681"
+    },
+    {
+        "name": "PL PATH 681"
+    },
+    {
+        "name": "POLI SCI 681"
+    },
+    {
+        "name": "PSYCH 681"
+    },
+    {
+        "name": "RELIG ST 681"
+    },
+    {
+        "name": "SCAND ST 681"
+    },
+    {
+        "name": "SOC 681"
+    },
+    {
+        "name": "SOIL SCI 681"
+    },
+    {
+        "name": "STAT 681"
+    },
+    {
+        "name": "ZOOLOGY 681"
+    },
+    {
+        "name": "AFROAMER 682"
+    },
+    {
+        "name": "A A E 682"
+    },
+    {
+        "name": "AN SCI 682"
+    },
+    {
+        "name": "ANTHRO 682"
+    },
+    {
+        "name": "ART HIST 682"
+    },
+    {
+        "name": "ASIAN 682"
+    },
+    {
+        "name": "ASTRON 682"
+    },
+    {
+        "name": "ATM OCN 682"
+    },
+    {
+        "name": "BIOCHEM 682"
+    },
+    {
+        "name": "BIOLOGY 682"
+    },
+    {
+        "name": "BOTANY 682"
+    },
+    {
+        "name": "CHEM 682"
+    },
+    {
+        "name": "CLASSICS 682"
+    },
+    {
+        "name": "COM ARTS 682"
+    },
+    {
+        "name": "CS&D 682"
+    },
+    {
+        "name": "COMP SCI 682"
+    },
+    {
+        "name": "ENTOM 682"
+    },
+    {
+        "name": "F&W ECOL 682"
+    },
+    {
+        "name": "GEN&WS 682"
+    },
+    {
+        "name": "GENETICS 682"
+    },
+    {
+        "name": "HISTORY 682"
+    },
+    {
+        "name": "HIST SCI 682"
+    },
+    {
+        "name": "INTER-AG 682"
+    },
+    {
+        "name": "ITALIAN 682"
+    },
+    {
+        "name": "JOURN 682"
+    },
+    {
+        "name": "LEGAL ST 682"
+    },
+    {
+        "name": "LSC 682"
+    },
+    {
+        "name": "MATH 682"
+    },
+    {
+        "name": "MICROBIO 682"
+    },
+    {
+        "name": "MOL BIOL 682"
+    },
+    {
+        "name": "NURSING 682"
+    },
+    {
+        "name": "NUTR SCI 682"
+    },
+    {
+        "name": "PHILOS 682"
+    },
+    {
+        "name": "PHYSICS 682"
+    },
+    {
+        "name": "PL PATH 682"
+    },
+    {
+        "name": "POLI SCI 682"
+    },
+    {
+        "name": "PSYCH 682"
+    },
+    {
+        "name": "RELIG ST 682"
+    },
+    {
+        "name": "SOC 682"
+    },
+    {
+        "name": "SOIL SCI 682"
+    },
+    {
+        "name": "STAT 682"
+    },
+    {
+        "name": "ZOOLOGY 682"
+    },
+    {
+        "name": "GERMAN 683"
+    },
+    {
+        "name": "POLI SCI 683"
+    },
+    {
+        "name": "PSYCH 686"
+    },
+    {
+        "name": "CURRIC 690"
+    },
+    {
+        "name": "DS 690"
+    },
+    {
+        "name": "ECON 690"
+    },
+    {
+        "name": "E M A 690"
+    },
+    {
+        "name": "HISTORY 690"
+    },
+    {
+        "name": "HDFS 690"
+    },
+    {
+        "name": "KINES 690"
+    },
+    {
+        "name": "LINGUIS 690"
+    },
+    {
+        "name": "RP & SE 690"
+    },
+    {
+        "name": "AFROAMER 691"
+    },
+    {
+        "name": "A A E 691"
+    },
+    {
+        "name": "AN SCI 691"
+    },
+    {
+        "name": "ANTHRO 691"
+    },
+    {
+        "name": "ART HIST 691"
+    },
+    {
+        "name": "ASIAN 691"
+    },
+    {
+        "name": "ASTRON 691"
+    },
+    {
+        "name": "ATM OCN 691"
+    },
+    {
+        "name": "BIOCHEM 691"
+    },
+    {
+        "name": "BSE 691"
+    },
+    {
+        "name": "BIOLOGY 691"
+    },
+    {
+        "name": "BOTANY 691"
+    },
+    {
+        "name": "CHEM 691"
+    },
+    {
+        "name": "CLASSICS 691"
+    },
+    {
+        "name": "COM ARTS 691"
+    },
+    {
+        "name": "C&E SOC 691"
+    },
+    {
+        "name": "COMP SCI 691"
+    },
+    {
+        "name": "ECON 691"
+    },
+    {
+        "name": "ENGL 691"
+    },
+    {
+        "name": "ENTOM 691"
+    },
+    {
+        "name": "F&W ECOL 691"
+    },
+    {
+        "name": "GEN&WS 691"
+    },
+    {
+        "name": "GEOSCI 691"
+    },
+    {
+        "name": "HISTORY 691"
+    },
+    {
+        "name": "HIST SCI 691"
+    },
+    {
+        "name": "H ONCOL 691"
+    },
+    {
+        "name": "INTL ST 691"
+    },
+    {
+        "name": "JOURN 691"
+    },
+    {
+        "name": "LEGAL ST 691"
+    },
+    {
+        "name": "M M & I 691"
+    },
+    {
+        "name": "MICROBIO 691"
+    },
+    {
+        "name": "MOL BIOL 691"
+    },
+    {
+        "name": "NUTR SCI 691"
+    },
+    {
+        "name": "PHILOS 691"
+    },
+    {
+        "name": "PHYSICS 691"
+    },
+    {
+        "name": "POLI SCI 691"
+    },
+    {
+        "name": "PSYCH 691"
+    },
+    {
+        "name": "SOC 691"
+    },
+    {
+        "name": "ZOOLOGY 691"
+    },
+    {
+        "name": "AFROAMER 692"
+    },
+    {
+        "name": "ANTHRO 692"
+    },
+    {
+        "name": "ART HIST 692"
+    },
+    {
+        "name": "ASTRON 692"
+    },
+    {
+        "name": "ATM OCN 692"
+    },
+    {
+        "name": "BIOCHEM 692"
+    },
+    {
+        "name": "BIOLOGY 692"
+    },
+    {
+        "name": "BOTANY 692"
+    },
+    {
+        "name": "CHEM 692"
+    },
+    {
+        "name": "CLASSICS 692"
+    },
+    {
+        "name": "COM ARTS 692"
+    },
+    {
+        "name": "COMP SCI 692"
+    },
+    {
+        "name": "ECON 692"
+    },
+    {
+        "name": "ENGL 692"
+    },
+    {
+        "name": "GEOSCI 692"
+    },
+    {
+        "name": "HISTORY 692"
+    },
+    {
+        "name": "HIST SCI 692"
+    },
+    {
+        "name": "INTL ST 692"
+    },
+    {
+        "name": "JOURN 692"
+    },
+    {
+        "name": "LATIN 692"
+    },
+    {
+        "name": "LEGAL ST 692"
+    },
+    {
+        "name": "MICROBIO 692"
+    },
+    {
+        "name": "NUTR SCI 692"
+    },
+    {
+        "name": "PHYSICS 692"
+    },
+    {
+        "name": "POLI SCI 692"
+    },
+    {
+        "name": "PSYCH 692"
+    },
+    {
+        "name": "ZOOLOGY 692"
+    },
+    {
+        "name": "LEGAL ST 694"
+    },
+    {
+        "name": "SOC 694"
+    },
+    {
+        "name": "ECON 695"
+    },
+    {
+        "name": "ENGL 695"
+    },
+    {
+        "name": "ART HIST 697"
+    },
+    {
+        "name": "JOURN 697"
+    },
+    {
+        "name": "ANTHRO 698"
+    },
+    {
+        "name": "ASIAN 698"
+    },
+    {
+        "name": "ATM OCN 698"
+    },
+    {
+        "name": "BOTANY 698"
+    },
+    {
+        "name": "COM ARTS 698"
+    },
+    {
+        "name": "ECON 698"
+    },
+    {
+        "name": "GEOSCI 698"
+    },
+    {
+        "name": "GERMAN 698"
+    },
+    {
+        "name": "HISTORY 698"
+    },
+    {
+        "name": "HIST SCI 698"
+    },
+    {
+        "name": "ITALIAN 698"
+    },
+    {
+        "name": "MATH 698"
+    },
+    {
+        "name": "NURSING 698"
+    },
+    {
+        "name": "POLI SCI 698"
+    },
+    {
+        "name": "SCAND ST 698"
+    },
+    {
+        "name": "STAT 698"
+    },
+    {
+        "name": "ZOOLOGY 698"
+    },
+    {
+        "name": "AFRICAN 699"
+    },
+    {
+        "name": "AFROAMER 699"
+    },
+    {
+        "name": "A A E 699"
+    },
+    {
+        "name": "AGROECOL 699"
+    },
+    {
+        "name": "AGRONOMY 699"
+    },
+    {
+        "name": "ANAT&PHY 699"
+    },
+    {
+        "name": "ANATOMY 699"
+    },
+    {
+        "name": "ANESTHES 699"
+    },
+    {
+        "name": "AN SCI 699"
+    },
+    {
+        "name": "ANTHRO 699"
+    },
+    {
+        "name": "ART 699"
+    },
+    {
+        "name": "ART ED 699"
+    },
+    {
+        "name": "ART HIST 699"
+    },
+    {
+        "name": "ASIAN 699"
+    },
+    {
+        "name": "ASTRON 699"
+    },
+    {
+        "name": "ATM OCN 699"
+    },
+    {
+        "name": "BIOCHEM 699"
+    },
+    {
+        "name": "BSE 699"
+    },
+    {
+        "name": "BIOLOGY 699"
+    },
+    {
+        "name": "BIOCORE 699"
+    },
+    {
+        "name": "BMOLCHEM 699"
+    },
+    {
+        "name": "B M I 699"
+    },
+    {
+        "name": "BOTANY 699"
+    },
+    {
+        "name": "CRB 699"
+    },
+    {
+        "name": "CBE 699"
+    },
+    {
+        "name": "CHEM 699"
+    },
+    {
+        "name": "CHICLA 699"
+    },
+    {
+        "name": "CIV ENGR 699"
+    },
+    {
+        "name": "CSCS 699"
+    },
+    {
+        "name": "CLASSICS 699"
+    },
+    {
+        "name": "COM ARTS 699"
+    },
+    {
+        "name": "CS&D 699"
+    },
+    {
+        "name": "C&E SOC 699"
+    },
+    {
+        "name": "COMP BIO 699"
+    },
+    {
+        "name": "COMP SCI 699"
+    },
+    {
+        "name": "CNSR SCI 699"
+    },
+    {
+        "name": "COUN PSY 699"
+    },
+    {
+        "name": "CURRIC 699"
+    },
+    {
+        "name": "DY SCI 699"
+    },
+    {
+        "name": "DANCE 699"
+    },
+    {
+        "name": "DS 699"
+    },
+    {
+        "name": "ECON 699"
+    },
+    {
+        "name": "ED POL 699"
+    },
+    {
+        "name": "ED PSYCH 699"
+    },
+    {
+        "name": "E C E 699"
+    },
+    {
+        "name": "EMER MED 699"
+    },
+    {
+        "name": "ENGL 699"
+    },
+    {
+        "name": "E P D 699"
+    },
+    {
+        "name": "ENTOM 699"
+    },
+    {
+        "name": "ENVIR ST 699"
+    },
+    {
+        "name": "FAM MED 699"
+    },
+    {
+        "name": "FOLKLORE 699"
+    },
+    {
+        "name": "FOOD SCI 699"
+    },
+    {
+        "name": "F&W ECOL 699"
+    },
+    {
+        "name": "FRENCH 699"
+    },
+    {
+        "name": "GEN&WS 699"
+    },
+    {
+        "name": "GENETICS 699"
+    },
+    {
+        "name": "GEOG 699"
+    },
+    {
+        "name": "G L E 699"
+    },
+    {
+        "name": "GEOSCI 699"
+    },
+    {
+        "name": "GERMAN 699"
+    },
+    {
+        "name": "GREEK 699"
+    },
+    {
+        "name": "HISTORY 699"
+    },
+    {
+        "name": "HIST SCI 699"
+    },
+    {
+        "name": "HORT 699"
+    },
+    {
+        "name": "HDFS 699"
+    },
+    {
+        "name": "H ONCOL 699"
+    },
+    {
+        "name": "I SY E 699"
+    },
+    {
+        "name": "INTL ST 699"
+    },
+    {
+        "name": "ITALIAN 699"
+    },
+    {
+        "name": "JEWISH 699"
+    },
+    {
+        "name": "JOURN 699"
+    },
+    {
+        "name": "KINES 699"
+    },
+    {
+        "name": "LAND ARC 699"
+    },
+    {
+        "name": "LATIN 699"
+    },
+    {
+        "name": "LACIS 699"
+    },
+    {
+        "name": "LEGAL ST 699"
+    },
+    {
+        "name": "LSC 699"
+    },
+    {
+        "name": "LINGUIS 699"
+    },
+    {
+        "name": "M S & E 699"
+    },
+    {
+        "name": "MATH 699"
+    },
+    {
+        "name": "M E 699"
+    },
+    {
+        "name": "MD GENET 699"
+    },
+    {
+        "name": "MED HIST 699"
+    },
+    {
+        "name": "M M & I 699"
+    },
+    {
+        "name": "MED PHYS 699"
+    },
+    {
+        "name": "MED SC-V 699"
+    },
+    {
+        "name": "MEDICINE 699"
+    },
+    {
+        "name": "MICROBIO 699"
+    },
+    {
+        "name": "M&ENVTOX 699"
+    },
+    {
+        "name": "MOL BIOL 699"
+    },
+    {
+        "name": "NEURSURG 699"
+    },
+    {
+        "name": "NEUROL 699"
+    },
+    {
+        "name": "NEURODPT 699"
+    },
+    {
+        "name": "N E 699"
+    },
+    {
+        "name": "NURSING 699"
+    },
+    {
+        "name": "NUTR SCI 699"
+    },
+    {
+        "name": "OBS&GYN 699"
+    },
+    {
+        "name": "ONCOLOGY 699"
+    },
+    {
+        "name": "OPHTHALM 699"
+    },
+    {
+        "name": "PATH-BIO 699"
+    },
+    {
+        "name": "PATH 699"
+    },
+    {
+        "name": "PEDIAT 699"
+    },
+    {
+        "name": "PHM SCI 699"
+    },
+    {
+        "name": "PHMCOL-M 699"
+    },
+    {
+        "name": "PHM PRAC 699"
+    },
+    {
+        "name": "PHILOS 699"
+    },
+    {
+        "name": "PHY ASST 699"
+    },
+    {
+        "name": "PHYSIOL 699"
+    },
+    {
+        "name": "PL PATH 699"
+    },
+    {
+        "name": "POLI SCI 699"
+    },
+    {
+        "name": "POP HLTH 699"
+    },
+    {
+        "name": "PSYCHIAT 699"
+    },
+    {
+        "name": "PSYCH 699"
+    },
+    {
+        "name": "RP & SE 699"
+    },
+    {
+        "name": "RHAB MED 699"
+    },
+    {
+        "name": "RELIG ST 699"
+    },
+    {
+        "name": "SCAND ST 699"
+    },
+    {
+        "name": "STS 699"
+    },
+    {
+        "name": "SLAVIC 699"
+    },
+    {
+        "name": "S&A PHM 699"
+    },
+    {
+        "name": "SOC WORK 699"
+    },
+    {
+        "name": "SOC 699"
+    },
+    {
+        "name": "SOIL SCI 699"
+    },
+    {
+        "name": "STAT 699"
+    },
+    {
+        "name": "SURGERY 699"
+    },
+    {
+        "name": "SURG SCI 699"
+    },
+    {
+        "name": "THEATRE 699"
+    },
+    {
+        "name": "URB R PL 699"
+    },
+    {
+        "name": "ZOOLOGY 699"
+    },
+    {
+        "name": "ACCT I S 700"
+    },
+    {
+        "name": "AFRICAN 700"
+    },
+    {
+        "name": "ABT 700"
+    },
+    {
+        "name": "ART 700"
+    },
+    {
+        "name": "ART HIST 700"
+    },
+    {
+        "name": "ASTRON 700"
+    },
+    {
+        "name": "CLASSICS 700"
+    },
+    {
+        "name": "COUN PSY 700"
+    },
+    {
+        "name": "ECON 700"
+    },
+    {
+        "name": "ELPA 700"
+    },
+    {
+        "name": "ENGL 700"
+    },
+    {
+        "name": "FINANCE 700"
+    },
+    {
+        "name": "HISTORY 700"
+    },
+    {
+        "name": "MARKETNG 700"
+    },
+    {
+        "name": "NTP 700"
+    },
+    {
+        "name": "OTM 700"
+    },
+    {
+        "name": "PUBLHLTH 700"
+    },
+    {
+        "name": "R M I 700"
+    },
+    {
+        "name": "SOC 700"
+    },
+    {
+        "name": "ACCT I S 701"
+    },
+    {
+        "name": "AGROECOL 701"
+    },
+    {
+        "name": "ART HIST 701"
+    },
+    {
+        "name": "BIOCHEM 701"
+    },
+    {
+        "name": "B M E 701"
+    },
+    {
+        "name": "BMOLCHEM 701"
+    },
+    {
+        "name": "ECON 701"
+    },
+    {
+        "name": "ELPA 701"
+    },
+    {
+        "name": "ED POL 701"
+    },
+    {
+        "name": "ENGL 701"
+    },
+    {
+        "name": "GENETICS 701"
+    },
+    {
+        "name": "HISTORY 701"
+    },
+    {
+        "name": "MED PHYS 701"
+    },
+    {
+        "name": "MED SC-V 701"
+    },
+    {
+        "name": "MUS PERF 701"
+    },
+    {
+        "name": "PHILOS 701"
+    },
+    {
+        "name": "PHYSICS 701"
+    },
+    {
+        "name": "PSYCH 701"
+    },
+    {
+        "name": "STAT 701"
+    },
+    {
+        "name": "ACCT I S 702"
+    },
+    {
+        "name": "B M E 702"
+    },
+    {
+        "name": "CIV ENGR 702"
+    },
+    {
+        "name": "COMP SCI 702"
+    },
+    {
+        "name": "E C E 702"
+    },
+    {
+        "name": "E P D 702"
+    },
+    {
+        "name": "I SY E 702"
+    },
+    {
+        "name": "M E 702"
+    },
+    {
+        "name": "NURSING 702"
+    },
+    {
+        "name": "AFRICAN 703"
+    },
+    {
+        "name": "B M E 703"
+    },
+    {
+        "name": "CS&D 703"
+    },
+    {
+        "name": "COMP SCI 703"
+    },
+    {
+        "name": "ECON 703"
+    },
+    {
+        "name": "E M A 703"
+    },
+    {
+        "name": "MATH 703"
+    },
+    {
+        "name": "M E 703"
+    },
+    {
+        "name": "MED SC-V 703"
+    },
+    {
+        "name": "ONCOLOGY 703"
+    },
+    {
+        "name": "PHY THER 703"
+    },
+    {
+        "name": "PSYCH 703"
+    },
+    {
+        "name": "SLAVIC 703"
+    },
+    {
+        "name": "S&A PHM 703"
+    },
+    {
+        "name": "BIOCHEM 704"
+    },
+    {
+        "name": "CHEM 704"
+    },
+    {
+        "name": "CURRIC 704"
+    },
+    {
+        "name": "ECON 704"
+    },
+    {
+        "name": "E P D 704"
+    },
+    {
+        "name": "GEN BUS 704"
+    },
+    {
+        "name": "M M & I 704"
+    },
+    {
+        "name": "NURSING 704"
+    },
+    {
+        "name": "PHY THER 704"
+    },
+    {
+        "name": "PSYCH 704"
+    },
+    {
+        "name": "ABT 705"
+    },
+    {
+        "name": "ECON 705"
+    },
+    {
+        "name": "M H R 705"
+    },
+    {
+        "name": "MED PHYS 705"
+    },
+    {
+        "name": "MUS PERF 705"
+    },
+    {
+        "name": "PEDIAT 705"
+    },
+    {
+        "name": "ACCT I S 706"
+    },
+    {
+        "name": "ART HIST 706"
+    },
+    {
+        "name": "CS&D 706"
+    },
+    {
+        "name": "ECON 706"
+    },
+    {
+        "name": "HISTORY 706"
+    },
+    {
+        "name": "L I S 706"
+    },
+    {
+        "name": "M H R 706"
+    },
+    {
+        "name": "NURSING 706"
+    },
+    {
+        "name": "PSYCH 706"
+    },
+    {
+        "name": "L I S 707"
+    },
+    {
+        "name": "MUS PERF 707"
+    },
+    {
+        "name": "PHYSICS 707"
+    },
+    {
+        "name": "PSYCH 707"
+    },
+    {
+        "name": "CS&D 708"
+    },
+    {
+        "name": "ECON 708"
+    },
+    {
+        "name": "MED HIST 708"
+    },
+    {
+        "name": "ECON 709"
+    },
+    {
+        "name": "ED PSYCH 709"
+    },
+    {
+        "name": "MATH 709"
+    },
+    {
+        "name": "MUS PERF 709"
+    },
+    {
+        "name": "NURSING 709"
+    },
+    {
+        "name": "PHYSICS 709"
+    },
+    {
+        "name": "POP HLTH 709"
+    },
+    {
+        "name": "PSYCH 709"
+    },
+    {
+        "name": "STAT 709"
+    },
+    {
+        "name": "ACCT I S 710"
+    },
+    {
+        "name": "AGROECOL 710"
+    },
+    {
+        "name": "ABT 710"
+    },
+    {
+        "name": "B M E 710"
+    },
+    {
+        "name": "CRB 710"
+    },
+    {
+        "name": "CBE 710"
+    },
+    {
+        "name": "ELPA 710"
+    },
+    {
+        "name": "GENETICS 710"
+    },
+    {
+        "name": "HISTORY 710"
+    },
+    {
+        "name": "LAND ARC 710"
+    },
+    {
+        "name": "M H R 710"
+    },
+    {
+        "name": "MARKETNG 710"
+    },
+    {
+        "name": "MED PHYS 710"
+    },
+    {
+        "name": "MED SC-V 710"
+    },
+    {
+        "name": "MEDICINE 710"
+    },
+    {
+        "name": "NUTR SCI 710"
+    },
+    {
+        "name": "OBS&GYN 710"
+    },
+    {
+        "name": "OCC THER 710"
+    },
+    {
+        "name": "PUBLHLTH 710"
+    },
+    {
+        "name": "REAL EST 710"
+    },
+    {
+        "name": "RP & SE 710"
+    },
+    {
+        "name": "SURG SCI 710"
+    },
+    {
+        "name": "AN SCI 711"
+    },
+    {
+        "name": "ECON 711"
+    },
+    {
+        "name": "ED PSYCH 711"
+    },
+    {
+        "name": "FAM MED 711"
+    },
+    {
+        "name": "FOOD SCI 711"
+    },
+    {
+        "name": "LAW 711"
+    },
+    {
+        "name": "MUS PERF 711"
+    },
+    {
+        "name": "NURSING 711"
+    },
+    {
+        "name": "NUTR SCI 711"
+    },
+    {
+        "name": "PHYSICS 711"
+    },
+    {
+        "name": "PSYCH 711"
+    },
+    {
+        "name": "PUBLHLTH 711"
+    },
+    {
+        "name": "S&A PHM 711"
+    },
+    {
+        "name": "SOC WORK 711"
+    },
+    {
+        "name": "SURG SCI 711"
+    },
+    {
+        "name": "CURRIC 712"
+    },
+    {
+        "name": "ECON 712"
+    },
+    {
+        "name": "E P D 712"
+    },
+    {
+        "name": "L I S 712"
+    },
+    {
+        "name": "NURSING 712"
+    },
+    {
+        "name": "OCC THER 712"
+    },
+    {
+        "name": "POP HLTH 712"
+    },
+    {
+        "name": "PSYCHIAT 712"
+    },
+    {
+        "name": "PUBLHLTH 712"
+    },
+    {
+        "name": "SOC WORK 712"
+    },
+    {
+        "name": "CHEM 713"
+    },
+    {
+        "name": "GEN BUS 713"
+    },
+    {
+        "name": "GENECSLR 713"
+    },
+    {
+        "name": "MUS PERF 713"
+    },
+    {
+        "name": "PSYCHIAT 713"
+    },
+    {
+        "name": "PUBLHLTH 713"
+    },
+    {
+        "name": "CHEM 714"
+    },
+    {
+        "name": "COMP SCI 714"
+    },
+    {
+        "name": "LAW 714"
+    },
+    {
+        "name": "MATH 714"
+    },
+    {
+        "name": "MED SC-V 714"
+    },
+    {
+        "name": "PSYCHIAT 714"
+    },
+    {
+        "name": "PUBLHLTH 714"
+    },
+    {
+        "name": "SURG SCI 714"
+    },
+    {
+        "name": "ABT 715"
+    },
+    {
+        "name": "ART HIST 715"
+    },
+    {
+        "name": "B M E 715"
+    },
+    {
+        "name": "CURRIC 715"
+    },
+    {
+        "name": "ECON 715"
+    },
+    {
+        "name": "ELPA 715"
+    },
+    {
+        "name": "MARKETNG 715"
+    },
+    {
+        "name": "M E 715"
+    },
+    {
+        "name": "MUS PERF 715"
+    },
+    {
+        "name": "NURSING 715"
+    },
+    {
+        "name": "NUTR SCI 715"
+    },
+    {
+        "name": "REAL EST 715"
+    },
+    {
+        "name": "MED SC-V 716"
+    },
+    {
+        "name": "CIV ENGR 717"
+    },
+    {
+        "name": "E C E 717"
+    },
+    {
+        "name": "ENVIR ST 717"
+    },
+    {
+        "name": "MUS PERF 717"
+    },
+    {
+        "name": "PHY ASST 717"
+    },
+    {
+        "name": "PHYSICS 717"
+    },
+    {
+        "name": "URB R PL 717"
+    },
+    {
+        "name": "BIOCHEM 719"
+    },
+    {
+        "name": "COMP SCI 719"
+    },
+    {
+        "name": "COUN PSY 719"
+    },
+    {
+        "name": "CURRIC 719"
+    },
+    {
+        "name": "ELPA 719"
+    },
+    {
+        "name": "ED POL 719"
+    },
+    {
+        "name": "ED PSYCH 719"
+    },
+    {
+        "name": "I SY E 719"
+    },
+    {
+        "name": "MATH 719"
+    },
+    {
+        "name": "MUS PERF 719"
+    },
+    {
+        "name": "RP & SE 719"
+    },
+    {
+        "name": "A A E 720"
+    },
+    {
+        "name": "AGROECOL 720"
+    },
+    {
+        "name": "ABT 720"
+    },
+    {
+        "name": "CURRIC 720"
+    },
+    {
+        "name": "ED PSYCH 720"
+    },
+    {
+        "name": "FINANCE 720"
+    },
+    {
+        "name": "GEN&WS 720"
+    },
+    {
+        "name": "GEN BUS 720"
+    },
+    {
+        "name": "HIST SCI 720"
+    },
+    {
+        "name": "LAND ARC 720"
+    },
+    {
+        "name": "LSC 720"
+    },
+    {
+        "name": "NURSING 720"
+    },
+    {
+        "name": "REAL EST 720"
+    },
+    {
+        "name": "URB R PL 720"
+    },
+    {
+        "name": "BIOCHEM 721"
+    },
+    {
+        "name": "CHEM 721"
+    },
+    {
+        "name": "ECON 721"
+    },
+    {
+        "name": "KINES 721"
+    },
+    {
+        "name": "MATH 721"
+    },
+    {
+        "name": "MUS PERF 721"
+    },
+    {
+        "name": "NUTR SCI 721"
+    },
+    {
+        "name": "PHYSICS 721"
+    },
+    {
+        "name": "POP HLTH 721"
+    },
+    {
+        "name": "SOC WORK 721"
+    },
+    {
+        "name": "URB R PL 721"
+    },
+    {
+        "name": "ACCT I S 722"
+    },
+    {
+        "name": "A A E 722"
+    },
+    {
+        "name": "ART 722"
+    },
+    {
+        "name": "CIV ENGR 722"
+    },
+    {
+        "name": "M H R 722"
+    },
+    {
+        "name": "MARKETNG 722"
+    },
+    {
+        "name": "NURSING 722"
+    },
+    {
+        "name": "OCC THER 722"
+    },
+    {
+        "name": "OTM 722"
+    },
+    {
+        "name": "A A E 723"
+    },
+    {
+        "name": "COMP SCI 723"
+    },
+    {
+        "name": "I SY E 723"
+    },
+    {
+        "name": "LAW 723"
+    },
+    {
+        "name": "NURSING 723"
+    },
+    {
+        "name": "ACCT I S 724"
+    },
+    {
+        "name": "A A E 724"
+    },
+    {
+        "name": "AGROECOL 724"
+    },
+    {
+        "name": "AGRONOMY 724"
+    },
+    {
+        "name": "C&E SOC 724"
+    },
+    {
+        "name": "E C E 724"
+    },
+    {
+        "name": "ENVIR ST 724"
+    },
+    {
+        "name": "N E 724"
+    },
+    {
+        "name": "PHYSICS 724"
+    },
+    {
+        "name": "SOC 724"
+    },
+    {
+        "name": "ABT 725"
+    },
+    {
+        "name": "ECON 725"
+    },
+    {
+        "name": "ELPA 725"
+    },
+    {
+        "name": "ED PSYCH 725"
+    },
+    {
+        "name": "FINANCE 725"
+    },
+    {
+        "name": "GERMAN 725"
+    },
+    {
+        "name": "HDFS 725"
+    },
+    {
+        "name": "LAW 725"
+    },
+    {
+        "name": "MARKETNG 725"
+    },
+    {
+        "name": "MUS PERF 725"
+    },
+    {
+        "name": "NURSING 725"
+    },
+    {
+        "name": "OCC THER 725"
+    },
+    {
+        "name": "ART 726"
+    },
+    {
+        "name": "COMP SCI 726"
+    },
+    {
+        "name": "CURRIC 726"
+    },
+    {
+        "name": "I SY E 726"
+    },
+    {
+        "name": "LAW 726"
+    },
+    {
+        "name": "MATH 726"
+    },
+    {
+        "name": "NURSING 726"
+    },
+    {
+        "name": "NUTR SCI 726"
+    },
+    {
+        "name": "STAT 726"
+    },
+    {
+        "name": "B M I 727"
+    },
+    {
+        "name": "MUS PERF 727"
+    },
+    {
+        "name": "STAT 727"
+    },
+    {
+        "name": "M H R 728"
+    },
+    {
+        "name": "MARKETNG 728"
+    },
+    {
+        "name": "NURSING 728"
+    },
+    {
+        "name": "OCC THER 728"
+    },
+    {
+        "name": "OTM 728"
+    },
+    {
+        "name": "POP HLTH 728"
+    },
+    {
+        "name": "SOIL SCI 728"
+    },
+    {
+        "name": "BIOCHEM 729"
+    },
+    {
+        "name": "MED HIST 729"
+    },
+    {
+        "name": "PHY ASST 729"
+    },
+    {
+        "name": "ABT 730"
+    },
+    {
+        "name": "ASTRON 730"
+    },
+    {
+        "name": "C&E SOC 730"
+    },
+    {
+        "name": "COUN PSY 730"
+    },
+    {
+        "name": "E C E 730"
+    },
+    {
+        "name": "FINANCE 730"
+    },
+    {
+        "name": "GEN BUS 730"
+    },
+    {
+        "name": "LAW 730"
+    },
+    {
+        "name": "MARKETNG 730"
+    },
+    {
+        "name": "NURSING 730"
+    },
+    {
+        "name": "RP & SE 730"
+    },
+    {
+        "name": "SOC 730"
+    },
+    {
+        "name": "SOIL SCI 730"
+    },
+    {
+        "name": "A A E 731"
+    },
+    {
+        "name": "E P D 731"
+    },
+    {
+        "name": "GENECSLR 731"
+    },
+    {
+        "name": "LAW 731"
+    },
+    {
+        "name": "MICROBIO 731"
+    },
+    {
+        "name": "MUS PERF 731"
+    },
+    {
+        "name": "PHYSICS 731"
+    },
+    {
+        "name": "LAW 732"
+    },
+    {
+        "name": "MUS PERF 732"
+    },
+    {
+        "name": "RP & SE 732"
+    },
+    {
+        "name": "CIV ENGR 733"
+    },
+    {
+        "name": "G L E 733"
+    },
+    {
+        "name": "MATH 733"
+    },
+    {
+        "name": "MUS PERF 733"
+    },
+    {
+        "name": "PSYCH 733"
+    },
+    {
+        "name": "STAT 733"
+    },
+    {
+        "name": "HISTORY 734"
+    },
+    {
+        "name": "L I S 734"
+    },
+    {
+        "name": "M H R 734"
+    },
+    {
+        "name": "OCC THER 734"
+    },
+    {
+        "name": "ABT 735"
+    },
+    {
+        "name": "CBE 735"
+    },
+    {
+        "name": "MED SC-M 735"
+    },
+    {
+        "name": "MUS PERF 735"
+    },
+    {
+        "name": "PHYSICS 735"
+    },
+    {
+        "name": "RP & SE 735"
+    },
+    {
+        "name": "ART 736"
+    },
+    {
+        "name": "ECON 736"
+    },
+    {
+        "name": "ELPA 736"
+    },
+    {
+        "name": "LAW 736"
+    },
+    {
+        "name": "ENGL 737"
+    },
+    {
+        "name": "GEN&WS 737"
+    },
+    {
+        "name": "GENECSLR 737"
+    },
+    {
+        "name": "MUS PERF 737"
+    },
+    {
+        "name": "GENECSLR 739"
+    },
+    {
+        "name": "M H R 739"
+    },
+    {
+        "name": "PHMCOL-M 739"
+    },
+    {
+        "name": "PHY ASST 739"
+    },
+    {
+        "name": "ABT 740"
+    },
+    {
+        "name": "ED PSYCH 740"
+    },
+    {
+        "name": "E C E 740"
+    },
+    {
+        "name": "FINANCE 740"
+    },
+    {
+        "name": "GEN BUS 740"
+    },
+    {
+        "name": "LAW 740"
+    },
+    {
+        "name": "M M & I 740"
+    },
+    {
+        "name": "MUS PERF 740"
+    },
+    {
+        "name": "PHM PRAC 740"
+    },
+    {
+        "name": "ECON 741"
+    },
+    {
+        "name": "GENECSLR 741"
+    },
+    {
+        "name": "LAW 741"
+    },
+    {
+        "name": "M H R 741"
+    },
+    {
+        "name": "MATH 741"
+    },
+    {
+        "name": "MED HIST 741"
+    },
+    {
+        "name": "NURSING 741"
+    },
+    {
+        "name": "PHM PRAC 741"
+    },
+    {
+        "name": "SOC WORK 741"
+    },
+    {
+        "name": "SURG SCI 741"
+    },
+    {
+        "name": "CSCS 742"
+    },
+    {
+        "name": "LAW 742"
+    },
+    {
+        "name": "M H R 742"
+    },
+    {
+        "name": "MED HIST 742"
+    },
+    {
+        "name": "MUS PERF 742"
+    },
+    {
+        "name": "PHM PRAC 742"
+    },
+    {
+        "name": "SOC WORK 742"
+    },
+    {
+        "name": "URB R PL 742"
+    },
+    {
+        "name": "ED POL 743"
+    },
+    {
+        "name": "LAW 743"
+    },
+    {
+        "name": "PHM PRAC 743"
+    },
+    {
+        "name": "SURG SCI 743"
+    },
+    {
+        "name": "GENECSLR 744"
+    },
+    {
+        "name": "LAW 744"
+    },
+    {
+        "name": "MED HIST 744"
+    },
+    {
+        "name": "E C E 745"
+    },
+    {
+        "name": "LAW 745"
+    },
+    {
+        "name": "E C E 746"
+    },
+    {
+        "name": "LAW 746"
+    },
+    {
+        "name": "M H R 746"
+    },
+    {
+        "name": "MATH 746"
+    },
+    {
+        "name": "MED HIST 746"
+    },
+    {
+        "name": "NURSING 746"
+    },
+    {
+        "name": "PHM PRAC 746"
+    },
+    {
+        "name": "PHYSICS 746"
+    },
+    {
+        "name": "SOC WORK 746"
+    },
+    {
+        "name": "A A E 747"
+    },
+    {
+        "name": "ECON 747"
+    },
+    {
+        "name": "E C E 747"
+    },
+    {
+        "name": "M E 747"
+    },
+    {
+        "name": "MUS PERF 747"
+    },
+    {
+        "name": "E C E 748"
+    },
+    {
+        "name": "GENECSLR 748"
+    },
+    {
+        "name": "M S & E 748"
+    },
+    {
+        "name": "PHYSICS 748"
+    },
+    {
+        "name": "SURG SCI 748"
+    },
+    {
+        "name": "MATH 749"
+    },
+    {
+        "name": "PHY ASST 749"
+    },
+    {
+        "name": "ABT 750"
+    },
+    {
+        "name": "C&E SOC 750"
+    },
+    {
+        "name": "ECON 750"
+    },
+    {
+        "name": "ELPA 750"
+    },
+    {
+        "name": "GEN BUS 750"
+    },
+    {
+        "name": "H ONCOL 750"
+    },
+    {
+        "name": "INTEGSCI 750"
+    },
+    {
+        "name": "M H R 750"
+    },
+    {
+        "name": "MED HIST 750"
+    },
+    {
+        "name": "POP HLTH 750"
+    },
+    {
+        "name": "PSYCH 750"
+    },
+    {
+        "name": "REAL EST 750"
+    },
+    {
+        "name": "SOC 750"
+    },
+    {
+        "name": "SURG SCI 750"
+    },
+    {
+        "name": "ATM OCN 751"
+    },
+    {
+        "name": "ELPA 751"
+    },
+    {
+        "name": "E C E 751"
+    },
+    {
+        "name": "LAW 751"
+    },
+    {
+        "name": "L I S 751"
+    },
+    {
+        "name": "MATH 751"
+    },
+    {
+        "name": "MUSIC 751"
+    },
+    {
+        "name": "NURSING 751"
+    },
+    {
+        "name": "OTM 751"
+    },
+    {
+        "name": "PATH 751"
+    },
+    {
+        "name": "PHM SCI 751"
+    },
+    {
+        "name": "PHYSICS 751"
+    },
+    {
+        "name": "URB R PL 751"
+    },
+    {
+        "name": "COMP SCI 752"
+    },
+    {
+        "name": "E C E 752"
+    },
+    {
+        "name": "HISTORY 752"
+    },
+    {
+        "name": "MUSIC 752"
+    },
+    {
+        "name": "OTM 752"
+    },
+    {
+        "name": "LAW 753"
+    },
+    {
+        "name": "MATH 753"
+    },
+    {
+        "name": "OTM 753"
+    },
+    {
+        "name": "PHM SCI 753"
+    },
+    {
+        "name": "ELPA 754"
+    },
+    {
+        "name": "SOC 754"
+    },
+    {
+        "name": "HISTORY 755"
+    },
+    {
+        "name": "L I S 755"
+    },
+    {
+        "name": "PATH 755"
+    },
+    {
+        "name": "COMP SCI 756"
+    },
+    {
+        "name": "E C E 756"
+    },
+    {
+        "name": "M S & E 756"
+    },
+    {
+        "name": "COMP SCI 757"
+    },
+    {
+        "name": "E C E 757"
+    },
+    {
+        "name": "PHM SCI 757"
+    },
+    {
+        "name": "COMP SCI 758"
+    },
+    {
+        "name": "GERMAN 758"
+    },
+    {
+        "name": "M S & E 758"
+    },
+    {
+        "name": "COMP SCI 759"
+    },
+    {
+        "name": "E C E 759"
+    },
+    {
+        "name": "E P 759"
+    },
+    {
+        "name": "E M A 759"
+    },
+    {
+        "name": "M E 759"
+    },
+    {
+        "name": "PHM SCI 759"
+    },
+    {
+        "name": "PHY ASST 759"
+    },
+    {
+        "name": "COMP SCI 760"
+    },
+    {
+        "name": "ED PSYCH 760"
+    },
+    {
+        "name": "E C E 760"
+    },
+    {
+        "name": "GEN BUS 760"
+    },
+    {
+        "name": "MARKETNG 760"
+    },
+    {
+        "name": "OTM 760"
+    },
+    {
+        "name": "PHM PRAC 760"
+    },
+    {
+        "name": "REAL EST 760"
+    },
+    {
+        "name": "STAT 760"
+    },
+    {
+        "name": "ECON 761"
+    },
+    {
+        "name": "STAT 761"
+    },
+    {
+        "name": "A A E 762"
+    },
+    {
+        "name": "COMP SCI 762"
+    },
+    {
+        "name": "ED PSYCH 762"
+    },
+    {
+        "name": "PHM SCI 762"
+    },
+    {
+        "name": "ASIAN 763"
+    },
+    {
+        "name": "ED PSYCH 763"
+    },
+    {
+        "name": "HDFS 763"
+    },
+    {
+        "name": "MATH 763"
+    },
+    {
+        "name": "COMP SCI 764"
+    },
+    {
+        "name": "PHM PRAC 764"
+    },
+    {
+        "name": "ABT 765"
+    },
+    {
+        "name": "FINANCE 765"
+    },
+    {
+        "name": "GEN BUS 765"
+    },
+    {
+        "name": "GEOG 765"
+    },
+    {
+        "name": "HDFS 765"
+    },
+    {
+        "name": "M H R 765"
+    },
+    {
+        "name": "MARKETNG 765"
+    },
+    {
+        "name": "MATH 765"
+    },
+    {
+        "name": "REAL EST 765"
+    },
+    {
+        "name": "R M I 765"
+    },
+    {
+        "name": "INTL BUS 767"
+    },
+    {
+        "name": "LAW 768"
+    },
+    {
+        "name": "M E 768"
+    },
+    {
+        "name": "MED SC-M 768"
+    },
+    {
+        "name": "NURSING 768"
+    },
+    {
+        "name": "PHM SCI 768"
+    },
+    {
+        "name": "COMP SCI 769"
+    },
+    {
+        "name": "PHY ASST 769"
+    },
+    {
+        "name": "ACCT I S 770"
+    },
+    {
+        "name": "ABT 770"
+    },
+    {
+        "name": "ECON 770"
+    },
+    {
+        "name": "MATH 770"
+    },
+    {
+        "name": "MED SC-M 770"
+    },
+    {
+        "name": "OCC THER 770"
+    },
+    {
+        "name": "PHARMACY 770"
+    },
+    {
+        "name": "SPANISH 770"
+    },
+    {
+        "name": "B M I 771"
+    },
+    {
+        "name": "COMP SCI 771"
+    },
+    {
+        "name": "ED PSYCH 771"
+    },
+    {
+        "name": "LAW 771"
+    },
+    {
+        "name": "MED SC-M 771"
+    },
+    {
+        "name": "OCC THER 771"
+    },
+    {
+        "name": "STAT 771"
+    },
+    {
+        "name": "L I S 772"
+    },
+    {
+        "name": "KINES 773"
+    },
+    {
+        "name": "M H R 773"
+    },
+    {
+        "name": "MATH 773"
+    },
+    {
+        "name": "OCC THER 773"
+    },
+    {
+        "name": "MED SC-M 774"
+    },
+    {
+        "name": "B M I 775"
+    },
+    {
+        "name": "COMP SCI 775"
+    },
+    {
+        "name": "M H R 775"
+    },
+    {
+        "name": "MED SC-M 775"
+    },
+    {
+        "name": "MED SC-V 775"
+    },
+    {
+        "name": "ART HIST 776"
+    },
+    {
+        "name": "ELPA 777"
+    },
+    {
+        "name": "GEN BUS 777"
+    },
+    {
+        "name": "GEOG 777"
+    },
+    {
+        "name": "MED PHYS 777"
+    },
+    {
+        "name": "B M E 778"
+    },
+    {
+        "name": "E C E 778"
+    },
+    {
+        "name": "GEOG 778"
+    },
+    {
+        "name": "MED PHYS 778"
+    },
+    {
+        "name": "ART HIST 779"
+    },
+    {
+        "name": "B M E 780"
+    },
+    {
+        "name": "ED POL 780"
+    },
+    {
+        "name": "GEN BUS 780"
+    },
+    {
+        "name": "PHM SCI 780"
+    },
+    {
+        "name": "PUBLHLTH 780"
+    },
+    {
+        "name": "CBE 781"
+    },
+    {
+        "name": "ENGL 781"
+    },
+    {
+        "name": "ENGL 782"
+    },
+    {
+        "name": "PUBLHLTH 782"
+    },
+    {
+        "name": "ENGL 783"
+    },
+    {
+        "name": "PUBLHLTH 783"
+    },
+    {
+        "name": "ABT 785"
+    },
+    {
+        "name": "ENGL 785"
+    },
+    {
+        "name": "LAW 785"
+    },
+    {
+        "name": "NURSING 787"
+    },
+    {
+        "name": "PHY ASST 787"
+    },
+    {
+        "name": "PUBLHLTH 787"
+    },
+    {
+        "name": "PUBLHLTH 788"
+    },
+    {
+        "name": "ABT 789"
+    },
+    {
+        "name": "COUN PSY 789"
+    },
+    {
+        "name": "CURRIC 789"
+    },
+    {
+        "name": "ELPA 789"
+    },
+    {
+        "name": "ED POL 789"
+    },
+    {
+        "name": "ED PSYCH 789"
+    },
+    {
+        "name": "RP & SE 789"
+    },
+    {
+        "name": "AFROAMER 790"
+    },
+    {
+        "name": "ABT 790"
+    },
+    {
+        "name": "B M E 790"
+    },
+    {
+        "name": "CBE 790"
+    },
+    {
+        "name": "CIV ENGR 790"
+    },
+    {
+        "name": "CS&D 790"
+    },
+    {
+        "name": "COMP SCI 790"
+    },
+    {
+        "name": "CURRIC 790"
+    },
+    {
+        "name": "E C E 790"
+    },
+    {
+        "name": "ENGL 790"
+    },
+    {
+        "name": "E M A 790"
+    },
+    {
+        "name": "FAM MED 790"
+    },
+    {
+        "name": "GEN&WS 790"
+    },
+    {
+        "name": "GEN BUS 790"
+    },
+    {
+        "name": "G L E 790"
+    },
+    {
+        "name": "I SY E 790"
+    },
+    {
+        "name": "M S & E 790"
+    },
+    {
+        "name": "M E 790"
+    },
+    {
+        "name": "N E 790"
+    },
+    {
+        "name": "PUBLHLTH 790"
+    },
+    {
+        "name": "COUN PSY 791"
+    },
+    {
+        "name": "ED PSYCH 791"
+    },
+    {
+        "name": "PSYCH 791"
+    },
+    {
+        "name": "PUBLHLTH 791"
+    },
+    {
+        "name": "INTER-HE 792"
+    },
+    {
+        "name": "PUBLHLTH 792"
+    },
+    {
+        "name": "INTER-HE 793"
+    },
+    {
+        "name": "ED PSYCH 795"
+    },
+    {
+        "name": "ENGL 795"
+    },
+    {
+        "name": "POP HLTH 795"
+    },
+    {
+        "name": "POP HLTH 797"
+    },
+    {
+        "name": "SOC 797"
+    },
+    {
+        "name": "MUSIC 798"
+    },
+    {
+        "name": "ACCT I S 799"
+    },
+    {
+        "name": "A A E 799"
+    },
+    {
+        "name": "AGRONOMY 799"
+    },
+    {
+        "name": "AN SCI 799"
+    },
+    {
+        "name": "ART HIST 799"
+    },
+    {
+        "name": "ASIAN 799"
+    },
+    {
+        "name": "BSE 799"
+    },
+    {
+        "name": "B M E 799"
+    },
+    {
+        "name": "COM ARTS 799"
+    },
+    {
+        "name": "CS&D 799"
+    },
+    {
+        "name": "COMP SCI 799"
+    },
+    {
+        "name": "CURRIC 799"
+    },
+    {
+        "name": "DY SCI 799"
+    },
+    {
+        "name": "ENGL 799"
+    },
+    {
+        "name": "ENTOM 799"
+    },
+    {
+        "name": "FINANCE 799"
+    },
+    {
+        "name": "FOOD SCI 799"
+    },
+    {
+        "name": "F&W ECOL 799"
+    },
+    {
+        "name": "FRENCH 799"
+    },
+    {
+        "name": "GEN&WS 799"
+    },
+    {
+        "name": "GEN BUS 799"
+    },
+    {
+        "name": "GEOG 799"
+    },
+    {
+        "name": "GERMAN 799"
+    },
+    {
+        "name": "HEBR-BIB 799"
+    },
+    {
+        "name": "HORT 799"
+    },
+    {
+        "name": "ITALIAN 799"
+    },
+    {
+        "name": "M H R 799"
+    },
+    {
+        "name": "MARKETNG 799"
+    },
+    {
+        "name": "MUSIC 799"
+    },
+    {
+        "name": "NURSING 799"
+    },
+    {
+        "name": "NUTR SCI 799"
+    },
+    {
+        "name": "OTM 799"
+    },
+    {
+        "name": "PHILOS 799"
+    },
+    {
+        "name": "PHY THER 799"
+    },
+    {
+        "name": "PHYSICS 799"
+    },
+    {
+        "name": "PL PATH 799"
+    },
+    {
+        "name": "PSYCH 799"
+    },
+    {
+        "name": "PUB AFFR 799"
+    },
+    {
+        "name": "REAL EST 799"
+    },
+    {
+        "name": "R M I 799"
+    },
+    {
+        "name": "SCAND ST 799"
+    },
+    {
+        "name": "SLAVIC 799"
+    },
+    {
+        "name": "SOC WORK 799"
+    },
+    {
+        "name": "SOIL SCI 799"
+    },
+    {
+        "name": "ZOOLOGY 799"
+    },
+    {
+        "name": "ART HIST 800"
+    },
+    {
+        "name": "CRB 800"
+    },
+    {
+        "name": "COUN PSY 800"
+    },
+    {
+        "name": "ENGL 800"
+    },
+    {
+        "name": "HISTORY 800"
+    },
+    {
+        "name": "LINGUIS 800"
+    },
+    {
+        "name": "M&ENVTOX 800"
+    },
+    {
+        "name": "POLI SCI 800"
+    },
+    {
+        "name": "PUB AFFR 800"
+    },
+    {
+        "name": "SLAVIC 800"
+    },
+    {
+        "name": "SOC WORK 800"
+    },
+    {
+        "name": "AFROAMER 801"
+    },
+    {
+        "name": "ART HIST 801"
+    },
+    {
+        "name": "CHEM 801"
+    },
+    {
+        "name": "CSCS 801"
+    },
+    {
+        "name": "ENTOM 801"
+    },
+    {
+        "name": "INTER-HE 801"
+    },
+    {
+        "name": "JOURN 801"
+    },
+    {
+        "name": "LAW 801"
+    },
+    {
+        "name": "PHARMACY 801"
+    },
+    {
+        "name": "PHYSICS 801"
+    },
+    {
+        "name": "POLI SCI 801"
+    },
+    {
+        "name": "CRB 802"
+    },
+    {
+        "name": "LAW 802"
+    },
+    {
+        "name": "PATH 802"
+    },
+    {
+        "name": "SPANISH 802"
+    },
+    {
+        "name": "CRB 803"
+    },
+    {
+        "name": "ENGL 803"
+    },
+    {
+        "name": "M S & E 803"
+    },
+    {
+        "name": "MEDIEVAL 803"
+    },
+    {
+        "name": "PATH 803"
+    },
+    {
+        "name": "CRB 804"
+    },
+    {
+        "name": "FRENCH 804"
+    },
+    {
+        "name": "GERMAN 804"
+    },
+    {
+        "name": "HISTORY 804"
+    },
+    {
+        "name": "NURSING 804"
+    },
+    {
+        "name": "POLI SCI 804"
+    },
+    {
+        "name": "SOC 804"
+    },
+    {
+        "name": "COUN PSY 805"
+    },
+    {
+        "name": "ECON 805"
+    },
+    {
+        "name": "ENGL 805"
+    },
+    {
+        "name": "HISTORY 805"
+    },
+    {
+        "name": "PHYSICS 805"
+    },
+    {
+        "name": "POP HLTH 805"
+    },
+    {
+        "name": "PSYCH 805"
+    },
+    {
+        "name": "PSYCH 806"
+    },
+    {
+        "name": "COUN PSY 808"
+    },
+    {
+        "name": "ENVIR ST 809"
+    },
+    {
+        "name": "PUB AFFR 809"
+    },
+    {
+        "name": "URB R PL 809"
+    },
+    {
+        "name": "COUN PSY 810"
+    },
+    {
+        "name": "ELPA 810"
+    },
+    {
+        "name": "ENGL 810"
+    },
+    {
+        "name": "GEN&WS 810"
+    },
+    {
+        "name": "MED SC-M 810"
+    },
+    {
+        "name": "MICROBIO 810"
+    },
+    {
+        "name": "RP & SE 810"
+    },
+    {
+        "name": "AGRONOMY 811"
+    },
+    {
+        "name": "HORT 811"
+    },
+    {
+        "name": "LAW 811"
+    },
+    {
+        "name": "MED SC-M 811"
+    },
+    {
+        "name": "NURSING 811"
+    },
+    {
+        "name": "OCC THER 811"
+    },
+    {
+        "name": "POLI SCI 811"
+    },
+    {
+        "name": "CSCS 812"
+    },
+    {
+        "name": "MED SC-M 812"
+    },
+    {
+        "name": "OCC THER 812"
+    },
+    {
+        "name": "POLI SCI 812"
+    },
+    {
+        "name": "SURG SCI 812"
+    },
+    {
+        "name": "GENECSLR 813"
+    },
+    {
+        "name": "MED SC-M 813"
+    },
+    {
+        "name": "RADIOL 813"
+    },
+    {
+        "name": "LAW 814"
+    },
+    {
+        "name": "ART HIST 815"
+    },
+    {
+        "name": "INTER-HE 815"
+    },
+    {
+        "name": "LAW 815"
+    },
+    {
+        "name": "NURSING 815"
+    },
+    {
+        "name": "SOC WORK 815"
+    },
+    {
+        "name": "ENGL 816"
+    },
+    {
+        "name": "NURSING 816"
+    },
+    {
+        "name": "SOC WORK 816"
+    },
+    {
+        "name": "E C E 817"
+    },
+    {
+        "name": "LAW 817"
+    },
+    {
+        "name": "POLI SCI 817"
+    },
+    {
+        "name": "CURRIC 818"
+    },
+    {
+        "name": "POLI SCI 818"
+    },
+    {
+        "name": "NURSING 819"
+    },
+    {
+        "name": "FRENCH 820"
+    },
+    {
+        "name": "LAW 820"
+    },
+    {
+        "name": "POP HLTH 820"
+    },
+    {
+        "name": "RP & SE 820"
+    },
+    {
+        "name": "SLAVIC 820"
+    },
+    {
+        "name": "CIV ENGR 821"
+    },
+    {
+        "name": "E C E 821"
+    },
+    {
+        "name": "FRENCH 821"
+    },
+    {
+        "name": "ITALIAN 821"
+    },
+    {
+        "name": "JOURN 821"
+    },
+    {
+        "name": "LAW 821"
+    },
+    {
+        "name": "MATH 821"
+    },
+    {
+        "name": "MUSIC 821"
+    },
+    {
+        "name": "OCC THER 821"
+    },
+    {
+        "name": "SOC WORK 821"
+    },
+    {
+        "name": "ELPA 822"
+    },
+    {
+        "name": "ED PSYCH 822"
+    },
+    {
+        "name": "JOURN 822"
+    },
+    {
+        "name": "LAW 822"
+    },
+    {
+        "name": "OCC THER 822"
+    },
+    {
+        "name": "SOC WORK 822"
+    },
+    {
+        "name": "CURRIC 823"
+    },
+    {
+        "name": "ENVIR ST 823"
+    },
+    {
+        "name": "JOURN 823"
+    },
+    {
+        "name": "LSC 823"
+    },
+    {
+        "name": "MATH 823"
+    },
+    {
+        "name": "AN SCI 825"
+    },
+    {
+        "name": "COUN PSY 825"
+    },
+    {
+        "name": "DY SCI 825"
+    },
+    {
+        "name": "ELPA 825"
+    },
+    {
+        "name": "ENGL 825"
+    },
+    {
+        "name": "LAW 825"
+    },
+    {
+        "name": "B M I 826"
+    },
+    {
+        "name": "NURSING 826"
+    },
+    {
+        "name": "ELPA 827"
+    },
+    {
+        "name": "ED PSYCH 827"
+    },
+    {
+        "name": "LAW 827"
+    },
+    {
+        "name": "MATH 827"
+    },
+    {
+        "name": "PUB AFFR 827"
+    },
+    {
+        "name": "ED PSYCH 828"
+    },
+    {
+        "name": "LAW 828"
+    },
+    {
+        "name": "NURSING 828"
+    },
+    {
+        "name": "ED PSYCH 829"
+    },
+    {
+        "name": "CRB 830"
+    },
+    {
+        "name": "CURRIC 830"
+    },
+    {
+        "name": "ED PSYCH 830"
+    },
+    {
+        "name": "RP & SE 830"
+    },
+    {
+        "name": "PHYSICS 831"
+    },
+    {
+        "name": "ELPA 832"
+    },
+    {
+        "name": "MATH 833"
+    },
+    {
+        "name": "STAT 833"
+    },
+    {
+        "name": "CRB 834"
+    },
+    {
+        "name": "CS&D 834"
+    },
+    {
+        "name": "CS&D 835"
+    },
+    {
+        "name": "FINANCE 835"
+    },
+    {
+        "name": "PHILOS 835"
+    },
+    {
+        "name": "SOC WORK 835"
+    },
+    {
+        "name": "SOC WORK 836"
+    },
+    {
+        "name": "POLI SCI 837"
+    },
+    {
+        "name": "COMP SCI 839"
+    },
+    {
+        "name": "POLI SCI 839"
+    },
+    {
+        "name": "ED PSYCH 840"
+    },
+    {
+        "name": "GEN&WS 840"
+    },
+    {
+        "name": "INTEGSCI 840"
+    },
+    {
+        "name": "MARKETNG 840"
+    },
+    {
+        "name": "RP & SE 840"
+    },
+    {
+        "name": "SOC WORK 840"
+    },
+    {
+        "name": "CRB 841"
+    },
+    {
+        "name": "ELPA 841"
+    },
+    {
+        "name": "REAL EST 841"
+    },
+    {
+        "name": "CHEM 843"
+    },
+    {
+        "name": "MATH 843"
+    },
+    {
+        "name": "ED PSYCH 844"
+    },
+    {
+        "name": "CS&D 845"
+    },
+    {
+        "name": "ELPA 845"
+    },
+    {
+        "name": "CS&D 846"
+    },
+    {
+        "name": "NURSING 847"
+    },
+    {
+        "name": "POP HLTH 847"
+    },
+    {
+        "name": "ECON 848"
+    },
+    {
+        "name": "LAW 848"
+    },
+    {
+        "name": "POP HLTH 848"
+    },
+    {
+        "name": "LAW 849"
+    },
+    {
+        "name": "STAT 849"
+    },
+    {
+        "name": "CS&D 850"
+    },
+    {
+        "name": "COUN PSY 850"
+    },
+    {
+        "name": "ENGL 850"
+    },
+    {
+        "name": "FINANCE 850"
+    },
+    {
+        "name": "INTEGSCI 850"
+    },
+    {
+        "name": "LAW 850"
+    },
+    {
+        "name": "ENGL 851"
+    },
+    {
+        "name": "MATH 851"
+    },
+    {
+        "name": "REAL EST 851"
+    },
+    {
+        "name": "CS&D 852"
+    },
+    {
+        "name": "LAW 852"
+    },
+    {
+        "name": "SPANISH 852"
+    },
+    {
+        "name": "CS&D 853"
+    },
+    {
+        "name": "POLI SCI 853"
+    },
+    {
+        "name": "CS&D 854"
+    },
+    {
+        "name": "LAW 854"
+    },
+    {
+        "name": "CS&D 855"
+    },
+    {
+        "name": "L I S 855"
+    },
+    {
+        "name": "POLI SCI 856"
+    },
+    {
+        "name": "POLI SCI 857"
+    },
+    {
+        "name": "ENGL 859"
+    },
+    {
+        "name": "I SY E 859"
+    },
+    {
+        "name": "PSYCH 859"
+    },
+    {
+        "name": "ANTHRO 860"
+    },
+    {
+        "name": "CS&D 860"
+    },
+    {
+        "name": "COUN PSY 860"
+    },
+    {
+        "name": "CURRIC 860"
+    },
+    {
+        "name": "ELPA 860"
+    },
+    {
+        "name": "LAW 860"
+    },
+    {
+        "name": "RP & SE 860"
+    },
+    {
+        "name": "CS&D 861"
+    },
+    {
+        "name": "COMP SCI 861"
+    },
+    {
+        "name": "E C E 861"
+    },
+    {
+        "name": "STAT 861"
+    },
+    {
+        "name": "LAW 862"
+    },
+    {
+        "name": "CS&D 863"
+    },
+    {
+        "name": "ELPA 863"
+    },
+    {
+        "name": "ELPA 870"
+    },
+    {
+        "name": "SOC WORK 870"
+    },
+    {
+        "name": "ECON 871"
+    },
+    {
+        "name": "POLI SCI 871"
+    },
+    {
+        "name": "PUB AFFR 871"
+    },
+    {
+        "name": "RP & SE 871"
+    },
+    {
+        "name": "BIOCHEM 872"
+    },
+    {
+        "name": "CHEM 872"
+    },
+    {
+        "name": "HDFS 872"
+    },
+    {
+        "name": "LAW 873"
+    },
+    {
+        "name": "SOC WORK 873"
+    },
+    {
+        "name": "POLI SCI 874"
+    },
+    {
+        "name": "PUB AFFR 874"
+    },
+    {
+        "name": "URB R PL 874"
+    },
+    {
+        "name": "AN SCI 875"
+    },
+    {
+        "name": "ART HIST 875"
+    },
+    {
+        "name": "BSE 875"
+    },
+    {
+        "name": "C&E SOC 875"
+    },
+    {
+        "name": "DY SCI 875"
+    },
+    {
+        "name": "ELPA 875"
+    },
+    {
+        "name": "ENTOM 875"
+    },
+    {
+        "name": "FOOD SCI 875"
+    },
+    {
+        "name": "GEOSCI 875"
+    },
+    {
+        "name": "I SY E 875"
+    },
+    {
+        "name": "L I S 875"
+    },
+    {
+        "name": "MICROBIO 875"
+    },
+    {
+        "name": "PL PATH 875"
+    },
+    {
+        "name": "POP HLTH 875"
+    },
+    {
+        "name": "REAL EST 875"
+    },
+    {
+        "name": "SOC WORK 875"
+    },
+    {
+        "name": "SOC 875"
+    },
+    {
+        "name": "ELPA 878"
+    },
+    {
+        "name": "COMP SCI 880"
+    },
+    {
+        "name": "ED PSYCH 880"
+    },
+    {
+        "name": "HDFS 880"
+    },
+    {
+        "name": "JOURN 880"
+    },
+    {
+        "name": "NURSING 880"
+    },
+    {
+        "name": "PUB AFFR 880"
+    },
+    {
+        "name": "SOC WORK 880"
+    },
+    {
+        "name": "A A E 881"
+    },
+    {
+        "name": "B M I 881"
+    },
+    {
+        "name": "ENVIR ST 881"
+    },
+    {
+        "name": "GEN BUS 881"
+    },
+    {
+        "name": "OCC THER 881"
+    },
+    {
+        "name": "POP HLTH 881"
+    },
+    {
+        "name": "PUB AFFR 881"
+    },
+    {
+        "name": "GEN BUS 882"
+    },
+    {
+        "name": "B M I 883"
+    },
+    {
+        "name": "GEN BUS 883"
+    },
+    {
+        "name": "KINES 885"
+    },
+    {
+        "name": "ELPA 886"
+    },
+    {
+        "name": "ELPA 887"
+    },
+    {
+        "name": "E C E 888"
+    },
+    {
+        "name": "MATH 888"
+    },
+    {
+        "name": "PUB AFFR 888"
+    },
+    {
+        "name": "STAT 888"
+    },
+    {
+        "name": "B M E 890"
+    },
+    {
+        "name": "CBE 890"
+    },
+    {
+        "name": "CHEM 890"
+    },
+    {
+        "name": "CIV ENGR 890"
+    },
+    {
+        "name": "ELPA 890"
+    },
+    {
+        "name": "E C E 890"
+    },
+    {
+        "name": "E M A 890"
+    }
+]

@@ -1,12 +1,11 @@
 import React, { useState} from 'react';
 import { toast, ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import JSONData from './test.json';
+import JSONData from './unique_classes.json';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faChevronDown, faChevronUp } from '@fortawesome/free-solid-svg-icons';
 import { useUserAuth } from '../../context/UserAuthContext';
-
-
+import { filter } from 'lodash';
 
 // import sgMail from '@sendgrid/mail';
 import { useNavigate } from 'react-router-dom';
@@ -104,10 +103,9 @@ function JSONDataDisplay() {
     setShowSubscriptions(!showSubscriptions);
   };
 
-  const filteredData = JSONData.filter((info) =>
-    info.name.toLowerCase().includes(searchTerm.toLowerCase())
-  );
-
+  const filteredData = filter(JSONData, (info) =>
+  info.name.toLowerCase().includes(searchTerm.toLowerCase())
+);
   const initialTableData = filteredData.filter((info) => !subscribedClasses.includes(info.name));
 
   const subscribedTableData = filteredData.filter((info) => subscribedClasses.includes(info.name));
