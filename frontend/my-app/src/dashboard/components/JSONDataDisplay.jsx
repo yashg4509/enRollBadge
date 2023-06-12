@@ -113,7 +113,7 @@ function JSONDataDisplay() {
       <tr key={info.name}>
         <td>{info.name}</td>
         <td>
-          <button className="btn btn-primary" onClick={() => handleSubscribe(info.name)}>
+          <button className="btn btn-success" onClick={() => handleSubscribe(info.name)}>
             Subscribe
           </button>
         </td>
