@@ -75,12 +75,12 @@ function Footer() {
             </span>
             <span className="github-text">GitHub</span>
           </a>
-          <a className="donate-button orange" href={donateLink} target="_blank" rel="noopener noreferrer">
+          {/* <a className="donate-button orange" href={donateLink} target="_blank" rel="noopener noreferrer">
             <span className="donate-icon">
               <FaHeart />
             </span>
             Donate
-          </a>
+          </a> */}
         </div>
         <div className="footer-statement">Unaffiliated with UW Madison</div>
         <div className="footer-last-updated">{lastCommitInfo}</div>

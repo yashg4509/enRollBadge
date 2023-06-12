@@ -1,9 +1,14 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import Footer from "./Footer.jsx";
 import Card from "react-bootstrap/Card";
 import "./About.css"; // Import the CSS file for styling
+import { FaGithub, FaHeart } from "react-icons/fa";
+import "./footer.css";
 
 const About = () => {
+  const donateLink = "https://fundly.com/uw-madison-course-notification";
+  const feedbackLink = "https://forms.gle/65xy8qoiGbTDiooW8";
+
   return (
     <div className="about-container">
       <div className="about-content">
@@ -60,6 +65,39 @@ const About = () => {
                 money. Help us keep this project going by clicking the 'Donate'
                 button below.
               </Card.Text>
+              <div
+                className="footer-buttons my-4"
+                style={{
+                  display: "flex",
+                  justifyContent: "center",
+                  padding: "10px 0",
+                }}
+              >
+                <a
+                  className="feedback-button green"
+                  href={feedbackLink}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ margin: "0 10px" }}
+                >
+                  <span className="feedback-icon">
+                    <FaHeart />
+                  </span>
+                  Feedback
+                </a>
+                <a
+                  className="donate-button orange"
+                  href={donateLink}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ margin: "0 10px" }}
+                >
+                  <span className="donate-icon">
+                    <FaHeart />
+                  </span>
+                  Donate
+                </a>
+              </div>
             </Card.Body>
           </Card>
         </div>

@@ -70,6 +70,7 @@
     margin-top: 10px; 
   }
   
+  
   .github-button,
   .donate-button {
     display: flex;
@@ -96,6 +97,15 @@
     margin-right: 10px; /* Add margin between buttons */
   }
   
+  .feedback-button{
+    background-color:#4484c4;
+    color: #fff;
+    margin-right: 10px; /* Add margin between buttons */
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+  }
   .github-button:hover,
   .donate-button:hover {
     background-color: #333;
