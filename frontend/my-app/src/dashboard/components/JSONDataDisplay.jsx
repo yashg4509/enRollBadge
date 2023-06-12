@@ -107,7 +107,7 @@ function JSONDataDisplay() {
   const endIndex = startIndex + itemsPerPage;
   const itemsToDisplay = initialTableData.slice(startIndex, endIndex);
 
-  const subscribedTableData = filteredData.filter((info) => subscribedClasses.includes(info.name));
+  const subscribedTableData = filter(JSONData, (info) => subscribedClasses.includes(info.name));
 
   const DisplayData = itemsToDisplay.map((info) => {
     return (
@@ -232,6 +232,7 @@ function JSONDataDisplay() {
           style={{ width: '80px' }}
         />
       </div>
+
 
       <ToastContainer />
     </div>
