@@ -19,22 +19,16 @@ function App2() {
           <Container>
             <Row>
               <Col>
-                <Routes>
-                  <Route
-                    path="/home"
-                    element={
-                      <ProtectedRoute>
-                        <App />
-                      </ProtectedRoute>
-                    }
-                  />
+              <Routes>
+              <Route path="/" element={<App />} />
                   <Route path="/about" element={<About />} />
                   <Route path="/help" element={<Help />} />
-                  <Route path="/" element={<Login />} />
+                  <Route path="/login" element={<Login />} />
                   <Route path="/signup" element={<Signup />} />
-                </Routes>
+              </Routes>
+
               </Col>
-            </Row>
+            </Row>    
           </Container>
         </div>
       </UserAuthContextProvider>

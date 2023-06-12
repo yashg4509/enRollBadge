@@ -10,9 +10,7 @@
     align-items: center;
   }
   
-  .footer-made-by {
-    margin-bottom: 10px;
-  }
+
   
   .footer-made-by a {
     color: #4484c4;
@@ -24,7 +22,7 @@
     text-decoration: underline;
   }
   
-  .github-button {
+  /* .github-button {
     background-color: #000;
     display: flex;
     align-items: center;
@@ -32,7 +30,7 @@
     padding: 10px;
     border-radius: 4px;
     text-decoration: none;
-  }
+  } */
   
   .github-icon {
     color: #fff;
@@ -63,5 +61,52 @@
   .footer-last-updated {
     font-size: 14px;
     color: #666;
+  }
+  
+
+  .footer-buttons {
+    display: flex;
+    align-items: center;
+    margin-top: 10px; 
+  }
+  
+  .github-button,
+  .donate-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .github-button {
+    background-color: #000;
+    color: #fff;
+    margin-right: 10px; /* Add margin between buttons */
+  }
+  
+  .donate-button {
+    background-color: orange;
+    color: #fff;
+    margin-right: 10px; /* Add margin between buttons */
+  }
+  
+  .github-button:hover,
+  .donate-button:hover {
+    background-color: #333;
+  }
+  
+  .github-icon,
+  .donate-icon {
+    margin-right: 8px;
+  }
+  
+  .github-text {
+    margin-left: 8px;
   }
   

@@ -1,0 +1,30 @@
+.about-container {
+    padding: 20px;
+  }
+  
+  .about-heading {
+    color: #333;
+  }
+  
+  .about-card {
+    margin-bottom: 20px;
+  }
+  
+  .highlighted-card {
+    background-color: #f8f8f8;
+    border: 2px solid #4285f4;
+    padding: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    .about-card {
+      border-radius: 0;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .about-card {
+      border-radius: 10px;
+    }
+  }
+  
