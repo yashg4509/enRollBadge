@@ -135,14 +135,17 @@ function JSONDataDisplay() {
   });
 
   return (
-    <div className="container text-center">
-      <input
-        type="text"
-        placeholder="Search"
-        value={searchTerm}
-        onChange={(e) => setSearchTerm(e.target.value)}
-        className="form-control my-4"
-      />
+    < div className="container text-center">
+    <input
+      type="text"
+      placeholder="Search"
+      value={searchTerm}
+      onChange={(e) => setSearchTerm(e.target.value)}
+      className="form-control my-4"
+      style={{ width: '400px', margin: '0 auto' }}
+    />
+  
+  
 
       <div className="mb-4 d-flex align-items-center">
         <h2 className="my-0">My Subscriptions</h2>

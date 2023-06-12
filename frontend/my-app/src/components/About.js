@@ -82,8 +82,8 @@ const About = () => {
             <Card.Text>
               Don't let course enrollment stress you out. Take control of your
               academic journey with EnrollBadger. Sign up today and gain the
-              advantage of real-time notifications for course availability at
-              UW Madison. Streamline your course selection process, secure your
+              advantage of real-time notifications for course availability at UW
+              Madison. Streamline your course selection process, secure your
               preferred classes, and make the most of your time as a college
               student. EnrollBadger is your key to a smoother and more
               successful enrollment experience.
