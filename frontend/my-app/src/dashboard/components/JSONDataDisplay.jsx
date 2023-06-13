@@ -27,6 +27,8 @@ function JSONDataDisplay() {
     if(user){
       console.log(user.email)
     }
+    //call API here
+    //get the response from the API and call setSubscribedClasses with data.subscribed
   }, [user])
 
 

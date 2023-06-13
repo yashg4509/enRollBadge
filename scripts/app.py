@@ -90,6 +90,36 @@ def signUpClasses():
         conn.close()
         return jsonify({"error": "failure"}), 400 
 
+@app.route('/getclasses', methods=['POST'])
+def getClasses():
+    conn = connect_to_database()
+    cursor = conn.cursor()
+    try:
+        data = request.get_json()
+        email = data['email']
+        cursor.execute("SELECT ID FROM USERS WHERE USER_EMAIL = ?", (email,))
+        user_id = cursor.fetchone()[0]
+
+        cursor.execute("SELECT CLASS_ID FROM USER_CLASS WHERE USER_ID = ?", (user_id,))
+        rows = cursor.fetchall()
+        
+        class_names = []
+        for r in rows:
+            class_id = r[0]
+            cursor.execute("SELECT CLASS_NAME FROM CLASSES WHERE ID = ?", (class_id,))
+            class_name = cursor.fetchone()[0]
+
+            class_names.append(class_name)
+
+        return jsonify({"subscribed": class_names}), 200
+
+
+
+    except Exception:
+        print(traceback.print_exc())
+        conn.close()
+        return jsonify({"error": "failure"}), 400
+
 
 if __name__ == '__main__':
     app.run(debug=True, port=8000)
