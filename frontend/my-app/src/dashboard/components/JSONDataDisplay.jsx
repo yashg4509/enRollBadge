@@ -6,6 +6,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faChevronDown, faChevronUp } from '@fortawesome/free-solid-svg-icons';
 import { useUserAuth } from '../../context/UserAuthContext';
 import { filter } from 'lodash';
+import axios from 'axios';
 
 // import sgMail from '@sendgrid/mail';
 import { useNavigate } from 'react-router-dom';
@@ -62,6 +63,22 @@ function JSONDataDisplay() {
 
     console.log('User Data:', userData);
 
+    const payload = {
+      className: className,
+      action: 'subscribe',
+      email: user.email,
+    };
+  
+    axios.post('/api/subscribe', payload)
+      .then(response => {
+        console.log('Subscription request sent successfully!');
+        // Handle any success response if needed
+      })
+      .catch(error => {
+        console.error('Error sending subscription request:', error);
+        // Handle any error if needed
+      });
+
   };
 
   const handleUnsubscribe = (className) => {
@@ -89,6 +106,22 @@ function JSONDataDisplay() {
     };
     
     console.log('User Data:', userData);
+
+    const payload = {
+      className: className,
+      action: 'unsubscribe',
+      email: user.email,
+    };
+  
+    axios.post('/api/unsubscribe', payload)
+      .then(response => {
+        console.log('Unsubscription request sent successfully!');
+        // Handle any success response if needed
+      })
+      .catch(error => {
+        console.error('Error sending unsubscription request:', error);
+        // Handle any error if needed
+      });
   };
 
   const handleToggleSubscriptions = () => {
