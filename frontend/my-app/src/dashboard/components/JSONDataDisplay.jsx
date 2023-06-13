@@ -3,7 +3,7 @@ import { toast, ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import JSONData from './unique_classes.json';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faChevronDown, faChevronUp } from '@fortawesome/free-solid-svg-icons';
+import { faChevronDown, faChevronRight } from '@fortawesome/free-solid-svg-icons';
 import { useUserAuth } from '../../context/UserAuthContext';
 import { filter } from 'lodash';
 import axios from 'axios';
@@ -227,7 +227,7 @@ function JSONDataDisplay() {
           onClick={handleToggleSubscriptions}
           aria-expanded={showSubscriptions}
         >
-          <FontAwesomeIcon icon={showSubscriptions ? faChevronUp : faChevronDown} />
+          <FontAwesomeIcon icon={showSubscriptions ? faChevronDown : faChevronRight} />
         </button>
       </div>
 
