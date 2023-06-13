@@ -3,17 +3,29 @@ import concurrent_madison, madison
 
 conn = sqlite3.connect('enroll.db')
 cursor = conn.cursor()
-cursor.execute("SELECT * FROM ACTIVE_CLASSES")
+
+#getting disctinct classes
+cursor.execute("SELECT DISTINCT CLASS_ID FROM USER_CLASS")
 rows = cursor.fetchall()
+
+classes = []
 
 class_dict = {}
 
 for r in rows:
-	class_dict[r[1]] = True if r[2] == 1 else False
+	cursor.execute("SELECT CLASS_NAME, STATUS FROM CLASSES WHERE ID = ?", (r[0],))
+	row = cursor.fetchone()
+
+	class_name = row[0]
+	status = row[1]
+
+	class_dict[class_name] = True if status == 1 else False
+
+print(class_dict)
+
 
 new_class_dict = concurrent_madison.classes_to_api(class_dict)
 # new_class_dict = {'COMP SCI 400': False, 'MATH 222': True, 'ENGL 140': False}
-print(class_dict)
 print(new_class_dict)
 
 changes = {}
@@ -42,9 +54,16 @@ for c in changes:
 	rows = cursor.fetchall()
 
 	for r in rows:
-		notifications.append({"userID": r[0], "classID": c})
-print(notifications)
+		notifications.append({"userID": r[0], "classID": c, "status": changes[c]})
 
+print(notifications)
+#after sending notifications
+for n in new_class_dict:
+	status_ = 1 if new_class_dict[n] == True else 0
+
+	cursor.execute("UPDATE CLASSES SET STATUS = ? WHERE CLASS_NAME = ?", (status_, n))
+
+conn.commit()
 
 conn.close()
 
