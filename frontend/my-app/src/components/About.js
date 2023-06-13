@@ -6,10 +6,12 @@ import "./About.css"; // Import the CSS file for styling
 import { FaHeart } from "react-icons/fa";
 import { BsPencilFill } from "react-icons/bs";
 import "./footer.css";
+import { useUserAuth } from "../context/UserAuthContext";
 
 const About = () => {
   const donateLink = "https://fundly.com/uw-madison-course-notification";
   const feedbackLink = "https://forms.gle/65xy8qoiGbTDiooW8";
+  const { user } = useUserAuth();
 
   return (
     <div className="about-container">
@@ -39,9 +41,13 @@ const About = () => {
                 steps: Log in, Search, and Subscribe.
                 <br />
                 <br />
-                <Link to="/signup">
+                {user ? (
                   <h5 id="getstarted">Get Started With EnRollBadge Today!</h5>
-                </Link>
+                ) : (
+                  <Link to="/signup">
+                    <h5 id="getstarted">Get Started With EnRollBadge Today!</h5>
+                  </Link>
+                )}
               </Card.Text>
             </Card.Body>
           </Card>
