@@ -38,7 +38,8 @@ function Footer() {
       const lastCommitSha = await getLastCommit();
       const lastCommitDate = await getCommitDate(lastCommitSha);
       const formattedDate = formatCommitDate(lastCommitDate);
-      const commitInfo = `Last updated: ${formattedDate}`;
+      // const commitInfo = `Last updated: ${formattedDate}`;
+      const commitInfo = `Last Updated For: Fall 2023`;
       setLastCommitInfo(commitInfo);
     };
 
