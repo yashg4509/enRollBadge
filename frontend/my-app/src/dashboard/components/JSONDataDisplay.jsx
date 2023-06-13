@@ -17,7 +17,7 @@ function JSONDataDisplay() {
   const [subscribedClasses, setSubscribedClasses] = useState([]);
   const [showSubscriptions, setShowSubscriptions] = useState(true);
   const [currentPage, setCurrentPage] = useState(1);
-  const itemsPerPage = 10;
+  const itemsPerPage = 15;
   
   const { logOut, user } = useUserAuth();
 
@@ -233,27 +233,28 @@ function JSONDataDisplay() {
       </div>
 
   
-      <div className="pagination mt-4">
-        <button
-          disabled={currentPage === 1}
-          onClick={() => handlePageChange(currentPage - 1)}
-          className="btn btn-primary mr-2"
-        >
-          Previous
-        </button>
-        <span>
-          Page {currentPage} of {totalPages}
-        </span>
-        <button
-          disabled={currentPage === totalPages}
-          onClick={() => handlePageChange(currentPage + 1)}
-          className="btn btn-primary ml-2"
-        >
-          Next
-        </button>
-      </div>
+      <div className="pagination mt-4 d-flex justify-content-center align-items-center" style={{ paddingBottom: "20px" }}>
+  <button
+    disabled={currentPage === 1}
+    onClick={() => handlePageChange(currentPage - 1)}
+    className="btn btn-primary mr-2"
+  >
+    Previous
+  </button>
+  <span className="mx-2">
+    Page {currentPage} of {totalPages}
+  </span>
+  <button
+    disabled={currentPage === totalPages}
+    onClick={() => handlePageChange(currentPage + 1)}
+    className="btn btn-primary ml-2"
+  >
+    Next
+  </button>
+</div>
 
-      <div className="mt-3">
+
+      {/* <div className="mt-3">
         <span>Go to page:</span>
         <input
           type="number"
@@ -264,7 +265,7 @@ function JSONDataDisplay() {
           className="form-control d-inline-block ml-2"
           style={{ width: '80px' }}
         />
-      </div>
+      </div> */}
 
 
       <ToastContainer />
