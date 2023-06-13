@@ -45,6 +45,7 @@ def signUpClasses():
     cursor = conn.cursor()
     try:
         data = request.get_json() # {"classes": [array of classes], "email": "fred@gmail.com"}
+        print(data)
         classes = data["classes"]
         email = data["email"]
 

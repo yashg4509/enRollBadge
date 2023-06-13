@@ -25,11 +25,35 @@ function JSONDataDisplay() {
 
   React.useEffect(() => {
     if(user){
-      console.log(user.email)
+      console.log(user.email);
+      callAPI(user.email);
     }
     //call API here
     //get the response from the API and call setSubscribedClasses with data.subscribed
   }, [user])
+
+
+  async function callAPI(email) {
+    try {
+      const response = await fetch("http://127.0.0.1:8000/getclasses", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ email }),
+      });
+
+      if (!response.ok) {
+        throw new Error("API call failed");
+      }
+
+      const data = await response.json();
+      console.log("API response:", data);
+      setSubscribedClasses(data.subscribed);
+    } catch (error) {
+      console.error("An error occurred during the API call:", error);
+    }
+  }
 
 
   const handleSubscribe = (className) => {
