@@ -6,8 +6,7 @@ cursor = connection.cursor()
 cursor.execute('''CREATE TABLE IF NOT EXISTS USERS
                 (
                     ID INTEGER PRIMARY KEY AUTOINCREMENT, 
-                    USER_EMAIL TEXT, 
-                    USER_PASSWORD TEXT
+                    USER_EMAIL TEXT
                 );''')
 
 cursor.execute('''CREATE TABLE IF NOT EXISTS CLASSES
@@ -26,8 +25,13 @@ cursor.execute('''CREATE TABLE IF NOT EXISTS USER_CLASS
                     FOREIGN KEY(CLASS_ID) REFERENCES CLASSES(ID)
                 );''')
 
-# add a user to
-
+cursor.execute('''CREATE TABLE IF NOT EXISTS ACTIVE_CLASSES
+                (
+                    ID INTEGER PRIMARY KEY AUTOINCREMENT, 
+                    CLASS_NAME TEXT,
+                    CLASS_ID INTEGER,
+                    FOREIGN KEY(CLASS_ID) REFERENCES CLASSES(ID)
+                );''')
 
 connection.commit()
 connection.close()

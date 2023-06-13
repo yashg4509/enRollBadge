@@ -3,7 +3,7 @@ import concurrent_madison, madison
 
 conn = sqlite3.connect('enroll.db')
 cursor = conn.cursor()
-cursor.execute("SELECT * FROM CLASSES")
+cursor.execute("SELECT * FROM ACTIVE_CLASSES")
 rows = cursor.fetchall()
 
 class_dict = {}
