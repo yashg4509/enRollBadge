@@ -32,6 +32,10 @@ function JSONDataDisplay() {
     //get the response from the API and call setSubscribedClasses with data.subscribed
   }, [user])
 
+  React.useEffect(() => {
+  setCurrentPage(1);
+}, [searchTerm]);
+
 
   async function callAPI(email) {
     try {
