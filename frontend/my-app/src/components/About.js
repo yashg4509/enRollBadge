@@ -16,12 +16,7 @@ const About = () => {
   return (
     <div className="about-container">
       <div className="about-content">
-        <h5
-          className="text-center my-3 about-heading"
-          style={{ textDecoration: "underline" }}
-        >
-          ABOUT
-        </h5>
+      <h1 className="text-center my-4">About</h1>
         <h5 className="text-center" style={{ color: "gray" }}>
           Simplifying Course Enrollment at UW Madison.
         </h5>
@@ -52,12 +47,8 @@ const About = () => {
             </Card.Body>
           </Card>
         </div>
-        <h5
-          className="text-center my-3 about-heading"
-          style={{ textDecoration: "underline" }}
-        >
-          HELP
-        </h5>
+        <h1 className="text-center my-4">Help</h1>
+
         <div style={{ display: "flex", justifyContent: "center" }}>
           <Card
             className="about-card"
