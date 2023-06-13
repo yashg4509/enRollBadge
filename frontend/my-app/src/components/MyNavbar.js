@@ -3,6 +3,7 @@ import { Navbar } from "react-bootstrap";
 import { Link, useLocation } from "react-router-dom";
 import { useUserAuth } from "../context/UserAuthContext";
 import { useNavigate } from "react-router";
+import Logo from "./png/white.png";
 
 const CustomNavbar = () => {
   const location = useLocation();
@@ -20,9 +21,17 @@ const CustomNavbar = () => {
 
   return (
     <>
-      <Navbar bg="dark" variant="dark">
+      <Navbar
+        bg="dark"
+        variant="dark"
+        style={{ color: "black", height: "90px" }}
+      >
         <Navbar.Brand as={Link} to="/" style={{ paddingLeft: "10px" }}>
-          EnRollBadge
+          <img
+            src={Logo}
+            alt="Logo"
+            style={{ height: "50px", paddingLeft: "10px" }}
+          />
         </Navbar.Brand>
         <div
           className="ms-auto"
