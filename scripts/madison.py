@@ -110,8 +110,13 @@ def check_class_status(name):
     'sec-ch-ua-platform': '"macOS"'
   }
 
+  proxies = {
+    "http": "http://gate2.proxyfuel.com:2000",
+    "https": "http://gate2.proxyfuel.com:2000"
+}
+
   print("Sending request for " + name + "...")
-  response = requests.request("POST", url, headers=headers, data=payload)
+  response = requests.request("POST", url, headers=headers, data=payload, proxies=proxies)
   print("Response found!")
 
   if(course_name not in response.text):

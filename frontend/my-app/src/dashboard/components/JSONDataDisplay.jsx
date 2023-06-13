@@ -130,22 +130,17 @@ function JSONDataDisplay() {
       email: user.email,
       classes: updatedSubscribedClasses,
     };
-    
+
     console.log('User Data:', userData);
 
-    const payload = {
-      className: className,
-      action: 'unsubscribe',
-      email: user.email,
-    };
   
-    axios.post('/api/unsubscribe', payload)
+    axios.post('http://127.0.0.1:8000/signup', userData)
       .then(response => {
-        console.log('Unsubscription request sent successfully!');
+        console.log('Subscription request sent successfully!');
         // Handle any success response if needed
       })
       .catch(error => {
-        console.error('Error sending unsubscription request:', error);
+        console.error('Error sending subscription request:', error);
         // Handle any error if needed
       });
   };

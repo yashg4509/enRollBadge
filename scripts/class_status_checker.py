@@ -1,5 +1,5 @@
 import sqlite3
-import concurrent_madison, madison
+import concurrent_madison, madison, batched_calls
 
 conn = sqlite3.connect('enroll.db')
 cursor = conn.cursor()
@@ -24,7 +24,7 @@ for r in rows:
 print(class_dict)
 
 
-new_class_dict = concurrent_madison.classes_to_api(class_dict)
+new_class_dict = batched_calls.classes_to_api(class_dict)
 # new_class_dict = {'COMP SCI 400': False, 'MATH 222': True, 'ENGL 140': False}
 print(new_class_dict)
 
