@@ -90,7 +90,7 @@ def check_class_status(name):
       }
     ],
     "page": 1,
-    "pageSize": 50,
+    "pageSize": 1,
     "sortOrder": "SCORE"
   })
   headers = {

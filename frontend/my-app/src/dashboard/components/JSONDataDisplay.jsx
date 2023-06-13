@@ -23,6 +23,11 @@ function JSONDataDisplay() {
 
   const navigate = useNavigate();
 
+  React.useEffect(() => {
+    if(user){
+      console.log(user.email)
+    }
+  }, [user])
 
 
   const handleSubscribe = (className) => {
@@ -63,13 +68,8 @@ function JSONDataDisplay() {
 
     console.log('User Data:', userData);
 
-    const payload = {
-      className: className,
-      action: 'subscribe',
-      email: user.email,
-    };
   
-    axios.post('/api/subscribe', payload)
+    axios.post('http://127.0.0.1:8000/signup', userData)
       .then(response => {
         console.log('Subscription request sent successfully!');
         // Handle any success response if needed

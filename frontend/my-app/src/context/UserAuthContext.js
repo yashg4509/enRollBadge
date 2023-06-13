@@ -9,23 +9,40 @@ import {
 } from "firebase/auth";
 import { auth } from "../firebase";
 
+// Import the API function to call
+import { callAPI } from "./callApi"; // Replace "../api" with the correct path to your API file
+
 export const userAuthContext = createContext();
 
 export function UserAuthContextProvider({ children }) {
   const [user, setUser] = useState({});
 
-  function logIn(email, password) {
+  async function logIn(email, password) {
+    // Call the API function on login
+    await callAPI(email);
+
     return signInWithEmailAndPassword(auth, email, password);
   }
-  function signUp(name, email, password) {
+
+  async function signUp(name, email, password) {
+    // Call the API function on signup
+    await callAPI(email);
+
     return createUserWithEmailAndPassword(auth, email, password);
   }
+
+  async function googleSignIn() {
+    // Call the API function on Google sign in
+    const googleAuthProvider = new GoogleAuthProvider();
+    await signInWithPopup(auth, googleAuthProvider);
+    const currentUser = auth.currentUser;
+    if (currentUser && currentUser.email) {
+      await callAPI(currentUser.email);
+    }
+  }
+
   function logOut() {
     return signOut(auth);
-  }
-  function googleSignIn() {
-    const googleAuthProvider = new GoogleAuthProvider();
-    return signInWithPopup(auth, googleAuthProvider);
   }
 
   useEffect(() => {
@@ -37,6 +54,13 @@ export function UserAuthContextProvider({ children }) {
       unsubscribe();
     };
   }, []);
+
+  // Fetch the user's email
+  useEffect(() => {
+    if (user && user.email) {
+      console.log("Logged in user email:", user.email);
+    }
+  }, [user]);
 
   return (
     <userAuthContext.Provider

@@ -3,6 +3,7 @@ import JSONDataDisplay from './JSONDataDisplay'
 
 
 function ClassTable() {
+  
   return (
     <JSONDataDisplay />
   )

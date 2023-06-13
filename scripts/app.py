@@ -1,8 +1,10 @@
 from flask import Flask, jsonify, request
 import sqlite3
 import traceback
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 DATABASE = 'enroll.db'
 
