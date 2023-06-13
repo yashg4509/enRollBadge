@@ -4,7 +4,7 @@ import { BrowserRouter as Route } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import App2 from "./App";
 import 'typeface-inter';
-import "./fonts.css";
+import './index.css'
 
 
 

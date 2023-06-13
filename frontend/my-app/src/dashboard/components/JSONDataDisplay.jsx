@@ -24,6 +24,12 @@ function JSONDataDisplay() {
   const navigate = useNavigate();
 
   React.useEffect(() => {
+    if (!user) {
+      setSubscribedClasses([]); // Clear subscribed classes when user logs out
+    }
+  }, [user]);
+
+  React.useEffect(() => {
     if(user){
       console.log(user.email);
       callAPI(user.email);

@@ -33,8 +33,8 @@ const About = () => {
           >
             <Card.Body>
               <Card.Text style={{ textAlign: "center", fontSize: 14 }}>
-                Are you one of us who keeps checking for course availability
-                every five minutes? Don't let that stress you out anymore! Take
+                We have all been there: you didn't get any of the classes you wanted and now you constantly have to check when the class opens up.
+                Don't let that stress you out anymore! Take
                 control of your academic journey with EnRollBadge. Sign up today
                 and gain the advantage of real-time notifications for course
                 availability at UW Madison. Get notified in just three easy
