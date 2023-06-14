@@ -8,7 +8,7 @@ def make_api_call(cl):
     return madison.check_class_status(cl)
 
 def classes_to_api(class_dict):
-    batch_size = 5
+    batch_size = 3
 
     # List of API URLs
     classes = []
