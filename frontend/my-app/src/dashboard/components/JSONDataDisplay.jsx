@@ -85,17 +85,7 @@ function JSONDataDisplay() {
       draggable: false,
     });
 
-    // const emailContent = `Subscribed to class: ${className}`;
-    // const msg = {
-    //   to: user.email,
-    //   from: 'ysgupta@wisc.edu',
-    //   subject: 'Subscription Confirmation',
-    //   text: emailContent,
-    // };
-    // sgMail.send(msg)
-    //   .then(() => console.log('Email sent'))
-    //   .catch((error) => console.error(error));
-
+  
     const updatedSubscribedClasses = [...subscribedClasses, className];
     setSubscribedClasses(updatedSubscribedClasses);
 
@@ -116,6 +106,22 @@ function JSONDataDisplay() {
         console.error('Error sending subscription request:', error);
         // Handle any error if needed
       });
+
+    // SUBSCRIBE NOTIFICATION
+     // Send API request to backend server
+  axios.post('http://localhost:3000/api/subscribe', {
+    className: className,
+    action: 'subscribed',
+    email: user.email
+  })
+    .then(response => {
+      console.log('Subscription request sent successfully!');
+      // Handle any success response if needed
+    })
+    .catch(error => {
+      console.error('Error sending subscription request:', error);
+      // Handle any error if needed
+    });
 
   };
 
@@ -155,6 +161,24 @@ function JSONDataDisplay() {
         console.error('Error sending subscription request:', error);
         // Handle any error if needed
       });
+
+
+      // UNSUBSCRIBE NOTIFICATION
+      axios.post('http://localhost:3000/api/unsubscribe', {
+        className: className,
+        action: 'unsubscribed',
+        email: user.email
+      })
+        .then(response => {
+          console.log('Subscription request sent successfully!');
+          // Handle any success response if needed
+        })
+        .catch(error => {
+          console.error('Error sending subscription request:', error);
+          // Handle any error if needed
+        });
+
+
   };
 
   const handleToggleSubscriptions = () => {
