@@ -11,7 +11,7 @@ import axios from 'axios';
 // import sgMail from '@sendgrid/mail';
 import { useNavigate } from 'react-router-dom';
 
-const apiLink = "161.35.126.134:8000";
+const apiLink = "127.0.0.1:8000";
 
 function JSONDataDisplay() {
   const [searchTerm, setSearchTerm] = useState('');

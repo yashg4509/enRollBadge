@@ -1,12 +1,14 @@
 import concurrent.futures
-import requests, madison
+import requests
+import madison
+import time
 
-# Define a function that makes an API call and returns a boolean result  
+# Define a function that makes an API call and returns a boolean result
 def make_api_call(cl):
     return madison.check_class_status(cl)
 
 def classes_to_api(class_dict):
-    batch_size = 10
+    batch_size = 5
 
     # List of API URLs
     classes = []
@@ -25,15 +27,14 @@ def classes_to_api(class_dict):
 
     with concurrent.futures.ThreadPoolExecutor() as executor:
         for i in range(num_batches):
-            
-            # classes for current batch
-            batch_classes = classes[i*batch_size:(i+1)*batch_size]
-            batch_bools = bools[i*batch_size:(i+1)*batch_size]
+            # Classes for the current batch
+            batch_classes = classes[i * batch_size : (i + 1) * batch_size]
+            batch_bools = bools[i * batch_size : (i + 1) * batch_size]
 
-            # submitting futures API for each batch
+            # Submitting futures API for each batch
             future_to_url = {executor.submit(make_api_call, cl): cl for cl in batch_classes}
 
-            # waiting for the current batch
+            # Waiting for the current batch
             for future in concurrent.futures.as_completed(future_to_url):
                 url = future_to_url[future]
                 try:
@@ -43,30 +44,12 @@ def classes_to_api(class_dict):
                 else:
                     results.append(result)
 
+            # Introduce a delay of 1 second between batches
+            if i < num_batches - 1:
+                time.sleep(1)
+
     new_dict = {}
     for r in results:
         new_dict[r[1]] = r[0]
 
     return new_dict
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,5 +1,5 @@
 import sqlite3
-import concurrent_madison, madison, batched_calls
+import concurrent_madison, madison, batched_calls, email_notif
 
 conn = sqlite3.connect('enroll.db')
 cursor = conn.cursor()
@@ -62,6 +62,10 @@ for n in new_class_dict:
 	status_ = 1 if new_class_dict[n] == True else 0
 
 	cursor.execute("UPDATE CLASSES SET STATUS = ? WHERE CLASS_NAME = ?", (status_, n))
+
+for n in notifications:
+	email_notif.send_sub_notif(n)
+
 
 conn.commit()
 

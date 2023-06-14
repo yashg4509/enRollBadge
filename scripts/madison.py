@@ -3,6 +3,7 @@ import json
 import ast
 from random_user_agent.user_agent import UserAgent
 from random_user_agent.params import SoftwareName, OperatingSystem
+import traceback
 
 
 # you can also import SoftwareEngine, HardwareType, SoftwareType, Popularity from random_user_agent.params
@@ -112,13 +113,16 @@ def check_class_status(name):
       'sec-ch-ua-platform': '"macOS"'
     }
 
-    proxies = {
-      "http": "http://gate2.proxyfuel.com:2000",
-      "https": "http://gate2.proxyfuel.com:2000"
-  }
+    # proxies = {
+    #   "http": "http://gate2.proxyfuel.com:2000",
+    #   "https": "http://gate2.proxyfuel.com:2000"
+    #  }
+
+    # print("Sending request for " + name + "...")
+    # response = requests.request("POST", url, headers=headers, data=payload, proxies=proxies)
 
     print("Sending request for " + name + "...")
-    response = requests.request("POST", url, headers=headers, data=payload, proxies=proxies)
+    response = requests.request("POST", url, headers=headers, data=payload, verify=False)
     print("Response found!")
 
     if(course_name not in response.text):
