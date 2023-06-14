@@ -9,7 +9,7 @@ import "./footer.css";
 import { useUserAuth } from "../context/UserAuthContext";
 
 const About = () => {
-  const donateLink = "https://fundly.com/uw-madison-course-notification";
+  const donateLink = "https://www.paypal.com/donate/?business=QJVMT3XYM37NA&no_recurring=0&item_name=Your+donation+will+be+put+towards+the+hosting+and+operating+costs+of+enRollBadge.&currency_code=USD";
   const feedbackLink = "https://forms.gle/65xy8qoiGbTDiooW8";
   const { user } = useUserAuth();
 
