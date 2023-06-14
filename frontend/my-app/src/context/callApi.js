@@ -1,9 +1,11 @@
 // api.js
 
+const apiLink = "161.35.126.134:8000";
+
 export async function callAPI(email) {
     try {
       // Make the API call using the provided email
-      const response = await fetch("http://127.0.0.1:8000/createacct", {
+      const response = await fetch(`http://${apiLink}/createacct`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

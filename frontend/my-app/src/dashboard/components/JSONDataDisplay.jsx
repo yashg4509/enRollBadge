@@ -11,6 +11,7 @@ import axios from 'axios';
 // import sgMail from '@sendgrid/mail';
 import { useNavigate } from 'react-router-dom';
 
+const apiLink = "161.35.126.134:8000";
 
 function JSONDataDisplay() {
   const [searchTerm, setSearchTerm] = useState('');
@@ -46,7 +47,7 @@ function JSONDataDisplay() {
 
   async function callAPI(email) {
     try {
-      const response = await fetch("http://127.0.0.1:8000/getclasses", {
+      const response = await fetch{`http://${apiLink}/getclasses`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -106,7 +107,7 @@ function JSONDataDisplay() {
     console.log('User Data:', userData);
 
   
-    axios.post('http://127.0.0.1:8000/signup', userData)
+    axios.post(`http://${apiLink}/signup`, userData)
       .then(response => {
         console.log('Subscription request sent successfully!');
         // Handle any success response if needed
@@ -145,7 +146,7 @@ function JSONDataDisplay() {
     console.log('User Data:', userData);
 
   
-    axios.post('http://127.0.0.1:8000/signup', userData)
+    axios.post(`http://${apiLink}/signup`, userData)
       .then(response => {
         console.log('Subscription request sent successfully!');
         // Handle any success response if needed
