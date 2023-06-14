@@ -44,21 +44,20 @@ function JSONDataDisplay() {
     setCurrentPage(1);
   }, [searchTerm]);
   
-
   async function callAPI(email) {
     try {
-      const response = await fetch{`http://${apiLink}/getclasses`, {
+      const response = await fetch(`http://${apiLink}/getclasses`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({ email }),
       });
-
+  
       if (!response.ok) {
         throw new Error("API call failed");
       }
-
+  
       const data = await response.json();
       console.log("API response:", data);
       setSubscribedClasses(data.subscribed);
@@ -66,6 +65,7 @@ function JSONDataDisplay() {
       console.error("An error occurred during the API call:", error);
     }
   }
+  
 
 
   const handleSubscribe = (className) => {
