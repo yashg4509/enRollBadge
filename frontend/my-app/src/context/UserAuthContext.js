@@ -24,10 +24,11 @@ export function UserAuthContextProvider({ children }) {
     return signInWithEmailAndPassword(auth, email, password);
   }
 
-  async function signUp(name, email, password) {
+  async function signUp(email, password) {
     // Call the API function on signup
-    await callAPI(email);
+    console.log(email);
 
+    await callAPI(email);
     return createUserWithEmailAndPassword(auth, email, password);
   }
 
