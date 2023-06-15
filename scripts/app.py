@@ -2,6 +2,7 @@ from flask import Flask, jsonify, request
 import sqlite3
 import traceback
 from flask_cors import CORS
+import signup_email
 
 app = Flask(__name__)
 CORS(app)
@@ -83,6 +84,8 @@ def signUpClasses():
             if cursor.execute("SELECT * FROM USER_CLASS WHERE CLASS_ID = ? AND USER_ID = ?", (classid,user_id)).fetchone() == None:
                 cursor.execute("INSERT INTO USER_CLASS (USER_ID, CLASS_ID) VALUES(?, ?)", (user_id, classid))
 
+
+        signup_email.send_sub_notif(email, classes)
         conn.commit()
         conn.close()
         return jsonify({"message": "success"}), 200

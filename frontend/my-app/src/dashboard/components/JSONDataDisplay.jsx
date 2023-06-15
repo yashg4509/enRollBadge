@@ -11,7 +11,7 @@ import axios from 'axios';
 // import sgMail from '@sendgrid/mail';
 import { useNavigate } from 'react-router-dom';
 
-const apiLink = "127.0.0.1:8000";
+const apiLink = "161.35.126.134:8000";
 
 function JSONDataDisplay() {
   const [searchTerm, setSearchTerm] = useState('');
@@ -107,21 +107,21 @@ function JSONDataDisplay() {
         // Handle any error if needed
       });
 
-    // SUBSCRIBE NOTIFICATION
-     // Send API request to backend server
-  axios.post('http://localhost:3000/api/subscribe', {
-    className: className,
-    action: 'subscribed',
-    email: user.email
-  })
-    .then(response => {
-      console.log('Subscription request sent successfully!');
-      // Handle any success response if needed
-    })
-    .catch(error => {
-      console.error('Error sending subscription request:', error);
-      // Handle any error if needed
-    });
+  //   // SUBSCRIBE NOTIFICATION
+  //    // Send API request to backend server
+  // axios.post('http://localhost:3000/api/subscribe', {
+  //   className: className,
+  //   action: 'subscribed',
+  //   email: user.email
+  // })
+  //   .then(response => {
+  //     console.log('Subscription request sent successfully!');
+  //     // Handle any success response if needed
+  //   })
+  //   .catch(error => {
+  //     console.error('Error sending subscription request:', error);
+  //     // Handle any error if needed
+  //   });
 
   };
 
@@ -163,20 +163,20 @@ function JSONDataDisplay() {
       });
 
 
-      // UNSUBSCRIBE NOTIFICATION
-      axios.post('http://localhost:3000/api/unsubscribe', {
-        className: className,
-        action: 'unsubscribed',
-        email: user.email
-      })
-        .then(response => {
-          console.log('Subscription request sent successfully!');
-          // Handle any success response if needed
-        })
-        .catch(error => {
-          console.error('Error sending subscription request:', error);
-          // Handle any error if needed
-        });
+      // // UNSUBSCRIBE NOTIFICATION
+      // axios.post('http://localhost:3000/api/unsubscribe', {
+      //   className: className,
+      //   action: 'unsubscribed',
+      //   email: user.email
+      // })
+      //   .then(response => {
+      //     console.log('Subscription request sent successfully!');
+      //     // Handle any success response if needed
+      //   })
+      //   .catch(error => {
+      //     console.error('Error sending subscription request:', error);
+      //     // Handle any error if needed
+      //   });
 
 
   };

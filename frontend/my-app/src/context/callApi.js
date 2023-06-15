@@ -1,6 +1,6 @@
 // api.js
 
-const apiLink = "127.0.0.1:8000";
+const apiLink = "161.35.126.134:8000";
 
 export async function callAPI(email) {
     try {
