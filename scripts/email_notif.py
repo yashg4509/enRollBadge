@@ -20,12 +20,12 @@ def send_sub_notif(notif):
 		class_name = cursor.fetchone()[0]
 
 		if(notif['status'] == True):
-			subject = f"{class_name} is now open for enrollment!"
+			subject = f"{class_name} now has waitlist/open seats available!"
 
 			body = f"""
 
-			You signed up for a notification for when {class_name} opens for enrollment.
-			Now it is, please check public.enroll.wisc.edu.
+			You signed up for a notification for when the status for {class_name} changes.
+			The class now has waitlist seats or open seats available, please check.
 
 			Thanks,
 			enRollBadge.com
