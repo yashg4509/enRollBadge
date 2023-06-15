@@ -56,7 +56,7 @@ def check_class_status(name):
                 "must": [
                   {
                     "match": {
-                      "packageEnrollmentStatus.status": "OPEN"
+                      "packageEnrollmentStatus.status": "OPEN WAITLISTED"
                     }
                   },
                   {
