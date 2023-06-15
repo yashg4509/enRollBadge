@@ -67,6 +67,9 @@ for n in notifications:
 	email_notif.send_sub_notif(n)
 
 
+print("Database changes committed, cronjob instance closing")
+
+
 conn.commit()
 
 conn.close()
