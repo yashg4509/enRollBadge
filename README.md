@@ -3,6 +3,4 @@ This is the code that powers enRollBadge, a notification system that allows UW M
 
 For more information, check out https://enrollbadge.com/. 
 
-Also, we had to split our interface code, so to learn more about the interface, visit https://github.com/yashg4509/enRollBadgeInterface.
-
 Hope you enjoy the app!
