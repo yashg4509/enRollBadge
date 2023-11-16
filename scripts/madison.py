@@ -28,7 +28,7 @@ def check_class_status(name):
     found = False
 
     def get_referrer():
-      base = "https://public.enroll.wisc.edu/search?term=1242&keywords="
+      base = "https://public.enroll.wisc.edu/search?term=1244&keywords="
       end = ""
       course_name_split = course_name.split(" ")
 
@@ -45,7 +45,7 @@ def check_class_status(name):
 
 
     payload = json.dumps({
-      "selectedTerm": "1242",
+      "selectedTerm": "1244",
       "queryString": course_name,
       "filters": [
         {
